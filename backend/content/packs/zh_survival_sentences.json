@@ -1,0 +1,94 @@
+
+{
+  "metadata": {
+    "language": "zh",
+    "level": "survival",
+    "type": "sentences",
+    "total_sentences": 5
+  },
+  "sentences": [
+    {
+      "sentence_id": "S_ZH_SURVIVAL_001",
+      "language": "zh",
+      "text": "我去医院。",
+      "pinyin": "Wǒ qù yīyuàn.",
+      "translation_en": "I go to the hospital.",
+      "audio_id": "AUD_S_ZH_SURVIVAL_001",
+      "cefr_level": "A1",
+      "grammar_pattern": "SVO",
+      "difficulty_score": 1.0,
+      "linked_word_ids": [
+        "ZH_W0109", 
+        "ZH_W0081", 
+        "ZH_W0131"
+      ],
+      "primary_word_id": "ZH_W0131"
+    },
+    {
+      "sentence_id": "S_ZH_SURVIVAL_002",
+      "language": "zh",
+      "text": "我需要医生。",
+      "pinyin": "Wǒ xūyào yīshēng.",
+      "translation_en": "I need a doctor.",
+      "audio_id": "AUD_S_ZH_SURVIVAL_002",
+      "cefr_level": "A1",
+      "grammar_pattern": "SVO",
+      "difficulty_score": 1.0,
+      "linked_word_ids": [
+        "ZH_W0109",
+        "ZH_W0130"
+      ],
+      "primary_word_id": "ZH_W0130"
+    },
+    {
+      "sentence_id": "S_ZH_SURVIVAL_003",
+      "language": "zh",
+      "text": "我要喝水。",
+      "pinyin": "Wǒ yào hē shuǐ.",
+      "translation_en": "I want to drink water.",
+      "audio_id": "AUD_S_ZH_SURVIVAL_003",
+      "cefr_level": "A1",
+      "grammar_pattern": "SVO",
+      "difficulty_score": 1.0,
+      "linked_word_ids": [
+        "ZH_W0109",
+        "ZH_W0038",
+        "ZH_W0096"
+      ],
+      "primary_word_id": "ZH_W0096"
+    },
+    {
+      "sentence_id": "S_ZH_SURVIVAL_004",
+      "language": "zh",
+      "text": "请帮助我。",
+      "pinyin": "Qǐng bāngzhù wǒ.",
+      "translation_en": "Please help me.",
+      "audio_id": "AUD_S_ZH_SURVIVAL_004",
+      "cefr_level": "A1",
+      "grammar_pattern": "Verb+Object",
+      "difficulty_score": 1.0,
+      "linked_word_ids": [
+        "ZH_W0080",
+        "ZH_W0151",
+        "ZH_W0109"
+      ],
+      "primary_word_id": "ZH_W0151"
+    },
+    {
+      "sentence_id": "S_ZH_SURVIVAL_005",
+      "language": "zh",
+      "text": "我要打电话。",
+      "pinyin": "Wǒ yào dǎ diànhuà.",
+      "translation_en": "I want to make a phone call.",
+      "audio_id": "AUD_S_ZH_SURVIVAL_005",
+      "cefr_level": "A1",
+      "grammar_pattern": "SVO",
+      "difficulty_score": 1.0,
+      "linked_word_ids": [
+        "ZH_W0109",
+        "ZH_W0013"
+      ],
+      "primary_word_id": "ZH_W0013"
+    }
+  ]
+}

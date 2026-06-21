@@ -1,0 +1,77 @@
+{
+  "title": "A Rainy Day",
+  "sentences": [
+    {
+      "text": "今天下雨。",
+      "reading": "jīntiān xià yǔ.",
+      "meaning": {
+        "en": "It is raining today."
+      }
+    },
+    {
+      "text": "我没有衣服。",
+      "reading": "wǒ méi yǒu yī fú.",
+      "meaning": {
+        "en": "I do not have clothes."
+      }
+    },
+    {
+      "text": "我想学习。",
+      "reading": "wǒ xiǎng xué xí.",
+      "meaning": {
+        "en": "I want to study."
+      }
+    },
+    {
+      "text": "我的朋友来七点。",
+      "reading": "wǒ de péng yǒu lái qī diǎn.",
+      "meaning": {
+        "en": "My friend comes at seven o'clock."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "text": "今天下雨吗？",
+      "options": [
+        {
+          "text": "是的，今天下雨。",
+          "is_correct": true
+        },
+        {
+          "text": "不是，今天阳光。",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "text": "我有衣服吗？",
+      "options": [
+        {
+          "text": "有，我有衣服。",
+          "is_correct": false
+        },
+        {
+          "text": "没有，我没有衣服。",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "id": "zh_hsk1_story_003",
+  "level": 1,
+  "tags": [
+    "hsk1",
+    "micro-story",
+    "reading"
+  ],
+  "vocab_used": [
+    "学习",
+    "没",
+    "衣服",
+    "朋友",
+    "点",
+    "下雨",
+    "看"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "subject_id": "zh",
+  "name": "Chinese",
+  "skills": {
+    "recognition": {
+      "label": "Recognition",
+      "icon": "visibility",
+      "types": ["meaning_select", "flashcard"]
+    },
+    "listening": {
+      "label": "Listening",
+      "icon": "hearing",
+      "types": ["audio_select"]
+    },
+    "production": {
+      "label": "Production",
+      "icon": "edit",
+      "types": ["character_select", "order_sentence"]
+    },
+    "usage": {
+      "label": "Usage",
+      "icon": "chat_bubble",
+      "types": ["order_sentence", "reading_micro"]
+    }
+  },
+  "stage_plan": {
+    "0": [["recognition", 1], ["listening", 1], ["production", 2]],
+    "1": [["listening", 1], ["recognition", 1]],
+    "2": [["production", 2]],
+    "3": [["usage", 3]],
+    "4": "weakest",
+    "5": [["usage", 4]]
+  },
+  "constraints": {
+    "min_listening_ratio": 0.25,
+    "min_production_ratio": 0.20,
+    "max_image_ratio": 0.25,
+    "require_pinyin": true
+  },
+  "ui": {
+    "show_pinyin_toggle": true,
+    "font_family": "NotoSansSC"
+  }
+}

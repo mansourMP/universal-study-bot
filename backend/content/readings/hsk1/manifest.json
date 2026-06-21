@@ -1,0 +1,17 @@
+[
+  {
+    "id": "zh_hsk1_story_001",
+    "title": "小家今天去医院",
+    "path": "content/readings/hsk1/story_001.json"
+  },
+  {
+    "id": "zh_hsk1_story_002",
+    "title": "My Daughter's Age",
+    "path": "content/readings/hsk1/story_002.json"
+  },
+  {
+    "id": "zh_hsk1_story_003",
+    "title": "学校的医生",
+    "path": "content/readings/hsk1/story_003.json"
+  }
+]

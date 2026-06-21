@@ -1,0 +1,18 @@
+🚀 Starting Know AI Backend Server...
+
+✅ Virtual environment activated
+🌐 Starting FastAPI server on http://0.0.0.0:8000
+
+📱 Your iOS app can now fetch articles from the Explore tab!
+⚠️  Keep this terminal window open while using the app
+
+Press Ctrl+C to stop the server
+----------------------------------------
+INFO:     Will watch for changes in these directories: ['/Users/mansur/universal_study_bot org/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [65852] using WatchFiles
+INFO:KnowAI-SRS:Progress database initialized.
+INFO:     Started server process [65854]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Scheduler started
+INFO:     Application startup complete.

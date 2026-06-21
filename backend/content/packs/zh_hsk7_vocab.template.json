@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "source_name": "hsk3_official_or_curated",
+    "standard": "HSK3.0",
+    "level": "HSK7-9",
+    "notes": "Combined HSK7-9 vocabulary band. Keep one row per lexical item."
+  },
+  "vocabulary": [
+    {
+      "hanzi": "示例",
+      "pinyin": "shili",
+      "meaning_en": "example",
+      "source_level": "HSK7-9"
+    }
+  ]
+}

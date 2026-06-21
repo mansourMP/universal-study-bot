@@ -1,0 +1,76 @@
+{
+  "title": "Three Friends",
+  "sentences": [
+    {
+      "text": "我们有三个朋友。",
+      "reading": "wǒmen yǒu sān gè péngyǒu.",
+      "meaning": {
+        "en": "We have three friends."
+      }
+    },
+    {
+      "text": "他们都很喜欢月亮。",
+      "reading": "tāmen dōu hěn xǐhuān yuèliang.",
+      "meaning": {
+        "en": "They all like the moon very much."
+      }
+    },
+    {
+      "text": "我们能一起看月亮。",
+      "reading": "wǒmen néng yīqǐ kàn yuèliang.",
+      "meaning": {
+        "en": "We can watch the moon together."
+      }
+    },
+    {
+      "text": "再见，朋友！",
+      "reading": "zàijiàn, péngyǒu!",
+      "meaning": {
+        "en": "Goodbye, friends!"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "text": "他们有几个朋友？",
+      "options": [
+        {
+          "text": "三个",
+          "is_correct": true
+        },
+        {
+          "text": "两个",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "text": "他们喜欢什么？",
+      "options": [
+        {
+          "text": "月亮",
+          "is_correct": true
+        },
+        {
+          "text": "太阳",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "id": "zh_hsk1_story_004",
+  "level": 1,
+  "tags": [
+    "hsk1",
+    "micro-story",
+    "reading"
+  ],
+  "vocab_used": [
+    "三",
+    "都",
+    "再见",
+    "不客气",
+    "我们",
+    "能"
+  ]
+}

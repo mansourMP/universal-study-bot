@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "type": "lesson",
+    "version": "1.0"
+  },
+  "lessons": [
+    {
+      "lesson_id": "L_ZH_VU_ZH_A1_001_INPUT",
+      "vocab_unit_id": "VU_ZH_A1_001",
+      "mode": "input",
+      "skill_primary": "vocabulary",
+      "skills_secondary": [
+        "listening",
+        "reading"
+      ],
+      "estimated_time_minutes": 8,
+      "cultural": {
+        "guide_character": "CHAR_HUAHUA",
+        "supporting_character": "CHAR_AFU",
+        "setting": "Beijing Airport (北京首都机场)",
+        "story_context": "阿福 arrives in China for the first time. 花花 picks him up at the airport.",
+        "language_objective": "Learn basic greetings and self-introduction",
+        "cultural_objective": "Understand Chinese greeting etiquette and the importance of 礼貌 (politeness)",
+        "cultural_notes": [
+          {
+            "type": "小知识",
+            "trigger": "after_word_ZH_W0036",
+            "content_zh": "中国人见面时常说\"吃了吗？\"这不是真的问你吃饭没有，而是一种友好的问候。",
+            "content_en": "Chinese people often greet with \"Have you eaten?\" This is not a real question about food, but a friendly greeting."
+          },
+          {
+            "type": "文化对比",
+            "trigger": "before_exercise_3",
+            "content_zh": "在中国，握手时力度要适中，眼神要友善。太用力会显得粗鲁。",
+            "content_en": "In China, handshakes should be moderate in strength with friendly eye contact. Too firm is considered rude."
+          }
+        ]
+      },
+      "exercise_sequence": [
+        {
+          "exercise_id": "EX_001",
+          "type": "flashcard_recognition",
+          "instruction_zh": "认识这些词语",
+          "instruction_en": "Learn these words",
+          "word_ids": [
+            "ZH_W0001",
+            "ZH_W0002",
+            "ZH_W0003",
+            "ZH_W0004",
+            "ZH_W0005"
+          ],
+          "character_intro": {
+            "character": "CHAR_HUAHUA",
+            "dialogue_zh": "你好！我是花花。今天我们来学习一些基本的词语！",
+            "dialogue_pinyin": "Nǐ hǎo! Wǒ shì Huā Huā. Jīntiān wǒmen lái xuéxí yīxiē jīběn de cíyǔ!",
+            "dialogue_en": "Hello! I am Hua Hua. Today we will learn some basic words!"
+          }
+        },
+        {
+          "exercise_id": "EX_002",
+          "type": "audio_recognition",
+          "instruction_zh": "听音频，选择正确的词",
+          "instruction_en": "Listen and select the correct word",
+          "items": [
+            {
+              "audio_id": "AUD_ZH_W0001",
+              "correct": "ZH_W0001",
+              "distractors": [
+                "ZH_W0002",
+                "ZH_W0003"
+              ]
+            },
+            {
+              "audio_id": "AUD_ZH_W0003",
+              "correct": "ZH_W0003",
+              "distractors": [
+                "ZH_W0001",
+                "ZH_W0004"
+              ]
+            }
+          ]
+        },
+        {
+          "exercise_id": "EX_003",
+          "type": "sentence_listening",
+          "instruction_zh": "听句子，跟读",
+          "instruction_en": "Listen to the sentence and repeat",
+          "sentence_ids": [
+            "S_ZH_000001",
+            "S_ZH_000003"
+          ],
+          "character_encouragement": {
+            "character": "CHAR_AFU",
+            "dialogue_zh": "哎呀，声调好难啊！我们一起加油！",
+            "dialogue_en": "Oh, tones are so hard! Let's do our best together!"
+          }
+        },
+        {
+          "exercise_id": "EX_004",
+          "type": "multiple_choice_meaning",
+          "instruction_zh": "选择正确的意思",
+          "instruction_en": "Select the correct meaning",
+          "items": [
+            {
+              "word_id": "ZH_W0001",
+              "correct_translation": "to love",
+              "distractors": [
+                "to eat",
+                "to go",
+                "to see"
+              ]
+            },
+            {
+              "word_id": "ZH_W0003",
+              "correct_translation": "dad",
+              "distractors": [
+                "mom",
+                "friend",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "exercise_id": "EX_005",
+          "type": "speaking_repeat",
+          "instruction_zh": "跟着说",
+          "instruction_en": "Repeat after me",
+          "sentence_ids": [
+            "S_ZH_000001",
+            "S_ZH_000003"
+          ],
+          "character_feedback": {
+            "character": "CHAR_SHIFU",
+            "success_zh": "很好！声调很准！",
+            "success_en": "Very good! Your tones are accurate!",
+            "retry_zh": "再试一次，注意第三声。",
+            "retry_en": "Try again, pay attention to the third tone."
+          }
+        }
+      ],
+      "rewards": {
+        "virtues_earned": {
+          "智": 10,
+          "礼": 5
+        },
+        "achievements": [
+          "first_lesson_complete"
+        ],
+        "unlock": "SEAL_STUDENT_001"
+      }
+    }
+  ]
+}

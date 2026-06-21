@@ -1,0 +1,26 @@
+{
+  "level": 1,
+  "reading": [
+    {
+      "title": "Episode 1: The Party",
+      "text": "Sarah: Adam! Look, that is Susan. She is beautiful, right?\nAdam: Uh... yes. What... what is she doing there?\nSarah: She is reading a book. Go! Go talk to her.\nAdam: Now? I'm not... I'm not ready.\nSarah: No more time! Go!\nAdam: He... hello. I am Adam.\nSusan: Hello, Adam. What are you doing?\nAdam: I... I came to see you. You are beautiful.\nSusan: Thanks. Are you practicing how to speak?\nAdam: No... no. Nice to meet you.\nSusan: Me too. You are very interesting.",
+      "reading": "Sarah: Adam! Look, that is Susan. She is beautiful, right?\nAdam: Uh... yes. What... what is she doing there?\nSarah: She is reading a book. Go! Go talk to her.\nAdam: Now? I'm not... I'm not ready.\nSarah: No more time! Go!\nAdam: He... hello. I am Adam.\nSusan: Hello, Adam. What are you doing?\nAdam: I... I came to see you. You are beautiful.\nSusan: Thanks. Are you practicing how to speak?\nAdam: No... no. Nice to meet you.\nSusan: Me too. You are very interesting.",
+      "translation": "This will be dynamic based on user native language",
+      "target_words": [
+        {"text": "beautiful", "pinyin": "", "meaning": "guapa / hermosa"},
+        {"text": "reading", "pinyin": "", "meaning": "leyendo"},
+        {"text": "interesting", "pinyin": "", "meaning": "interesante"}
+      ],
+      "questions": [
+        {
+          "question": "What does Susan think of Adam?",
+          "options": [
+            {"text": "He is interesting", "is_correct": true},
+            {"text": "He is boring", "is_correct": false}
+          ],
+          "explanation": "Susan says: 'You are very interesting.'"
+        }
+      ]
+    }
+  ]
+}

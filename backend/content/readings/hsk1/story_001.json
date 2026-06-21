@@ -1,0 +1,69 @@
+{
+  "title": "A Simple Apology",
+  "sentences": [
+    {
+      "text": "对不起，我昨天不在。",
+      "reading": "Duìbùqǐ, wǒ zuótiān bù zài.",
+      "meaning": {
+        "en": "Sorry, I was not here yesterday."
+      }
+    },
+    {
+      "text": "我六岁。",
+      "reading": "Wǒ liù suì.",
+      "meaning": {
+        "en": "I am six years old."
+      }
+    },
+    {
+      "text": "谢谢！",
+      "reading": "Xièxiè!",
+      "meaning": {
+        "en": "Thank you!"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "text": "他几岁？",
+      "options": [
+        {
+          "text": "六岁",
+          "is_correct": true
+        },
+        {
+          "text": "五岁",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "text": "他昨天在哪里？",
+      "options": [
+        {
+          "text": "不在",
+          "is_correct": true
+        },
+        {
+          "text": "在",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "id": "zh_hsk1_story_001",
+  "level": 1,
+  "tags": [
+    "hsk1",
+    "micro-story",
+    "reading"
+  ],
+  "vocab_used": [
+    "对不起",
+    "岁",
+    "不",
+    "昨天",
+    "中午",
+    "谢谢"
+  ]
+}

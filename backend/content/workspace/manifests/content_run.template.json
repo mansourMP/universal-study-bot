@@ -1,0 +1,37 @@
+{
+  "batch_id": "run_YYYYMMDD_HHMM",
+  "created_at": "2026-02-11T00:00:00Z",
+  "owner": "mansur",
+  "provider": "openai|deepseek|other",
+  "model": "model-name",
+  "scope": {
+    "standard": "HSK3.0",
+    "levels": [
+      "HSK1",
+      "HSK2",
+      "HSK3",
+      "HSK4",
+      "HSK5",
+      "HSK6",
+      "HSK7"
+    ]
+  },
+  "input_source": {
+    "type": "db|json|csv",
+    "path": "docs/sentence_shards_quality5"
+  },
+  "target_tables": [
+    "sentences",
+    "word_sentences",
+    "concept_localizations"
+  ],
+  "quality_gates": [
+    "required_fields",
+    "length_guard",
+    "dedup",
+    "sense_lock",
+    "domain_mix"
+  ],
+  "status": "draft",
+  "notes": ""
+}

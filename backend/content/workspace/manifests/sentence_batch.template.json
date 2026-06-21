@@ -1,0 +1,27 @@
+{
+  "batch_id": "sent_YYYYMMDD_HHMM",
+  "batch_type": "sentences",
+  "created_at": "2026-02-11T00:00:00Z",
+  "provider": "openai|deepseek|other",
+  "model": "model-name",
+  "source_shards": "docs/sentence_shards_quality5",
+  "output_dir": "docs/sentence_results_quality5",
+  "target_per_word": 5,
+  "domains": [
+    "casual",
+    "business",
+    "exam",
+    "tech",
+    "social"
+  ],
+  "sense_policy": "primary_only",
+  "quality_gates": [
+    "non_empty_fields",
+    "length_guard",
+    "dedup",
+    "domain_coverage",
+    "sense_lock"
+  ],
+  "status": "draft",
+  "notes": ""
+}

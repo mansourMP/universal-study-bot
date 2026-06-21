@@ -1,0 +1,7701 @@
+{
+  "id": "zh_hsk2_vocab",
+  "language": "zh",
+  "level": 2,
+  "kind": "vocab",
+  "version": 1,
+  "standard": "HSK3.0",
+  "source": "ivankra/hsk30 (expanded.csv)",
+  "vocabulary": [
+    {
+      "hanzi": "一会儿",
+      "pinyin": "yīhuìr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一共",
+      "pinyin": "yīgòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一定",
+      "pinyin": "yīdìng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一点点",
+      "pinyin": "yī diǎndiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一生",
+      "pinyin": "yīshēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一直",
+      "pinyin": "yīzhí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一般",
+      "pinyin": "yībān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一路平安",
+      "pinyin": "yīlù-píngān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一路顺风",
+      "pinyin": "yīlù-shùnfēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "一部分",
+      "pinyin": "yī bùfen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "万",
+      "pinyin": "wàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "上周",
+      "pinyin": "shàng zhōu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "下周",
+      "pinyin": "xià zhōu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "下雪",
+      "pinyin": "xià xuě",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不一会儿",
+      "pinyin": "bù yīhuìr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不一定",
+      "pinyin": "bùyīdìng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不久",
+      "pinyin": "bùjiǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不但",
+      "pinyin": "bùdàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不同",
+      "pinyin": "bù tóng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不够",
+      "pinyin": "bùgòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不太",
+      "pinyin": "bù tài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不好意思",
+      "pinyin": "bù hǎoyìsi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不如",
+      "pinyin": "bùrú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不少",
+      "pinyin": "bù shǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不满",
+      "pinyin": "bùmǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不行",
+      "pinyin": "bùxíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不要",
+      "pinyin": "bùyào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不过",
+      "pinyin": "bùguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "不错",
+      "pinyin": "bùcuò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "东北",
+      "pinyin": "dōngběi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "东南",
+      "pinyin": "dōngnán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "东方",
+      "pinyin": "dōngfāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "个子",
+      "pinyin": "gèzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中医",
+      "pinyin": "zhōngyī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中小学",
+      "pinyin": "zhōng-xiǎoxué",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中年",
+      "pinyin": "zhōngnián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中心",
+      "pinyin": "zhōngxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中级",
+      "pinyin": "zhōngjí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "中餐",
+      "pinyin": "zhōngcān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "为",
+      "pinyin": "wèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "为什么",
+      "pinyin": "wèi shénme",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "主人",
+      "pinyin": "zhǔrén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "主要",
+      "pinyin": "zhǔyào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "举",
+      "pinyin": "jǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "举手",
+      "pinyin": "jǔshǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "举行",
+      "pinyin": "jǔxíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "也许",
+      "pinyin": "yěxǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "习惯",
+      "pinyin": "xíguàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "事情",
+      "pinyin": "shìqing",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "云",
+      "pinyin": "yún",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "交",
+      "pinyin": "jiāo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "交朋友",
+      "pinyin": "jiāo péngyou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "交给",
+      "pinyin": "jiāo gěi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "交通",
+      "pinyin": "jiāotōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "亮",
+      "pinyin": "liàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "人们",
+      "pinyin": "rénmen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "人口",
+      "pinyin": "rénkǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "人数",
+      "pinyin": "rénshù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "什么样",
+      "pinyin": "shénmeyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "今后",
+      "pinyin": "jīnhòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "从小",
+      "pinyin": "cóngxiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以上",
+      "pinyin": "yǐshàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以下",
+      "pinyin": "yǐxià",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以为",
+      "pinyin": "yǐwéi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以后",
+      "pinyin": "yǐhòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "以外",
+      "pinyin": "yǐwài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "份",
+      "pinyin": "fèn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "休假",
+      "pinyin": "xiūjià",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "会",
+      "pinyin": "huì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "但",
+      "pinyin": "dàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "但是",
+      "pinyin": "dànshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "位",
+      "pinyin": "wèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "低",
+      "pinyin": "dī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "住房",
+      "pinyin": "zhùfáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "住院",
+      "pinyin": "zhùyuàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "体育",
+      "pinyin": "tǐyù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "体育场",
+      "pinyin": "tǐyùchǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "体育馆",
+      "pinyin": "tǐyùguǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "作业",
+      "pinyin": "zuòyè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "作家",
+      "pinyin": "zuòjiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "作文",
+      "pinyin": "zuòwén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "作用",
+      "pinyin": "zuòyòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "使用",
+      "pinyin": "shǐyòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "例如",
+      "pinyin": "lìrú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "例子",
+      "pinyin": "lìzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "信",
+      "pinyin": "xìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "信号",
+      "pinyin": "xìnhào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "信心",
+      "pinyin": "xìnxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "信息",
+      "pinyin": "xìnxī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "信用卡",
+      "pinyin": "xìnyòngkǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "倒",
+      "pinyin": "dào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "倒",
+      "pinyin": "dǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "借",
+      "pinyin": "jiè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "假",
+      "pinyin": "jiǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "假期",
+      "pinyin": "jiàqī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "做到",
+      "pinyin": "zuòdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "做法",
+      "pinyin": "zuòfǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "做饭",
+      "pinyin": "zuòfàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "停",
+      "pinyin": "tíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "停车",
+      "pinyin": "tíngchē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "停车场",
+      "pinyin": "tíngchēchǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "健康",
+      "pinyin": "jiànkāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "像",
+      "pinyin": "xiàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "克",
+      "pinyin": "kè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "入口",
+      "pinyin": "rùkǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全",
+      "pinyin": "quán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全体",
+      "pinyin": "quántǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全国",
+      "pinyin": "quánguó",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全家",
+      "pinyin": "quánjiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全年",
+      "pinyin": "quánnián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全身",
+      "pinyin": "quánshēn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "全部",
+      "pinyin": "quánbù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公交车",
+      "pinyin": "gōngjiāochē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公共汽车",
+      "pinyin": "gōnggòng qìchē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公司",
+      "pinyin": "gōngsī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公平",
+      "pinyin": "gōngpíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公路",
+      "pinyin": "gōnglù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "公里",
+      "pinyin": "gōnglǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "关心",
+      "pinyin": "guānxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "关机",
+      "pinyin": "guānjī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "其中",
+      "pinyin": "qízhōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "其他",
+      "pinyin": "qítā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "养",
+      "pinyin": "yǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "冬天",
+      "pinyin": "dōngtiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "准确",
+      "pinyin": "zhǔnquè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "凉",
+      "pinyin": "liáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "凉快",
+      "pinyin": "liángkuai",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出发",
+      "pinyin": "chūfā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出口",
+      "pinyin": "chūkǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出国",
+      "pinyin": "chūguó",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出现",
+      "pinyin": "chūxiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出生",
+      "pinyin": "chūshēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出租",
+      "pinyin": "chūzū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出租车",
+      "pinyin": "chūzūchē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出门",
+      "pinyin": "chūmén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "出院",
+      "pinyin": "chūyuàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "分开",
+      "pinyin": "fēnkāi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "分数",
+      "pinyin": "fēnshù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "刚",
+      "pinyin": "gāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "刚刚",
+      "pinyin": "gānggāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "刚才",
+      "pinyin": "gāngcái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "到处",
+      "pinyin": "dàochù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "前年",
+      "pinyin": "qiánnián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "办",
+      "pinyin": "bàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "办公室",
+      "pinyin": "bàngōngshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "办法",
+      "pinyin": "bànfǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "加",
+      "pinyin": "jiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "加油",
+      "pinyin": "jiāyóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "动物",
+      "pinyin": "dòngwù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "动物园",
+      "pinyin": "dòngwùyuán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "努力",
+      "pinyin": "nǔlì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "北方",
+      "pinyin": "běifāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "十分",
+      "pinyin": "shífēn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "千克",
+      "pinyin": "qiānkè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "午睡",
+      "pinyin": "wǔshuì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "午餐",
+      "pinyin": "wǔcān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "半夜",
+      "pinyin": "bànyè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "单位",
+      "pinyin": "dānwèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "南方",
+      "pinyin": "nánfāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "占",
+      "pinyin": "zhàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "卡",
+      "pinyin": "kǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "原因",
+      "pinyin": "yuányīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "原来",
+      "pinyin": "yuánlái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "参加",
+      "pinyin": "cānjiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "参观",
+      "pinyin": "cānguān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "又",
+      "pinyin": "yòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "友好",
+      "pinyin": "yǒuhǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "发",
+      "pinyin": "fā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "发现",
+      "pinyin": "fāxiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "取",
+      "pinyin": "qǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "取得",
+      "pinyin": "qǔdé",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "受到",
+      "pinyin": "shòudào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "变",
+      "pinyin": "biàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "变成",
+      "pinyin": "biànchéng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "句",
+      "pinyin": "jù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "句子",
+      "pinyin": "jùzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "只",
+      "pinyin": "zhǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "只能",
+      "pinyin": "zhǐ néng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "只要",
+      "pinyin": "zhǐyào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "叫作",
+      "pinyin": "jiàozuò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "可怕",
+      "pinyin": "kěpà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "可是",
+      "pinyin": "kěshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "可爱",
+      "pinyin": "kěài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "可能",
+      "pinyin": "kěnéng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "司机",
+      "pinyin": "sījī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "合适",
+      "pinyin": "héshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "同事",
+      "pinyin": "tóngshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "同时",
+      "pinyin": "tóngshí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "同样",
+      "pinyin": "tóngyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "名",
+      "pinyin": "míng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "名单",
+      "pinyin": "míngdān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "名称",
+      "pinyin": "míngchēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "后来",
+      "pinyin": "hòulái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "向",
+      "pinyin": "xiàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "听讲",
+      "pinyin": "tīngjiǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "听说",
+      "pinyin": "tīngshuō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "吹",
+      "pinyin": "chuī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "周",
+      "pinyin": "zhōu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "周年",
+      "pinyin": "zhōunián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "周末",
+      "pinyin": "zhōumò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "味道",
+      "pinyin": "wèidào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "咱",
+      "pinyin": "zán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "咱们",
+      "pinyin": "zánmen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "响",
+      "pinyin": "xiǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "哭",
+      "pinyin": "kū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "商人",
+      "pinyin": "shāngrén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "商量",
+      "pinyin": "shāngliang",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "啊",
+      "pinyin": "a",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "喂",
+      "pinyin": "wèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "喊",
+      "pinyin": "hǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "回",
+      "pinyin": "huí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "回国",
+      "pinyin": "huí guó",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "国际",
+      "pinyin": "guójì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "图片",
+      "pinyin": "túpiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "地球",
+      "pinyin": "dìqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "地铁",
+      "pinyin": "dìtiě",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "地铁站",
+      "pinyin": "dìtiězhàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "场",
+      "pinyin": "chǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "坏人",
+      "pinyin": "huàirén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "坏处",
+      "pinyin": "huàichù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "墙",
+      "pinyin": "qiáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "声音",
+      "pinyin": "shēngyīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "复习",
+      "pinyin": "fùxí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "夏天",
+      "pinyin": "xiàtiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "外卖",
+      "pinyin": "wàimài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "外地",
+      "pinyin": "wàidì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "多",
+      "pinyin": "duō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "多久",
+      "pinyin": "duōjiǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "多么",
+      "pinyin": "duōme",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "多云",
+      "pinyin": "duōyún",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "多数",
+      "pinyin": "duōshù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "夜",
+      "pinyin": "yè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "夜里",
+      "pinyin": "yèlǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "够",
+      "pinyin": "gòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大人",
+      "pinyin": "dàren",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大声",
+      "pinyin": "dà shēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大多数",
+      "pinyin": "dàduōshù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大大",
+      "pinyin": "dàdà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大家",
+      "pinyin": "dàjiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大小",
+      "pinyin": "dàxiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大海",
+      "pinyin": "dàhǎi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大自然",
+      "pinyin": "dàzìrán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大衣",
+      "pinyin": "dàyī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大部分",
+      "pinyin": "dàbùfen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大量",
+      "pinyin": "dàliàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "大门",
+      "pinyin": "dàmén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "天上",
+      "pinyin": "tiānshàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "太太",
+      "pinyin": "tàitai",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "太阳",
+      "pinyin": "tàiyáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "头",
+      "pinyin": "tou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "头",
+      "pinyin": "tóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "套",
+      "pinyin": "tào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好久",
+      "pinyin": "hǎojiǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好事",
+      "pinyin": "hǎoshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好人",
+      "pinyin": "hǎorén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好像",
+      "pinyin": "hǎoxiàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好处",
+      "pinyin": "hǎochù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "好多",
+      "pinyin": "hǎoduō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "姓",
+      "pinyin": "xìng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "姓名",
+      "pinyin": "xìngmíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "字典",
+      "pinyin": "zìdiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "学期",
+      "pinyin": "xuéqī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "它",
+      "pinyin": "tā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "它们",
+      "pinyin": "tāmen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "安全",
+      "pinyin": "ānquán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "安静",
+      "pinyin": "ānjìng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "完",
+      "pinyin": "wán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "完全",
+      "pinyin": "wánquán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "完成",
+      "pinyin": "wánchéng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "实习",
+      "pinyin": "shíxí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "实在",
+      "pinyin": "shízai",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "实在",
+      "pinyin": "shízài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "实现",
+      "pinyin": "shíxiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "实际",
+      "pinyin": "shíjì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "客人",
+      "pinyin": "kèrén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "家庭",
+      "pinyin": "jiātíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "家长",
+      "pinyin": "jiāzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "对",
+      "pinyin": "duì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "对话",
+      "pinyin": "duìhuà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "对面",
+      "pinyin": "duìmiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "封",
+      "pinyin": "fēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小声",
+      "pinyin": "xiǎo shēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小心",
+      "pinyin": "xiǎoxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小时候",
+      "pinyin": "xiǎoshíhou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小组",
+      "pinyin": "xiǎozǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "小说",
+      "pinyin": "xiǎoshuō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "少年",
+      "pinyin": "shàonián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "少数",
+      "pinyin": "shǎoshù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "就要",
+      "pinyin": "jiùyào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "层",
+      "pinyin": "céng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "差不多",
+      "pinyin": "chàbuduō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "市",
+      "pinyin": "shì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "市长",
+      "pinyin": "shìzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "带",
+      "pinyin": "dài",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "带来",
+      "pinyin": "dàilái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "常用",
+      "pinyin": "cháng yòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "常见",
+      "pinyin": "cháng jiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "干杯",
+      "pinyin": "gānbēi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "干活儿",
+      "pinyin": "gànhuór",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "平",
+      "pinyin": "píng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "平安",
+      "pinyin": "píngān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "平常",
+      "pinyin": "píngcháng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "平时",
+      "pinyin": "píngshí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "平等",
+      "pinyin": "píngděng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "年级",
+      "pinyin": "niánjí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "年轻",
+      "pinyin": "niánqīng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "广告",
+      "pinyin": "guǎnggào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "广场",
+      "pinyin": "guǎngchǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "店",
+      "pinyin": "diàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "度",
+      "pinyin": "dù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "座",
+      "pinyin": "zuò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "座位",
+      "pinyin": "zuòwèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "开学",
+      "pinyin": "kāixué",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "开心",
+      "pinyin": "kāixīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "开机",
+      "pinyin": "kāijī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "弄",
+      "pinyin": "nòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "当时",
+      "pinyin": "dāngshí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "影响",
+      "pinyin": "yǐngxiǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "影片",
+      "pinyin": "yǐngpiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "得",
+      "pinyin": "de",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "得",
+      "pinyin": "dé",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "得出",
+      "pinyin": "déchū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "心中",
+      "pinyin": "xīnzhōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "心情",
+      "pinyin": "xīnqíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "心里",
+      "pinyin": "xīnlǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "必须",
+      "pinyin": "bìxū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "快乐",
+      "pinyin": "kuàilè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "快点儿",
+      "pinyin": "kuài diǎnr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "快要",
+      "pinyin": "kuàiyào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "快餐",
+      "pinyin": "kuàicān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "忽然",
+      "pinyin": "hūrán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "态度",
+      "pinyin": "tàidù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "怎么办",
+      "pinyin": "zěnme bàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "怎样",
+      "pinyin": "zěnyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "怕",
+      "pinyin": "pà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "急",
+      "pinyin": "jí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "想到",
+      "pinyin": "xiǎngdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "想法",
+      "pinyin": "xiǎngfǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "想起",
+      "pinyin": "xiǎngqǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "意思",
+      "pinyin": "yìsi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "意见",
+      "pinyin": "yìjiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "感到",
+      "pinyin": "gǎndào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "感动",
+      "pinyin": "gǎndòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "感觉",
+      "pinyin": "gǎnjué",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "愿意",
+      "pinyin": "yuànyì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "懂得",
+      "pinyin": "dǒngde",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "成",
+      "pinyin": "chéng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "成为",
+      "pinyin": "chéngwéi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "成绩",
+      "pinyin": "chéngjì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "或",
+      "pinyin": "huò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "或者",
+      "pinyin": "huòzhě",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "所有",
+      "pinyin": "suǒyǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "手表",
+      "pinyin": "shǒubiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "才",
+      "pinyin": "cái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "打印",
+      "pinyin": "dǎyìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "打工",
+      "pinyin": "dǎgōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "打算",
+      "pinyin": "dǎsuàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "找出",
+      "pinyin": "zhǎochū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "护照",
+      "pinyin": "hùzhào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "报名",
+      "pinyin": "bàomíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "拉",
+      "pinyin": "lā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "拿出",
+      "pinyin": "náchū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "拿到",
+      "pinyin": "nádào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "挺",
+      "pinyin": "tǐng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "挺好",
+      "pinyin": "tǐng hǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "换",
+      "pinyin": "huàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "掉",
+      "pinyin": "diào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "排",
+      "pinyin": "pái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "排球",
+      "pinyin": "páiqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "排队",
+      "pinyin": "páiduì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "接下来",
+      "pinyin": "jiē xiàlái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "接到",
+      "pinyin": "jiēdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "接受",
+      "pinyin": "jiēshòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "接着",
+      "pinyin": "jiēzhe",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "推",
+      "pinyin": "tuī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "提",
+      "pinyin": "tí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "提出",
+      "pinyin": "tíchū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "提到",
+      "pinyin": "tídào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "提高",
+      "pinyin": "tígāo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "收",
+      "pinyin": "shōu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "收入",
+      "pinyin": "shōurù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "收到",
+      "pinyin": "shōudào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "改",
+      "pinyin": "gǎi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "改变",
+      "pinyin": "gǎibiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "放下",
+      "pinyin": "fàngxia",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "放心",
+      "pinyin": "fàngxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "故事",
+      "pinyin": "gùshi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "故意",
+      "pinyin": "gùyì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "教学",
+      "pinyin": "jiàoxué",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "教室",
+      "pinyin": "jiàoshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "教师",
+      "pinyin": "jiàoshī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "教育",
+      "pinyin": "jiàoyù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "数",
+      "pinyin": "shǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "数字",
+      "pinyin": "shùzì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "新闻",
+      "pinyin": "xīnwén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "方便",
+      "pinyin": "fāngbiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "方便面",
+      "pinyin": "fāngbiànmiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "方向",
+      "pinyin": "fāngxiàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "方面",
+      "pinyin": "fāngmiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "旅客",
+      "pinyin": "lǚkè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "旅行",
+      "pinyin": "lǚxíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "日子",
+      "pinyin": "rìzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "日报",
+      "pinyin": "rìbào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "早就",
+      "pinyin": "zǎo jiù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "早晨",
+      "pinyin": "zǎochen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "早餐",
+      "pinyin": "zǎocān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "明星",
+      "pinyin": "míngxīng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "星星",
+      "pinyin": "xīngxing",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "春天",
+      "pinyin": "chūntiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "春节",
+      "pinyin": "chūnjié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晚会",
+      "pinyin": "wǎnhuì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晚安",
+      "pinyin": "wǎnān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晚报",
+      "pinyin": "wǎnbào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晚餐",
+      "pinyin": "wǎncān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "普通",
+      "pinyin": "pǔtōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "普通话",
+      "pinyin": "pǔtōnghuà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晴",
+      "pinyin": "qíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "晴天",
+      "pinyin": "qíngtiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "月亮",
+      "pinyin": "yuèliang",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "月份",
+      "pinyin": "yuèfèn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "有人",
+      "pinyin": "yǒu rén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "有意思",
+      "pinyin": "yǒu yìsi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "有空儿",
+      "pinyin": "yǒukòngr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "机会",
+      "pinyin": "jīhuì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "条件",
+      "pinyin": "tiáojiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "来自",
+      "pinyin": "láizì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "查",
+      "pinyin": "chá",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "校园",
+      "pinyin": "xiàoyuán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "校长",
+      "pinyin": "xiàozhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "样子",
+      "pinyin": "yàngzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "检查",
+      "pinyin": "jiǎnchá",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "欢迎",
+      "pinyin": "huānyíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "正好",
+      "pinyin": "zhènghǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "正常",
+      "pinyin": "zhèngcháng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "正是",
+      "pinyin": "zhèngshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "正确",
+      "pinyin": "zhèngquè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "段",
+      "pinyin": "duàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "比如",
+      "pinyin": "bǐrú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "比如说",
+      "pinyin": "bǐrú shuō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "气",
+      "pinyin": "qì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "气温",
+      "pinyin": "qìwēn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "水平",
+      "pinyin": "shuǐpíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "永远",
+      "pinyin": "yǒngyuǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "求",
+      "pinyin": "qiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "河",
+      "pinyin": "hé",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "油",
+      "pinyin": "yóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "洗衣机",
+      "pinyin": "xǐyījī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "活动",
+      "pinyin": "huódòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "流",
+      "pinyin": "liú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "流利",
+      "pinyin": "liúlì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "流行",
+      "pinyin": "liúxíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "海",
+      "pinyin": "hǎi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "海边",
+      "pinyin": "hǎi biān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "清楚",
+      "pinyin": "qīngchu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "温度",
+      "pinyin": "wēndù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "游客",
+      "pinyin": "yóukè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "湖",
+      "pinyin": "hú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "满",
+      "pinyin": "mǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "满意",
+      "pinyin": "mǎnyì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "灯",
+      "pinyin": "dēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "点头",
+      "pinyin": "diǎntóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "热情",
+      "pinyin": "rèqíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "然后",
+      "pinyin": "ránhòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "照片",
+      "pinyin": "zhàopiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "照相",
+      "pinyin": "zhàoxiàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "照顾",
+      "pinyin": "zhàogù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "熟",
+      "pinyin": "shú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "爬",
+      "pinyin": "pá",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "爬山",
+      "pinyin": "pá shān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "爱人",
+      "pinyin": "àiren",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "爱情",
+      "pinyin": "àiqíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "片",
+      "pinyin": "piàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "特别",
+      "pinyin": "tèbié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "特点",
+      "pinyin": "tèdiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "班长",
+      "pinyin": "bānzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "球场",
+      "pinyin": "qiúchǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "球队",
+      "pinyin": "qiúduì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "球鞋",
+      "pinyin": "qiúxié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "理想",
+      "pinyin": "lǐxiǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "瓶",
+      "pinyin": "píng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "瓶子",
+      "pinyin": "píngzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "生活",
+      "pinyin": "shēnghuó",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "生词",
+      "pinyin": "shēngcí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "画",
+      "pinyin": "huà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "画儿",
+      "pinyin": "huàr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "画家",
+      "pinyin": "huàjiā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "留",
+      "pinyin": "liú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "留下",
+      "pinyin": "liúxia",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "留学生",
+      "pinyin": "liúxuéshēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "疼",
+      "pinyin": "téng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "白色",
+      "pinyin": "báisè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "的话",
+      "pinyin": "dehuà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "目的",
+      "pinyin": "mùdì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "直接",
+      "pinyin": "zhíjiē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "相信",
+      "pinyin": "xiāngxìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "相同",
+      "pinyin": "xiāngtóng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "相机",
+      "pinyin": "xiàngjī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "省",
+      "pinyin": "shěng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "看法",
+      "pinyin": "kànfǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "真正",
+      "pinyin": "zhēnzhèng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "眼",
+      "pinyin": "yǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "短信",
+      "pinyin": "duǎnxìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "碰",
+      "pinyin": "pèng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "碰到",
+      "pinyin": "pèngdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "碰见",
+      "pinyin": "pèngjiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "礼物",
+      "pinyin": "lǐwù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "离",
+      "pinyin": "lí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "离开",
+      "pinyin": "líkāi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "秋天",
+      "pinyin": "qiūtiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "科",
+      "pinyin": "kē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "科学",
+      "pinyin": "kēxué",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "租",
+      "pinyin": "zū",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "称",
+      "pinyin": "chēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "空气",
+      "pinyin": "kōngqì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "站住",
+      "pinyin": "zhànzhù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "笑话",
+      "pinyin": "xiàohua",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "笑话儿",
+      "pinyin": "xiàohuar",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "笔记",
+      "pinyin": "bǐjì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "笔记本",
+      "pinyin": "bǐjìběn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "等于",
+      "pinyin": "děngyú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "等到",
+      "pinyin": "děngdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "答应",
+      "pinyin": "dāying",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "算",
+      "pinyin": "suàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "篇",
+      "pinyin": "piān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "篮球",
+      "pinyin": "lánqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "米",
+      "pinyin": "mǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "红",
+      "pinyin": "hóng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "红色",
+      "pinyin": "hóngsè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "级",
+      "pinyin": "jí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "纸",
+      "pinyin": "zhǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "练",
+      "pinyin": "liàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "组",
+      "pinyin": "zǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "组成",
+      "pinyin": "zǔchéng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "组长",
+      "pinyin": "zǔzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "经理",
+      "pinyin": "jīnglǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "经过",
+      "pinyin": "jīngguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "结果",
+      "pinyin": "jiéguǒ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "绿",
+      "pinyin": "lǜ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "绿色",
+      "pinyin": "lǜsè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "网",
+      "pinyin": "wǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "网球",
+      "pinyin": "wǎngqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "网站",
+      "pinyin": "wǎngzhàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "老",
+      "pinyin": "lǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "老年",
+      "pinyin": "lǎonián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "老是",
+      "pinyin": "lǎoshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "老朋友",
+      "pinyin": "lǎo péngyou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "考生",
+      "pinyin": "kǎoshēng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "而且",
+      "pinyin": "érqiě",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "背",
+      "pinyin": "bèi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "能够",
+      "pinyin": "nénggòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "脏",
+      "pinyin": "zāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "脚",
+      "pinyin": "jiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "腿",
+      "pinyin": "tuǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "自己",
+      "pinyin": "zìjǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "自由",
+      "pinyin": "zìyóu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "自行车",
+      "pinyin": "zìxíngchē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "舒服",
+      "pinyin": "shūfu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "船",
+      "pinyin": "chuán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "节",
+      "pinyin": "jié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "节日",
+      "pinyin": "jiérì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "节目",
+      "pinyin": "jiémù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "花",
+      "pinyin": "huā",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "花园",
+      "pinyin": "huāyuán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "英文",
+      "pinyin": "yīngwén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "英语",
+      "pinyin": "yīngyǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "草",
+      "pinyin": "cǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "草地",
+      "pinyin": "cǎodì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "药",
+      "pinyin": "yào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "药店",
+      "pinyin": "yàodiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "药水",
+      "pinyin": "yàoshuǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "药片",
+      "pinyin": "yàopiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "菜单",
+      "pinyin": "càidān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "蓝",
+      "pinyin": "lán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "蓝色",
+      "pinyin": "lánsè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "虽然",
+      "pinyin": "suīrán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "蛋",
+      "pinyin": "dàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "行为",
+      "pinyin": "xíngwéi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "行人",
+      "pinyin": "xíngrén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "行动",
+      "pinyin": "xíngdòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "街",
+      "pinyin": "jiē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "表",
+      "pinyin": "biǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "表示",
+      "pinyin": "biǎoshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "装",
+      "pinyin": "zhuāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "西北",
+      "pinyin": "xīběi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "西医",
+      "pinyin": "xīyī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "西南",
+      "pinyin": "xīnán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "西方",
+      "pinyin": "xīfāng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "西餐",
+      "pinyin": "xīcān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "要求",
+      "pinyin": "yāoqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "见到",
+      "pinyin": "jiàndào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "见过",
+      "pinyin": "jiànguo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "观点",
+      "pinyin": "guāndiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "角",
+      "pinyin": "jiǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "角度",
+      "pinyin": "jiǎodù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "计划",
+      "pinyin": "jìhuà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "计算机",
+      "pinyin": "jìsuànjī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "认为",
+      "pinyin": "rènwéi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "讨论",
+      "pinyin": "tǎolùn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "让",
+      "pinyin": "ràng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "讲",
+      "pinyin": "jiǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "讲话",
+      "pinyin": "jiǎnghuà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "许多",
+      "pinyin": "xǔduō",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "词",
+      "pinyin": "cí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "词典",
+      "pinyin": "cídiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "词语",
+      "pinyin": "cíyǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "该",
+      "pinyin": "gāi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "语言",
+      "pinyin": "yǔyán",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "说明",
+      "pinyin": "shuōmíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "请客",
+      "pinyin": "qǐngkè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "请求",
+      "pinyin": "qǐngqiú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "读音",
+      "pinyin": "dúyīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "课堂",
+      "pinyin": "kètáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "走开",
+      "pinyin": "zǒukāi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "走过",
+      "pinyin": "zǒuguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "走进",
+      "pinyin": "zǒujìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "起飞",
+      "pinyin": "qǐfēi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "超过",
+      "pinyin": "chāoguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "越",
+      "pinyin": "yuè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "越来越",
+      "pinyin": "yuè lái yuè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "路边",
+      "pinyin": "lù biān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "身边",
+      "pinyin": "shēnbiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "车辆",
+      "pinyin": "chēliàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "轻",
+      "pinyin": "qīng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "边",
+      "pinyin": "biān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "过",
+      "pinyin": "guo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "过去",
+      "pinyin": "guòqù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "过年",
+      "pinyin": "guònián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "过来",
+      "pinyin": "guòlái",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "这么",
+      "pinyin": "zhème",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "这时候",
+      "pinyin": "zhè shíhou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "这样",
+      "pinyin": "zhèyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "进入",
+      "pinyin": "jìnrù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "进行",
+      "pinyin": "jìnxíng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "送到",
+      "pinyin": "sòngdào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "送给",
+      "pinyin": "sòng gěi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "选",
+      "pinyin": "xuǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "通",
+      "pinyin": "tōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "通知",
+      "pinyin": "tōngzhī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "通过",
+      "pinyin": "tōngguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "遍",
+      "pinyin": "biàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "道",
+      "pinyin": "dào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "道理",
+      "pinyin": "dàolǐ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "道路",
+      "pinyin": "dàolù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "那么",
+      "pinyin": "nàme",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "那会儿",
+      "pinyin": "nàhuìr",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "那时候",
+      "pinyin": "nà shíhou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "那样",
+      "pinyin": "nàyàng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "部分",
+      "pinyin": "bùfen",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "酒店",
+      "pinyin": "jiǔdiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "里头",
+      "pinyin": "lǐtou",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "重复",
+      "pinyin": "chóngfù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "重新",
+      "pinyin": "chóngxīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "重点",
+      "pinyin": "zhòngdiǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "重视",
+      "pinyin": "zhòngshì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "银行卡",
+      "pinyin": "yínhángkǎ",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "长",
+      "pinyin": "zhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "长大",
+      "pinyin": "zhǎngdà",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "问路",
+      "pinyin": "wènlù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "闻",
+      "pinyin": "wén",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "队",
+      "pinyin": "duì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "队长",
+      "pinyin": "duìzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "阴",
+      "pinyin": "yīn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "阴天",
+      "pinyin": "yīntiān",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "院",
+      "pinyin": "yuàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "院子",
+      "pinyin": "yuànzi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "院长",
+      "pinyin": "yuànzhǎng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "随便",
+      "pinyin": "suíbiàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "随时",
+      "pinyin": "suíshí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "难受",
+      "pinyin": "nánshòu",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "难听",
+      "pinyin": "nántīng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "难看",
+      "pinyin": "nánkàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "难过",
+      "pinyin": "nánguò",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "难题",
+      "pinyin": "nántí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "零下",
+      "pinyin": "líng xià",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "青少年",
+      "pinyin": "qīng-shàonián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "青年",
+      "pinyin": "qīngnián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "靠",
+      "pinyin": "kào",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "面",
+      "pinyin": "miàn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "面前",
+      "pinyin": "miànqián",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "音乐",
+      "pinyin": "yīnyuè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "音乐会",
+      "pinyin": "yīnyuèhuì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "音节",
+      "pinyin": "yīnjié",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "顺利",
+      "pinyin": "shùnlì",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "顾客",
+      "pinyin": "gùkè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "题",
+      "pinyin": "tí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "颜色",
+      "pinyin": "yánsè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "食物",
+      "pinyin": "shíwù",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "饭馆",
+      "pinyin": "fànguǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "饱",
+      "pinyin": "bǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "骑",
+      "pinyin": "qí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "骑车",
+      "pinyin": "qí chē",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "高中",
+      "pinyin": "gāozhōng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "高级",
+      "pinyin": "gāojí",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "鱼",
+      "pinyin": "yú",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "鸡",
+      "pinyin": "jī",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "黄",
+      "pinyin": "huáng",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "黄色",
+      "pinyin": "huángsè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "黑",
+      "pinyin": "hēi",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "黑板",
+      "pinyin": "hēibǎn",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    },
+    {
+      "hanzi": "黑色",
+      "pinyin": "hēisè",
+      "meaning_en": "",
+      "source_level": "2",
+      "pos": null,
+      "traditional": null,
+      "source_id": null,
+      "source_name": "ivankra_hsk30_expanded"
+    }
+  ]
+}

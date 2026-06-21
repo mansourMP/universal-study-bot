@@ -1,0 +1,88 @@
+name: Brain Sovereignty CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  brain-sovereignty:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Create venv + install deps
+        shell: bash
+        run: |
+          python3 -m venv backend/.venv
+          backend/.venv/bin/python -m pip install --upgrade pip
+          backend/.venv/bin/pip install -r backend/requirements-ci.txt
+
+      - name: Verify Brain Sovereignty (tests + manifest sync)
+        shell: bash
+        run: |
+          backend/.venv/bin/pytest backend/tests
+          backend/.venv/bin/python backend/scripts/verify_manifest_db_sync.py
+
+      - name: Run guardrails (warn-only)
+        shell: bash
+        run: |
+          set +e
+          mkdir -p /tmp/guardrails
+          if [ "${CONTENT_PACK_STRICT}" = "1" ]; then
+            set -e
+            backend/.venv/bin/python backend/scripts/report_audio_coverage.py --strict > /tmp/guardrails/audio.txt
+            backend/.venv/bin/python backend/scripts/report_image_coverage.py --strict > /tmp/guardrails/images.txt
+            set +e
+          else
+            backend/.venv/bin/python backend/scripts/report_audio_coverage.py > /tmp/guardrails/audio.txt
+            if [ $? -ne 0 ]; then echo "WARN: report_audio_coverage.py failed"; fi
+            backend/.venv/bin/python backend/scripts/report_image_coverage.py > /tmp/guardrails/images.txt
+            if [ $? -ne 0 ]; then echo "WARN: report_image_coverage.py failed"; fi
+          fi
+          backend/.venv/bin/python backend/scripts/report_variant_coverage.py > /tmp/guardrails/variants.txt
+          if [ $? -ne 0 ]; then echo "WARN: report_variant_coverage.py failed"; fi
+          backend/.venv/bin/python backend/scripts/report_sentence_coverage.py > /tmp/guardrails/sentences.txt
+          if [ $? -ne 0 ]; then echo "WARN: report_sentence_coverage.py failed"; fi
+          backend/.venv/bin/python backend/scripts/report_passage_coverage.py > /tmp/guardrails/passages.txt
+          if [ $? -ne 0 ]; then echo "WARN: report_passage_coverage.py failed"; fi
+          backend/.venv/bin/python backend/scripts/audit_tone_select.py > /tmp/guardrails/tone.txt
+          if [ $? -ne 0 ]; then echo "WARN: audit_tone_select.py failed"; fi
+          set -e
+
+      - name: Upload guardrail artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: guardrail-outputs
+          path: /tmp/guardrails/*.txt
+
+  flutter-quality:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: dragon_chinese
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Flutter pub get
+        run: flutter pub get
+
+      - name: Analyze architecture-critical listening files
+        run: flutter analyze lib/core/net/endpoints.dart lib/features/course/services/listening_service.dart lib/features/course/screens/listening_levels_screen.dart
+
+      - name: Run focused service/network tests
+        run: flutter test test/api_client_test.dart test/skill_service_test.dart test/listening_service_test.dart

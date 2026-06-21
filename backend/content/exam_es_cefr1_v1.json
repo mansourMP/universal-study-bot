@@ -1,0 +1,27 @@
+{
+  "level": 1,
+  "reading": [
+    {
+      "title": "Episodio 1: La Fiesta",
+      "text": "Sarah：¡Adam! Mira, esa es Susan. Ella es muy guapa, ¿verdad?\nAdam：Eh... sí. ¿Qué... qué está haciendo allí?\nSarah：Está leyendo un libro. ¡Ve! Ve a hablar con ella.\nAdam：¿Ahora? No... no estoy preparado.\nSarah：¡No hay tiempo! ¡Ve!\nAdam：Ho... hola. Soy Adam.\nSusan：Hola, Adam. ¿Qué haces?\nAdam：Yo... vine a verte. Eres guapa.\nSusan：Gracias. ¿Estás aprendiendo a hablar?\nAdam：No... no. Encantado de conocerte.\nSusan：Yo también. Eres muy interesante.",
+      "reading": "Sarah: ¡Adam! Mira, esa es Susan. Ella es muy guapa, ¿verdad?\nAdam: Eh... sí. ¿Qué... qué está haciendo allí?\nSarah: Está leyendo un libro. ¡Ve! Ve a hablar con ella.\nAdam: ¿Ahora? No... no estoy preparado.\nSarah: ¡No hay tiempo! ¡Ve!\nAdam: Ho... hola. Soy Adam.\nSusan: Hola, Adam. ¿Qué haces?\nAdam: Yo... vine a verte. Eres guapa.\nSusan: Gracias. ¿Estás aprendiendo a hablar?\nAdam: No... no. Encantado de conocerte.\nSusan: Yo también. Eres muy interesante.",
+      "translation": "Sarah: Adam! Look, that is Susan. She is very beautiful, right?\nAdam: Uh... yes. What... what is she doing there?\nSarah: She is reading a book. Go! Go talk to her.\nAdam: Now? I'm not... I'm not ready.\nSarah: No more time! Go!\nAdam: He... hello. I am Adam.\nSusan: Hello, Adam. What are you doing?\nAdam: I... I came to see you. You are beautiful.\nSusan: Thanks. Are you practicing how to speak?\nAdam: No... no. Nice to meet you.\nSusan: Me too. You are very interesting.",
+      "target_words": [
+        {"text": "guapa", "pinyin": "guapa", "meaning": "beautiful"},
+        {"text": "leyendo", "pinyin": "leyendo", "meaning": "reading"},
+        {"text": "tiempo", "pinyin": "tiempo", "meaning": "time"},
+        {"text": "interesante", "pinyin": "interesante", "meaning": "interesting"}
+      ],
+      "questions": [
+        {
+          "question": "¿Qué piensa Susan de Adam?",
+          "options": [
+            {"text": "Es interesante", "is_correct": true},
+            {"text": "Es aburrido", "is_correct": false}
+          ],
+          "explanation": "Susan dice: 'Eres muy interesante.'"
+        }
+      ]
+    }
+  ]
+}

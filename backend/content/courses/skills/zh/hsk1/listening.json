@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "level": 1,
+  "skill": "listening",
+  "items": [
+    {
+      "title": { "en": "At the Supermarket" },
+      "audio_script": "女: 你好，我要买水果。你有苹果吗？\n男: 有，苹果在那儿。你要几个？\n女: 我要两个苹果。谢谢。\n男: 不客气。你还要什么？\n女: 我还要一杯水。\n男: 好，水在这儿。",
+      "questions": [
+        {
+          "text": { "en": "What does the woman want to buy?" },
+          "options": [
+            { "text": { "en": "Fruit" }, "is_correct": true },
+            { "text": { "en": "Bread" }, "is_correct": false },
+            { "text": { "en": "Milk" }, "is_correct": false }
+          ],
+          "explanation": { "en": "She asks for fruit." }
+        },
+        {
+          "text": { "en": "How many apples does she want?" },
+          "options": [
+            { "text": { "en": "One" }, "is_correct": false },
+            { "text": { "en": "Two" }, "is_correct": true },
+            { "text": { "en": "Three" }, "is_correct": false }
+          ],
+          "explanation": { "en": "She says 'two'." }
+        }
+      ]
+    },
+    {
+      "title": { "en": "Travel to Beijing" },
+      "audio_script": "女: 你好，你去哪儿？\n男: 我去北京。\n女: 你怎么去？\n男: 我坐火车去。\n女: 你什么时候去？\n男: 我明天去。",
+      "questions": [
+        {
+          "text": { "en": "Where is the man going?" },
+          "options": [
+            { "text": { "en": "Beijing" }, "is_correct": true },
+            { "text": { "en": "Shanghai" }, "is_correct": false }
+          ],
+          "explanation": { "en": "He says he is going to Beijing." }
+        },
+        {
+          "text": { "en": "How will he travel?" },
+          "options": [
+            { "text": { "en": "By train" }, "is_correct": true },
+            { "text": { "en": "By plane" }, "is_correct": false }
+          ],
+          "explanation": { "en": "He says he will take the train." }
+        }
+      ]
+    }
+  ]
+}

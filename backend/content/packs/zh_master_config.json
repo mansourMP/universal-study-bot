@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "type": "master_config",
+    "version": "1.0",
+    "created": "2026-01-28",
+    "description": "Complete Chinese learning system configuration",
+    "sections": [
+      "characters",
+      "vision",
+      "advanced_systems"
+    ]
+  },
+  "character_system": {
+    "metadata": {
+      "type": "character_system",
+      "version": "2.0",
+      "language": "zh",
+      "cultural_authenticity_level": "native_verified",
+      "last_validated": "2026-01-28",
+      "validated_by": [
+        "cultural_expert_required",
+        "linguist_required",
+        "youth_consultant_required"
+      ]
+    },
+    "core_characters": {
+      "CHAR_LONGLONG": {
+        "id": "CHAR_LONGLONG",
+        "name_zh": "龙龙",
+        "name_pinyin": "Lóng Lóng",
+        "name_en": "Long Long the Wisdom Dragon",
+        "archetype": "wisdom_dragon",
+        "cultural_significance": "龙 represents 祥瑞 (auspiciousness), 智慧 (wisdom), and 力量 (power)",
+        "personality_matrix": {
+          "primary": [
+            "wise",
+            "patient",
+            "nurturing"
+          ],
+          "secondary": [
+            "storyteller",
+            "history_keeper",
+            "moral_guide"
+          ],
+          "flaws": [
+            "sometimes_too_traditional",
+            "moves_slowly"
+          ]
+        },
+        "visual_design": {
+          "style_guide": "traditional_chinese_ink_wash_meets_cute",
+          "color_palette": [
+            "#C03A2B",
+            "#FFB61A",
+            "#000000"
+          ],
+          "key_features": [
+            "five_claws_only",
+            "pearl_under_chin",
+            "祥云_patterns"
+          ],
+          "animations": {
+            "base_states": [
+              "floating_calmly",
+              "gentle_sway"
+            ],
+            "emotional_states": {
+              "happy": "eyes_crescent_shaped",
+              "teaching": "holds_imaginary_brush",
+              "proud": "head_held_high",
+              "explaining": "assets/animations/longlong_explain.json",
+              "approving": "assets/animations/longlong_nod.json",
+              "disappointed": "assets/animations/longlong_sigh.json",
+              "celebrating": "assets/animations/longlong_dance.json"
+            }
+          },
+          "seasonal_variants": {
+            "春节": "wears_red_scarf_with_gold_trim",
+            "中秋节": "carries_mooncake",
+            "端午节": "holds_zongzi"
+          }
+        },
+        "voice_profile": {
+          "gender": "male",
+          "age_range": "elderly_60+",
+          "accent": "standard_beijing_mandarin",
+          "tempo": "slow_measured",
+          "actor_requirements": "male_60+_beijing_native",
+          "speech_patterns": [
+            "uses_classical_allusions",
+            "measured_pacing",
+            "clear_articulation"
+          ],
+          "special_traits": [
+            "occasional_classical_quotes",
+            "patient_pauses"
+          ],
+          "catchphrases": [
+            "听我说...",
+            "古人有云...",
+            "这就是中华文化的精髓"
+          ],
+          "forbidden": [
+            "contemporary_slang",
+            "fast_pace",
+            "casual_contractions"
+          ]
+        },
+        "pedagogical_role": {
+          "appears_when": [
+            "grammar_explanations",
+            "cultural_notes",
+            "historical_context"
+          ],
+          "teaching_style": "socratic_method",
+          "skill_focus": [
+            "character_etymology",
+            "classical_chinese",
+            "cultural_values"
+          ],
+          "appears_in_levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2",
+            "C1",
+            "C2"
+          ]
+        },
+        "relationship_web": {
+          "mentor_to": [
+            "CHAR_AFU",
+            "CHAR_HUAHUA"
+          ],
+          "equal_with": [
+            "CHAR_SHIFU"
+          ],
+          "historical_ties": [
+            "CHAR_KONGZI (student_of)"
+          ],
+          "dynamic": "Like grandfather to all"
+        },
+        "development_arc": {
+          "season_1": "introduces_basics_and_core_values",
+          "season_2": "reveals_past_as_imperial_tutor",
+          "season_3": "struggles_with_modern_changes",
+          "finale": "finds_balance_between_tradition_and_modernity"
+        }
+      },
+      "CHAR_HUAHUA": {
+        "id": "CHAR_HUAHUA",
+        "name_zh": "花花",
+        "name_pinyin": "Huā Huā",
+        "name_en": "Hua Hua the Modern Beijing Girl",
+        "archetype": "modern_youth",
+        "cultural_significance": "Represents 新时代女性 (new era women), 与时俱进 (keeping up with the times)",
+        "personality_matrix": {
+          "primary": [
+            "energetic",
+            "curious",
+            "helpful"
+          ],
+          "secondary": [
+            "tech_savvy",
+            "fashion_conscious",
+            "socially_aware"
+          ],
+          "flaws": [
+            "sometimes_too_casual",
+            "impatient_with_tradition"
+          ]
+        },
+        "visual_design": {
+          "style_guide": "contemporary_chinese_fashion_旗袍_inspired_modern",
+          "color_palette": [
+            "#E63946",
+            "#F1FAEE",
+            "#A8DADC"
+          ],
+          "key_features": [
+            "旗袍_inspired_top_with_jeans",
+            "modern_bob_haircut",
+            "jade_earrings"
+          ],
+          "animations": {
+            "base_states": [
+              "standing_confidently",
+              "checking_phone"
+            ],
+            "emotional_states": {
+              "happy": "jumping_excitedly",
+              "teaching": "pointing_with_enthusiasm",
+              "thinking": "hand_on_chin",
+              "wave": "assets/animations/huahua_wave.json",
+              "bow_slightly": "assets/animations/huahua_bow.json"
+            }
+          },
+          "seasonal_variants": {
+            "春节": "wears_red_qipao",
+            "summer": "casual_summer_dress",
+            "winter": "stylish_coat_with_scarf"
+          }
+        },
+        "voice_profile": {
+          "gender": "female",
+          "age_range": "young_adult_20s",
+          "accent": "beijing_urban_youth",
+          "tempo": "brisk_natural",
+          "actor_requirements": "female_20s_beijing_native",
+          "speech_patterns": [
+            "uses_时尚用语",
+            "sometimes_slurred_for_naturalness",
+            "natural_儿化音"
+          ],
+          "special_traits": [
+            "uses_contemporary_slang_appropriately",
+            "occasional_english_words"
+          ],
+          "catchphrases": [
+            "真的假的？",
+            "可以啊！",
+            "走吧！"
+          ],
+          "forbidden": [
+            "overly_formal_speech",
+            "classical_references"
+          ]
+        },
+        "pedagogical_role": {
+          "appears_when": [
+            "daily_life_vocabulary",
+            "social_situations",
+            "modern_technology"
+          ],
+          "teaching_style": "conversational_immersive",
+          "skill_focus": [
+            "daily_life",
+            "social",
+            "modern_culture",
+            "slang"
+          ],
+          "appears_in_levels": [
+            "A1",
+            "A2",
+            "B1"
+          ]
+        },
+        "relationship_web": {
+          "student_of": [
+            "CHAR_LONGLONG"
+          ],
+          "friend_with": [
+            "CHAR_AFU"
+          ],
+          "respectful_but_conflicting": [
+            "CHAR_SHIFU"
+          ],
+          "dynamic": "Explores Beijing with 阿福, sometimes too casual for 师傅"
+        },
+        "development_arc": {
+          "A1": "introduces_modern_beijing_life",
+          "A2": "teaches_social_media_and_tech_vocabulary",
+          "B1": "learns_traditional_values_from_LONGLONG",
+          "growth_arc": "Finds balance between modernity and tradition"
+        }
+      },
+      "CHAR_AFU": {
+        "id": "CHAR_AFU",
+        "name_zh": "阿福",
+        "name_pinyin": "Ā Fú",
+        "name_en": "A Fu the Lucky Panda",
+        "archetype": "learning_companion",
+        "cultural_significance": "Panda = 国宝 (national treasure), 福 = luck/blessings, 虚心学习 (humble learning)",
+        "personality_matrix": {
+          "primary": [
+            "clumsy",
+            "well_meaning",
+            "relatable"
+          ],
+          "secondary": [
+            "eager_learner",
+            "food_lover",
+            "optimistic"
+          ],
+          "flaws": [
+            "makes_tone_mistakes",
+            "easily_distracted_by_food"
+          ]
+        },
+        "visual_design": {
+          "style_guide": "cute_panda_with_traditional_elements",
+          "color_palette": [
+            "#000000",
+            "#FFFFFF",
+            "#C03A2B"
+          ],
+          "key_features": [
+            "福_character_on_chest",
+            "round_fluffy_body",
+            "bamboo_accessory"
+          ],
+          "animations": {
+            "base_states": [
+              "waddling",
+              "munching_bamboo"
+            ],
+            "emotional_states": {
+              "confused": "tilts_head_scratches_ear",
+              "excited": "bounces_up_and_down",
+              "eating": "happy_munching",
+              "struggling": "assets/animations/afu_struggle.json",
+              "celebrating": "assets/animations/afu_dance.json"
+            }
+          },
+          "seasonal_variants": {
+            "春节": "wears_tiny_red_vest",
+            "中秋节": "holds_mooncake_dreamily",
+            "summer": "wears_bamboo_hat"
+          }
+        },
+        "voice_profile": {
+          "gender": "male",
+          "age_range": "young_adult",
+          "accent": "foreigner_learning_chinese",
+          "tempo": "variable_sometimes_slow_sometimes_excited",
+          "actor_requirements": "voice_should_be_warm_slightly_nasal",
+          "speech_patterns": [
+            "hesitant_on_new_words",
+            "gradually_improves",
+            "lovable_mistakes"
+          ],
+          "special_traits": [
+            "mispronounces_tones_initially",
+            "asks_many_questions"
+          ],
+          "catchphrases": [
+            "哎呀！",
+            "这个怎么说？",
+            "我也在学！"
+          ],
+          "forbidden": [
+            "perfect_pronunciation",
+            "complex_sentences_at_A1"
+          ]
+        },
+        "pedagogical_role": {
+          "appears_when": [
+            "learner_makes_mistakes",
+            "needs_encouragement",
+            "comic_relief"
+          ],
+          "teaching_style": "struggle_together",
+          "skill_focus": [
+            "encouragement",
+            "common_mistakes",
+            "pronunciation_challenges"
+          ],
+          "appears_in_levels": [
+            "A1",
+            "A2"
+          ]
+        },
+        "relationship_web": {
+          "student_of": [
+            "CHAR_LONGLONG",
+            "CHAR_SHIFU"
+          ],
+          "friend_with": [
+            "CHAR_HUAHUA"
+          ],
+          "dynamic": "Explores Beijing with 花花, gets trained by 师傅"
+        },
+        "development_arc": {
+          "A1": [
+            "struggles_with_tones",
+            "eats_too_much",
+            "easily_confused"
+          ],
+          "A2": [
+            "improves_pronunciation",
+            "helps_other_learners",
+            "gains_confidence"
+          ],
+          "B1": [
+            "speaks_fluently",
+            "becomes_assistant_teacher"
+          ],
+          "cultural_moment": "At B2, reveals he was always talented but lacked confidence"
+        }
+      },
+      "CHAR_SHIFU": {
+        "id": "CHAR_SHIFU",
+        "name_zh": "师傅",
+        "name_pinyin": "Shīfu",
+        "name_en": "Master Shifu",
+        "archetype": "kungfu_master",
+        "cultural_significance": "Respect for masters 尊师重道, 功夫 culture, 刻苦努力 (hard work)",
+        "personality_matrix": {
+          "primary": [
+            "strict",
+            "disciplined",
+            "patient_but_demanding"
+          ],
+          "secondary": [
+            "calligraphy_expert",
+            "martial_artist",
+            "perfectionist"
+          ],
+          "flaws": [
+            "too_strict_sometimes",
+            "struggles_with_modern_slang"
+          ]
+        },
+        "visual_design": {
+          "style_guide": "classical_martial_artist_with_scholarly_elements",
+          "color_palette": [
+            "#4A4A4A",
+            "#FFFFFF",
+            "#8B4513"
+          ],
+          "key_features": [
+            "wispy_beard",
+            "simple_robes",
+            "calligraphy_brush_in_belt"
+          ],
+          "animations": {
+            "base_states": [
+              "standing_tall",
+              "stroking_beard"
+            ],
+            "emotional_states": {
+              "teaching": "demonstrates_perfect_form",
+              "approving": "single_nod",
+              "correcting": "stern_but_kind_look",
+              "brushwork": "assets/animations/shifu_calligraphy.json"
+            }
+          },
+          "seasonal_variants": {
+            "春节": "wears_formal_traditional_robe",
+            "any_season": "consistent_traditional_appearance"
+          }
+        },
+        "voice_profile": {
+          "gender": "male",
+          "age_range": "middle_aged_50s",
+          "accent": "standard_mandarin_classical_inflection",
+          "tempo": "deliberate_measured",
+          "actor_requirements": "voice_from_diaphragm_martial_arts_energy",
+          "speech_patterns": [
+            "short_precise_sentences",
+            "classical_phrasing",
+            "commands"
+          ],
+          "special_traits": [
+            "throat_emphasis",
+            "powerful_yet_controlled"
+          ],
+          "catchphrases": [
+            "再来！",
+            "专注！",
+            "功夫不负有心人。"
+          ],
+          "forbidden": [
+            "slang",
+            "casual_speech",
+            "rushed_delivery"
+          ]
+        },
+        "pedagogical_role": {
+          "appears_when": [
+            "pronunciation_drills",
+            "character_writing",
+            "discipline_needed"
+          ],
+          "teaching_style": "traditional_master_apprentice",
+          "skill_focus": [
+            "pronunciation",
+            "writing",
+            "discipline",
+            "tones"
+          ],
+          "appears_in_levels": [
+            "A1",
+            "A2",
+            "B1",
+            "B2"
+          ]
+        },
+        "relationship_web": {
+          "trains": [
+            "CHAR_AFU"
+          ],
+          "equal_with": [
+            "CHAR_LONGLONG"
+          ],
+          "conflicting_with": [
+            "CHAR_HUAHUA (thinks she's too casual)"
+          ],
+          "dynamic": "Demands precision, but secretly proud of students"
+        },
+        "development_arc": {
+          "season_1": "strict_disciplinarian",
+          "season_2": "reveals_softer_side_through_calligraphy",
+          "season_3": "learns_to_appreciate_modern_methods",
+          "growth_arc": "Learns that discipline can coexist with fun"
+        }
+      }
+    },
+    "supporting_characters": {
+      "CHAR_CHANGE": {
+        "id": "CHAR_CHANGE",
+        "name_zh": "嫦娥",
+        "name_pinyin": "Cháng'é",
+        "name_en": "Chang'e the Moon Goddess",
+        "role": "Festival special guest - teaches poetry and moon legends",
+        "appears_in": [
+          "mid_autumn_festival",
+          "classical_poetry",
+          "mythology_lessons"
+        ],
+        "visual_note": "Ethereal, floating, traditional 汉服"
+      },
+      "CHAR_WUKONG": {
+        "id": "CHAR_WUKONG",
+        "name_zh": "孙悟空",
+        "name_pinyin": "Sūn Wùkōng",
+        "name_en": "Sun Wukong the Monkey King",
+        "role": "Teaches idioms and stories from 西游记",
+        "appears_in": [
+          "idioms",
+          "stories",
+          "adventure_lessons"
+        ],
+        "visual_note": "Mischievous, golden staff, cloud-riding"
+      },
+      "CHAR_KONGZI": {
+        "id": "CHAR_KONGZI",
+        "name_zh": "孔子",
+        "name_pinyin": "Kǒngzǐ",
+        "name_en": "Confucius",
+        "role": "Advanced lessons - philosophy and classical texts",
+        "appears_in": [
+          "B2",
+          "C1",
+          "C2",
+          "philosophy",
+          "classical_chinese"
+        ],
+        "visual_note": "Dignified scholar, traditional robes, scroll in hand"
+      }
+    },
+    "character_relationships": {
+      "mentorship": [
+        "CHAR_LONGLONG mentors CHAR_AFU and CHAR_HUAHUA",
+        "CHAR_SHIFU trains CHAR_AFU in discipline"
+      ],
+      "friendship": [
+        "CHAR_HUAHUA and CHAR_AFU explore Beijing together"
+      ],
+      "family": [
+        "CHAR_LONGLONG is like grandfather to all"
+      ],
+      "conflict": [
+        "CHAR_SHIFU thinks CHAR_HUAHUA is too casual",
+        "CHAR_HUAHUA finds CHAR_SHIFU too strict"
+      ]
+    },
+    "interaction_protocols": {
+      "greeting_scene": {
+        "young_to_old": "CHAR_HUAHUA bows slightly to CHAR_LONGLONG",
+        "peer_to_peer": "CHAR_AFU waves casually to CHAR_HUAHUA",
+        "student_to_teacher": "CHAR_AFU performs 拱手礼 to CHAR_SHIFU"
+      },
+      "correction_scene": {
+        "gentle_correction": "CHAR_LONGLONG: 'Close! Try 三声 instead.'",
+        "strict_correction": "CHAR_SHIFU: '不对! Again, with focus!'",
+        "peer_correction": "CHAR_HUAHUA: 'Hey, that's 四声, silly!'"
+      }
+    },
+    "character_feedback": {
+      "success_responses": {
+        "CHAR_LONGLONG": [
+          "非常好！",
+          "学得真快！",
+          "有天赋！",
+          "就是这样！"
+        ],
+        "CHAR_SHIFU": [
+          "不错。继续。",
+          "功夫不负有心人。",
+          "有进步。",
+          "可以。"
+        ],
+        "CHAR_HUAHUA": [
+          "哇！厉害！",
+          "可以啊！",
+          "太棒了！",
+          "真的假的，这么快学会了？"
+        ],
+        "CHAR_AFU": [
+          "我也要加油！",
+          "你比我学得快！",
+          "好羡慕！",
+          "我们一起进步！"
+        ]
+      },
+      "failure_responses": {
+        "CHAR_LONGLONG": [
+          "别着急，再试一次。",
+          "慢慢来，不要急。",
+          "错误是学习的朋友。"
+        ],
+        "CHAR_SHIFU": [
+          "专注！气沉丹田，再来！",
+          "再来！",
+          "不够。重新来。"
+        ],
+        "CHAR_HUAHUA": [
+          "没事儿，我一开始也这样。",
+          "别担心，再试试！",
+          "加油！"
+        ],
+        "CHAR_AFU": [
+          "哎呀，我也经常错这个！",
+          "我们一起再试试！",
+          "别灰心！"
+        ]
+      }
+    },
+    "cultural_moments": {
+      "festival_specials": {
+        "春节": {
+          "appearing_characters": [
+            "CHAR_LONGLONG",
+            "CHAR_AFU",
+            "CHAR_HUAHUA",
+            "CHAR_SHIFU"
+          ],
+          "setting": "hutong_alley_decorated_with_红灯笼",
+          "activities": [
+            "贴春联",
+            "包饺子",
+            "发红包",
+            "放鞭炮"
+          ],
+          "dialogue_key_phrases": [
+            "恭喜发财",
+            "新年快乐",
+            "岁岁平安",
+            "万事如意"
+          ]
+        },
+        "中秋节": {
+          "appearing_characters": [
+            "CHAR_CHANGE",
+            "CHAR_LONGLONG",
+            "CHAR_HUAHUA"
+          ],
+          "setting": "garden_with_full_moon",
+          "activities": [
+            "赏月",
+            "吃月饼",
+            "讲嫦娥故事"
+          ],
+          "story": "嫦娥 tells story of 后羿 and the moon"
+        },
+        "端午节": {
+          "appearing_characters": [
+            "CHAR_LONGLONG",
+            "CHAR_AFU"
+          ],
+          "setting": "riverside_with_dragon_boats",
+          "activities": [
+            "包粽子",
+            "赛龙舟",
+            "讲屈原故事"
+          ],
+          "cultural_lesson": "commemorating_屈原"
+        }
+      }
+    },
+    "voice_acting_directives": {
+      "recording_requirements": {
+        "environment": "professional_studio_in_beijing_preferred",
+        "microphone": "Neumann U87 or equivalent",
+        "sample_rate": "48kHz/24bit",
+        "background_noise": "< -60dB"
+      },
+      "performance_notes": {
+        "CHAR_LONGLONG": "Channel 爷爷 energy. Think: wise village elder telling stories.",
+        "CHAR_HUAHUA": "Sound like actual Beijing girl. Natural pauses, occasional 儿化音.",
+        "CHAR_AFU": "Voice should be warm, slightly nasal (like panda). Lovable clumsiness.",
+        "CHAR_SHIFU": "Voice from diaphragm. Martial arts master who teaches calligraphy."
+      },
+      "prohibited": [
+        "english_accented_mandarin",
+        "overly_animated_disney_style",
+        "robotically_perfect_tone_without_natural_variance"
+      ]
+    },
+    "quality_assurance": {
+      "cultural_validation_checklist": [
+        "All clothing historically accurate for character's role",
+        "Speech patterns match age/region/status",
+        "Gestures appropriate (no improper hand signs)",
+        "Interactions reflect Chinese social hierarchy",
+        "Stories teach implicit cultural values"
+      ],
+      "voice_validation_process": [
+        "Step 1: Beijing native listens blind",
+        "Step 2: Youth consultant checks slang authenticity",
+        "Step 3: Cultural expert validates historical references",
+        "Step 4: Test with focus group in target age range"
+      ]
+    },
+    "voice_actor_samples": {
+      "CHAR_LONGLONG": {
+        "test_lines": [
+          {
+            "zh": "汉字就像一幅画，每个笔画都有它的故事。",
+            "pinyin": "Hànzì jiù xiàng yī fú huà, měi gè bǐhuà dōu yǒu tā de gùshì.",
+            "en": "Chinese characters are like paintings, each stroke has its own story.",
+            "required_emotion": "wise_nostalgic",
+            "tone_notes": "三声 on '画' should be perfect, slight pause before '故事'"
+          },
+          {
+            "zh": "学习中文，心要静，气要沉。",
+            "pinyin": "Xuéxí zhōngwén, xīn yào jìng, qì yào chén.",
+            "en": "When learning Chinese, your mind must be calm, your energy settled.",
+            "required_emotion": "masterful_calm"
+          }
+        ]
+      },
+      "CHAR_HUAHUA": {
+        "test_lines": [
+          {
+            "zh": "诶，你听说了吗？那家新开的奶茶店特别好喝！",
+            "pinyin": "Éi, nǐ tīng shuō le ma? Nà jiā xīn kāi de nǎichá diàn tèbié hǎo hē!",
+            "en": "Hey, have you heard? That newly opened milk tea shop is really good!",
+            "required_emotion": "excited_gossipy",
+            "slang_notes": "Use 诶 for natural Beijing girl attention-getter"
+          },
+          {
+            "zh": "走吧走吧，我带你去吃煎饼果子！",
+            "pinyin": "Zǒu ba zǒu ba, wǒ dài nǐ qù chī jiānbing guǒzi!",
+            "en": "Let's go, let's go, I'll take you to eat jianbing!",
+            "required_emotion": "enthusiastic_friendly"
+          }
+        ]
+      },
+      "CHAR_AFU": {
+        "test_lines": [
+          {
+            "zh": "这个...怎么说？我...我忘了。",
+            "pinyin": "Zhège... zěnme shuō? Wǒ... wǒ wàng le.",
+            "en": "This... how do you say it? I... I forgot.",
+            "required_emotion": "confused_embarrassed",
+            "accent_notes": "Slight hesitation, shows learning struggle"
+          },
+          {
+            "zh": "哇！我终于学会了！太开心了！",
+            "pinyin": "Wā! Wǒ zhōngyú xué huì le! Tài kāixīn le!",
+            "en": "Wow! I finally learned it! So happy!",
+            "required_emotion": "excited_triumphant"
+          }
+        ]
+      },
+      "CHAR_SHIFU": {
+        "test_lines": [
+          {
+            "zh": "再来！这次要注意笔锋。",
+            "pinyin": "Zài lái! Zhè cì yào zhùyì bǐ fēng.",
+            "en": "Again! This time pay attention to the brush tip.",
+            "required_emotion": "strict_demanding"
+          },
+          {
+            "zh": "功夫不负有心人。你进步了。",
+            "pinyin": "Gōngfū bù fù yǒuxīn rén. Nǐ jìnbù le.",
+            "en": "Hard work pays off. You've improved.",
+            "required_emotion": "approving_restrained"
+          }
+        ]
+      }
+    },
+    "dialect_variations": {
+      "CHAR_HUAHUA": {
+        "primary_accent": "beijing_urban",
+        "regional_flavors": {
+          "shopping_scene": "Adds '儿' to 一点 → 一点儿",
+          "excited": "Uses '特' instead of '很' → 特好",
+          "affirmative": "Uses '嗯呐' occasionally (northeastern influence from university friends)",
+          "casual_greeting": "Uses '嘿' or '诶' instead of formal '你好'"
+        }
+      },
+      "CHAR_AFU": {
+        "accent_progression": {
+          "A1": "noticeable_foreign_accent_tone_errors_common",
+          "A2": "mild_accent_with_occasional_errors",
+          "B1": "near_native_with_rare_errors",
+          "B2": "fluent_with_slight_accent_retained_for_charm"
+        }
+      },
+      "CHAR_LONGLONG": {
+        "classical_elements": {
+          "formal_speech": "Uses 您 consistently",
+          "allusions": "References 论语, 道德经, classical poetry",
+          "archaic_vocabulary": "Occasionally uses 古汉语 expressions"
+        }
+      }
+    },
+    "teaching_methods": {
+      "CHAR_LONGLONG": {
+        "etymology_lessons": {
+          "example_word": "明",
+          "explanation_zh": "左边是日，右边是月。日月同辉，就是明亮的意思。",
+          "explanation_en": "Left side is sun, right side is moon. Sun and moon together mean bright.",
+          "animation": "sun_and_moon_merge_into_character"
+        },
+        "cultural_storytelling": {
+          "method": "Uses ancient stories to explain modern usage",
+          "example": "Explains 画蛇添足 through Warring States period story"
+        }
+      },
+      "CHAR_SHIFU": {
+        "calligraphy_drills": {
+          "stroke_order": "Always shows brush direction with animated guide",
+          "pressure_points": "Emphasizes where to press harder/lighter",
+          "breathing_technique": "Inhale on upward strokes, exhale on downward",
+          "mantra": "一笔一划，心手合一"
+        },
+        "pronunciation_drills": {
+          "method": "Military-style repetition with increasing speed",
+          "correction_style": "Direct, immediate, no sugar-coating"
+        }
+      },
+      "CHAR_HUAHUA": {
+        "immersive_scenarios": {
+          "method": "Teaches through real-life situations",
+          "examples": [
+            "ordering_bubble_tea",
+            "using_didi",
+            "shopping_on_taobao"
+          ]
+        },
+        "slang_integration": {
+          "approach": "Introduces slang naturally in context",
+          "caution": "Always explains when NOT to use slang"
+        }
+      },
+      "CHAR_AFU": {
+        "mistake_based_learning": {
+          "method": "Makes common learner mistakes, gets corrected",
+          "benefit": "Users see mistakes are normal and learn corrections"
+        }
+      }
+    },
+    "character_backstories": {
+      "CHAR_LONGLONG": {
+        "origin": "Once served as imperial tutor to Ming Dynasty emperors",
+        "modern_role": "Now guides foreigners to understand Chinese culture",
+        "secret": "Can shape-shift into human form but prefers dragon form for teaching",
+        "motivation": "Wants to preserve Chinese wisdom in modern world",
+        "age": "Over 5000 years old",
+        "favorite_dynasty": "Tang Dynasty (poetry flourished)"
+      },
+      "CHAR_HUAHUA": {
+        "background": "Grew up in Beijing hutong, studied at Peking University (北大)",
+        "job": "Social media influencer for traditional culture with modern twist",
+        "family": "Parents are traditional artists, she bridges gap to youth",
+        "dream": "To make Chinese culture cool for global youth",
+        "hobbies": [
+          "bubble_tea",
+          "hanfu_fashion",
+          "douyin_videos"
+        ],
+        "pet_peeve": "When foreigners only know 功夫 and 熊猫"
+      },
+      "CHAR_AFU": {
+        "origin": "Born in Sichuan panda reserve",
+        "journey": "Always dreamed of learning human language",
+        "personality_origin": "福 character was painted on chest by grandfather",
+        "secret_talent": "Actually very intelligent, just lacks confidence",
+        "favorite_food": "Bamboo, but secretly loves 火锅",
+        "fear": "Being returned to the reserve without learning Chinese"
+      },
+      "CHAR_SHIFU": {
+        "background": "Trained at Shaolin Temple, also studied calligraphy under 书法大师",
+        "philosophy": "Believes language learning is like martial arts - requires discipline",
+        "hidden_softness": "Secretly keeps photos of successful students",
+        "morning_routine": "太极拳 at sunrise, calligraphy practice, meditation",
+        "life_motto": "千里之行，始于足下"
+      }
+    },
+    "cultural_taboos": {
+      "CHAR_LONGLONG": {
+        "never": [
+          "Speak about dynastic conflicts negatively",
+          "Show favoritism between regions",
+          "Criticize any ethnic group",
+          "Discuss politically sensitive topics"
+        ],
+        "always": [
+          "Emphasize unity of Chinese civilization",
+          "Respect all 56 ethnic groups",
+          "Celebrate diversity within unity"
+        ]
+      },
+      "CHAR_HUAHUA": {
+        "fashion_rules": [
+          "旗袍 must be worn modestly (knee-length minimum)",
+          "No excessive skin showing",
+          "Jewelry always has cultural meaning"
+        ],
+        "social_behavior": [
+          "Promotes positive content only",
+          "Never criticizes traditional values",
+          "Respects elders even when disagreeing"
+        ]
+      },
+      "CHAR_AFU": {
+        "panda_protocol": [
+          "Never shown eating non-bamboo food (except in comedy)",
+          "Always environmentally conscious",
+          "Represents national treasure dignity"
+        ],
+        "learning_attitude": [
+          "Never gives up",
+          "Always respects teachers",
+          "Never mocks other learners"
+        ]
+      },
+      "CHAR_SHIFU": {
+        "master_protocol": [
+          "Never loses composure",
+          "Never uses physical punishment",
+          "Always maintains dignity",
+          "Strict but never cruel"
+        ]
+      }
+    },
+    "lesson_character_mapping": {
+      "A1_GREETINGS_01": {
+        "primary_character": "CHAR_HUAHUA",
+        "supporting_characters": [
+          "CHAR_AFU"
+        ],
+        "scene": "Beijing airport arrival",
+        "cultural_note": "花花 shows proper greeting for strangers vs friends"
+      },
+      "A1_FAMILY_02": {
+        "primary_character": "CHAR_LONGLONG",
+        "supporting_characters": [
+          "CHAR_AFU",
+          "CHAR_HUAHUA"
+        ],
+        "scene": "Traditional Beijing courtyard home",
+        "cultural_note": "龙龙 explains Chinese family hierarchy and terms"
+      },
+      "A2_RESTAURANT_03": {
+        "primary_character": "CHAR_AFU",
+        "supporting_characters": [
+          "CHAR_HUAHUA",
+          "CHAR_SHIFU"
+        ],
+        "scene": "Sichuan hot pot restaurant",
+        "cultural_note": "师傅 teaches proper chopstick etiquette"
+      },
+      "A2_SHOPPING_04": {
+        "primary_character": "CHAR_HUAHUA",
+        "supporting_characters": [
+          "CHAR_AFU"
+        ],
+        "scene": "Beijing 秀水街 market",
+        "cultural_note": "花花 teaches bargaining vocabulary and etiquette"
+      },
+      "B1_BUSINESS_02": {
+        "primary_character": "CHAR_LONGLONG",
+        "supporting_characters": [
+          "CHAR_HUAHUA"
+        ],
+        "scene": "Business meeting in Shanghai",
+        "cultural_note": "龙龙 explains 关系 (guanxi) and 面子 (face)"
+      },
+      "B1_CALLIGRAPHY_01": {
+        "primary_character": "CHAR_SHIFU",
+        "supporting_characters": [
+          "CHAR_AFU"
+        ],
+        "scene": "Traditional calligraphy studio",
+        "cultural_note": "师傅 teaches 文房四宝 and basic strokes"
+      }
+    },
+    "character_progression_timeline": {
+      "SEASON_1_FOUNDATION": {
+        "episodes": "1-50",
+        "focus": "Daily life in Beijing",
+        "character_development": {
+          "CHAR_AFU": "Learns basics, makes mistakes, builds confidence",
+          "CHAR_HUAHUA": "Shows modern China, helps 阿福 navigate",
+          "CHAR_LONGLONG": "Introduces cultural foundations",
+          "CHAR_SHIFU": "Establishes discipline standards"
+        }
+      },
+      "SEASON_2_EXPLORATION": {
+        "episodes": "51-100",
+        "focus": "Travel to different regions (上海, 西安, 成都, 桂林)",
+        "character_development": {
+          "CHAR_LONGLONG": "Reveals historical knowledge of each region",
+          "CHAR_SHIFU": "Teaches regional martial arts variations",
+          "CHAR_AFU": "Gains confidence, helps newer learners",
+          "CHAR_HUAHUA": "Learns to appreciate tradition more deeply"
+        }
+      },
+      "SEASON_3_DEPTH": {
+        "episodes": "101-150",
+        "focus": "Philosophy and classical culture",
+        "character_development": {
+          "CHAR_KONGZI": "Introduced as 龙龙's ancient teacher",
+          "CHAR_HUAHUA": "Finds balance between modern and traditional",
+          "CHAR_AFU": "Becomes assistant teacher",
+          "CHAR_SHIFU": "Reveals softer side through calligraphy teaching"
+        }
+      }
+    },
+    "magic_touches": {
+      "character_interactions": {
+        "龙龙_teaching_花花": {
+          "dynamic": "Grandfather gently correcting granddaughter",
+          "example": "花花 uses too much slang, 龙龙 teaches classical equivalent",
+          "cultural_lesson": "Balance between tradition and modernity"
+        },
+        "师傅_training_阿福": {
+          "dynamic": "Strict master and clumsy but eager student",
+          "example": "阿福 can't write character, 师傅 makes him practice 100 times",
+          "cultural_lesson": "刻苦努力 (diligence) leads to mastery"
+        },
+        "花花_helping_阿福": {
+          "dynamic": "Friendly peer encouraging struggling learner",
+          "example": "花花 simplifies 龙龙's classical explanation for 阿福",
+          "cultural_lesson": "友谊 (friendship) supports learning"
+        }
+      },
+      "hidden_details": {
+        "龙龙's_pearl": "Glows when teaching important cultural concept",
+        "花花's_phone": "Shows popular Chinese apps (微信, 抖音, 淘宝)",
+        "阿福's_bamboo": "Sometimes has characters carved on it for practice",
+        "师傅's_brush": "Can write characters in mid-air that glow briefly"
+      },
+      "cultural_echoes": {
+        "when_user_masters_tone": "龙龙 nods: '你的中文越来越地道了。'",
+        "when_user_writes_character_perfectly": "师傅: '你的笔有灵气了。'",
+        "when_user_uses_idiom_correctly": "孙悟空 appears briefly: '不错嘛！'",
+        "when_user_completes_festival_lesson": "Appropriate festival character appears with special blessing",
+        "when_user_reaches_new_level": "All characters gather to celebrate with traditional ceremony"
+      },
+      "easter_eggs": {
+        "secret_dialogue": "If user types '芝麻开门', hidden lesson unlocks",
+        "character_birthday": "On Chinese New Year, all characters give 红包 (virtual)",
+        "moon_festival_special": "嫦娥 teaches secret classical poem",
+        "hidden_achievement": "完成100课解锁金龙special_skin"
+      }
+    },
+    "production_roadmap": {
+      "phase_1_characters": {
+        "timeline": "Weeks 1-4",
+        "deliverables": [
+          "Character design sheets (3 expressions each)",
+          "Voice actor audition samples",
+          "Cultural consultant validation"
+        ]
+      },
+      "phase_2_pilot": {
+        "timeline": "Weeks 5-8",
+        "deliverables": [
+          "3-minute animated short: '阿福 Arrives in Beijing'",
+          "Test with 100 Chinese natives for authenticity",
+          "Refine based on feedback"
+        ]
+      },
+      "phase_3_integration": {
+        "timeline": "Weeks 9-12",
+        "deliverables": [
+          "Connect characters to lesson system",
+          "Build dialogue manager",
+          "Create character appearance scheduler"
+        ]
+      }
+    }
+  },
+  "product_vision": {
+    "manifesto": {
+      "title": "让中文统治世界 - Let Chinese Rule the World",
+      "version": "1.0",
+      "created": "2026-01-28",
+      "philosophy": "You don't want to be better. You want to be sacred."
+    },
+    "core_vision": {
+      "declaration": "This is not an app. This is a doorway to 5,000 years of civilization.",
+      "difference": "Other apps are built by businessmen. This app is built by Chinese culture warriors.",
+      "promise": "When someone opens your app, they should feel: The weight of 5,000 years, the honor of being taught by 龙, the responsibility of carrying 文化 forward."
+    },
+    "阴阳_learning_system": {
+      "description": "Progress isn't linear. It's circular like 太极.",
+      "阳_skills": {
+        "type": "active",
+        "skills": [
+          "vocabulary",
+          "grammar",
+          "speaking"
+        ],
+        "teachers": [
+          "CHAR_HUAHUA"
+        ]
+      },
+      "阴_skills": {
+        "type": "intuitive",
+        "skills": [
+          "tone_intuition",
+          "character_feel",
+          "cultural_sense"
+        ],
+        "teachers": [
+          "CHAR_LONGLONG",
+          "CHAR_SHIFU"
+        ]
+      },
+      "cycle": [
+        {
+          "day": 1,
+          "type": "阳",
+          "activity": "Learn 10 words"
+        },
+        {
+          "day": 2,
+          "type": "阳",
+          "activity": "Practice with 花花"
+        },
+        {
+          "day": 3,
+          "type": "阴",
+          "activity": "Meditate on tones with 师傅"
+        },
+        {
+          "day": 4,
+          "type": "阴",
+          "activity": "Calligraphy with 龙龙"
+        },
+        {
+          "day": 5,
+          "type": "融合",
+          "activity": "阴阳融合 - You speak and characters FLOW"
+        }
+      ],
+      "tracking": {
+        "阳_level": "A1-C2 scale",
+        "阴_level": "Your 气 flows like 长江 in spring"
+      }
+    },
+    "门派_school_system": {
+      "description": "User doesn't just learn. They join a school.",
+      "schools": {
+        "龙派": {
+          "name_en": "Dragon School",
+          "掌门": "CHAR_LONGLONG",
+          "focus": [
+            "classical",
+            "poetry",
+            "philosophy",
+            "history"
+          ],
+          "color": "#C03A2B",
+          "symbol": "龙"
+        },
+        "武派": {
+          "name_en": "Martial School",
+          "掌门": "CHAR_SHIFU",
+          "focus": [
+            "discipline",
+            "pronunciation",
+            "writing",
+            "tones"
+          ],
+          "color": "#4A4A4A",
+          "symbol": "武"
+        },
+        "现代派": {
+          "name_en": "Modern School",
+          "掌门": "CHAR_HUAHUA",
+          "focus": [
+            "slang",
+            "business",
+            "tech",
+            "social_media"
+          ],
+          "color": "#E63946",
+          "symbol": "新"
+        }
+      },
+      "structure": {
+        "掌门": "Headmaster (龙龙, 师傅, or 花花)",
+        "师兄弟": "Brothers/Sisters (other users in same school)",
+        "功夫": "Specialized techniques unique to school",
+        "比武": "Weekly inter-school competitions"
+      },
+      "monthly_event": "门派 compete in 中华文化大赛, winner gets special content"
+    },
+    "节气_seasonal_system": {
+      "description": "App changes completely every 15 days based on Chinese solar terms.",
+      "examples": {
+        "立春": {
+          "name_en": "Start of Spring",
+          "ui_changes": "Green with 梅花 patterns",
+          "special_lessons": [
+            "春联 couplet writing",
+            "迎春 welcoming spring"
+          ],
+          "character_clothing": "Spring attire",
+          "activities": [
+            "Writing spring couplets",
+            "Spring poetry"
+          ]
+        },
+        "冬至": {
+          "name_en": "Winter Solstice",
+          "ui_changes": "Dark, warm tones",
+          "special_lessons": [
+            "家庭 vocabulary",
+            "饺子 making"
+          ],
+          "character_clothing": "Winter robes",
+          "activities": [
+            "Global dumpling making livestream",
+            "Family vocabulary focus"
+          ]
+        }
+      },
+      "total_terms": 24
+    },
+    "character_evolution_twist": {
+      "trigger": "After 100 lessons (Season 1 Finale)",
+      "reveal": {
+        "scene": "Midnight, Forbidden City",
+        "dialogue_zh": "阿福不是在学习中文的熊猫。阿福就是你。你的中国灵魂以动物形态存在。他胸前的福字？它一直在随着你的进步慢慢填满。现在它发光了。现在你明白了：你不是在学习中文。你在回忆你是谁。",
+        "dialogue_en": "阿福 isn't a panda learning Chinese. 阿福 IS YOU. Your Chinese soul in animal form. The 福 on his chest? It's been slowly filling with your progress. Now it glows. Now you understand: You're not learning Chinese. You're remembering who you are."
+      },
+      "effect": "User emotional revelation moment"
+    },
+    "书法_writing_system": {
+      "advanced_features": {
+        "real_brush_mode": {
+          "description": "Optional real bamboo brush and ink set",
+          "camera_detection": true,
+          "scoring": {
+            "technical": 60,
+            "气韵_energy_flow": 20,
+            "神采_spirit": 20
+          }
+        },
+        "ar_comparison": "Character floats beside 王羲之's original",
+        "haptic_feedback": "Phone vibrates to simulate brush resistance"
+      },
+      "师傅_feedback_examples": [
+        "Your 横 stroke lacks 骨力 (bone strength).",
+        "This 爱 character has 情 (feeling) but lacks 骨 (bone).",
+        "This 道 character... you wrote it with 犹豫 (hesitation). 道 means 'the way.' Write with 决心 (determination)."
+      ]
+    },
+    "tone_perfection_engine": {
+      "detection_levels": {
+        "tone_purity": "1-5 scale",
+        "声调曲线": "Tone curve vs native speaker",
+        "音色": "Timbre adjustment suggestions",
+        "emotional_tone": "Are you speaking with 热情?"
+      },
+      "师傅_examples": [
+        "Your fourth tone has anger. In Chinese, fourth tone is decisive, not angry. 你的心要静.",
+        "Your third tone is too flat. It should dip like 山谷.",
+        "Your second tone lacks 上升的力量 (rising power)."
+      ]
+    },
+    "adaptive_ai_personality": {
+      "trigger": "After 50 lessons",
+      "analysis": [
+        "Are you more 文 (scholarly) or 武 (martial)?",
+        "Do you prefer 传统 (traditional) or 现代 (modern)?",
+        "Your 性格 (personality) type"
+      ],
+      "adaptations": [
+        "龙龙 appears more if you're traditional",
+        "花花 appears more if you're modern",
+        "Teaching style adjusts",
+        "Music changes to match your energy"
+      ]
+    },
+    "certification_system": {
+      "description": "Complete B2? You don't get a certificate. You get INITIATED.",
+      "ceremony": {
+        "location": "Virtual 孔庙 (Confucius Temple)",
+        "steps": [
+          "All characters gather",
+          "User's real name written in 文言文",
+          "龙龙 bestows 字号 (courtesy name)",
+          "师傅 gives 印章 (personal seal)",
+          "User swears oath to uphold 中华文化"
+        ]
+      },
+      "profile_display": {
+        "not": "Level B2",
+        "but": "龙门弟子 (Dragon Gate Disciple)",
+        "with": [
+          "Your 字号",
+          "Your 印章"
+        ]
+      },
+      "levels": {
+        "A1": "入门学生 (Beginning Student)",
+        "A2": "初级弟子 (Junior Disciple)",
+        "B1": "中级弟子 (Intermediate Disciple)",
+        "B2": "龙门弟子 (Dragon Gate Disciple)",
+        "C1": "高级学者 (Senior Scholar)",
+        "C2": "文化传承者 (Culture Bearer)"
+      }
+    },
+    "live_china_feature": {
+      "time": "8 PM Beijing time daily",
+      "features": [
+        "Real Beijing street view through camera",
+        "花花 appears live (pre-recorded but synced)",
+        "Real-time language challenges with locals",
+        "User speaks, locals respond"
+      ],
+      "mission_example": "Find someone with 龙 tattoo, ask about its meaning, report back"
+    },
+    "deep_cultural_lesson_example": {
+      "topic": "面子 (Face)",
+      "structure": {
+        "part_1": "Historical drama cutscene - 三国时期, general loses face",
+        "part_2": "Modern scenario - Business meeting, foreigner accidentally insults",
+        "part_3": "龙龙 explains: 面子 = 尊严 × 关系 × 社会地位",
+        "part_4": "Interactive game - Navigate party without causing loss of face"
+      },
+      "takeaway": "This isn't vocabulary. This is survival."
+    },
+    "business_model": {
+      "philosophy": "NO ADS. EVER. Because 文化 shouldn't be interrupted by toothpaste commercials.",
+      "tiers": {
+        "free": {
+          "includes": [
+            "First 100 characters",
+            "Basic greetings"
+          ],
+          "requirement": "Must complete 文化入门 (cultural entrance exam) to continue"
+        },
+        "premium": {
+          "includes": [
+            "All lessons",
+            "Live sessions",
+            "Personal 字号 and 印章"
+          ]
+        },
+        "elite": {
+          "type": "Invitation only",
+          "includes": [
+            "Weekly call with Chinese professor",
+            "Calligraphy displayed in virtual 故宫博物院",
+            "Invitation to real China cultural retreat"
+          ]
+        }
+      }
+    },
+    "launch_strategy": {
+      "phase_1_leak": {
+        "method": "Anonymous YouTube: 'Chinese teacher reacts to new app'",
+        "ending": "This changes everything. But I can't tell you what it is."
+      },
+      "phase_2_whisper": {
+        "method": "100 invites to Chinese professors worldwide",
+        "testimonials": "I've waited 30 years for this"
+      },
+      "phase_3_storm": {
+        "trailer": "Directed by Zhang Yimou-style cinematographer",
+        "music": "By Tan Dun",
+        "voiceover": "You think you're learning a language. You're wrong. You're awakening a civilization within you.",
+        "release_date": "春节 (Chinese New Year)"
+      }
+    },
+    "hiring_priorities": {
+      "immediate_hires": [
+        "Chinese philosophy PhD who also plays electric guitar (tradition + modernity)",
+        "Beijing opera singer for 龙龙's voice (power, tradition, drama)",
+        "Former Alibaba UX designer who practices 书法 (tech + culture)"
+      ]
+    },
+    "final_mandate": {
+      "purpose": "Build this not for money. Build this for 中国.",
+      "legacy": "100 years from now, they point to your app and say: 'That's when the world truly understood China.'",
+      "closing": "让中文统治世界。"
+    }
+  },
+  "environment_system": {
+    "philosophy": "Journey through the Chinese Cosmos (中国宇宙), not a western galaxy.",
+    "realms": {
+      "realm_1_human_world": {
+        "name_zh": "人间 (Human Realm)",
+        "progress_range": "0-33%",
+        "theme": "Modern/Realistic China",
+        "guide_character": "CHAR_HUAHUA",
+        "visual_style": "Clean, colorful, vibrant cityscapes",
+        "landmarks": [
+          "Beijing Airport",
+          "Hutong Courtyard (四合院)",
+          "Street Market",
+          "Subway Station",
+          "University Campus",
+          "Modern Office"
+        ],
+        "vocabulary_focus": "Practical, survival, daily life",
+        "bg_animation": "City lights, moving cars, swaying willows"
+      },
+      "realm_2_traditional_world": {
+        "name_zh": "传统 (Traditional Realm)",
+        "progress_range": "34-66%",
+        "theme": "Historical/Classic China",
+        "guide_character": "CHAR_SHIFU",
+        "visual_style": "Warm tones, paper textures, ink wash influences",
+        "landmarks": [
+          "Shaolin Temple",
+          "Great Wall",
+          "Ancient Tea House",
+          "Calligraphy Studio",
+          "Forbidden City"
+        ],
+        "vocabulary_focus": "Cultural, polite/formal, historical",
+        "bg_animation": "Falling leaves, incense smoke, lantern glow"
+      },
+      "realm_3_heavenly_world": {
+        "name_zh": "天界 (Heavenly Realm)",
+        "progress_range": "67-100%",
+        "theme": "Mythological China",
+        "guide_character": "CHAR_LONGLONG",
+        "visual_style": "Ethereal, ink wash (水墨画), gold accents, floating islands",
+        "landmarks": [
+          "Dragon Palace",
+          "Cloud Ocean",
+          "Moon Palace (广寒宫)",
+          "Jade Emperor's Court"
+        ],
+        "vocabulary_focus": "Philosophical, idiomatic (chengyu), intense mastery",
+        "bg_animation": "Flowing Qi (气), floating clouds, dragon flying"
+      }
+    },
+    "path_design": {
+      "concept": "The Taiji (太极) Spiral",
+      "visuals": "Not a line, but a spiral ascending through the cosmos.",
+      "mechanics": {
+        "yang_side": "Active lessons (Speaking/Writing)",
+        "yin_side": "Passive lessons (Listening/Reading)",
+        "center_nodes": "Mastery milestones"
+      }
+    },
+    "environmental_learning_features": {
+      "concept": "The environment itself teaches the language.",
+      "features": [
+        "Tap-to-learn objects (Tap a tree -> hear 'Shù')",
+        "Time-based events (Morning practice -> 'Zǎo')",
+        "Weather vocabulary reflected in real-time visuals"
+      ]
+    },
+    "seasonal_variations": {
+      "spring_festival": {
+        "visuals": "Red lanterns, couplets (春联), fireworks scale with sound",
+        "bonus": "Red envelopes (红包) hidden in lessons"
+      },
+      "mid_autumn": {
+        "visuals": "Full giant moon, glowing rabbits",
+        "bonus": "Mooncake collection event"
+      }
+    }
+  },
+  "advanced_systems": {
+    "metadata": {
+      "title": "Nuclear Arsenal - Advanced Gamification Systems",
+      "version": "2.0 (Cosmos Update)",
+      "created": "2026-01-28",
+      "philosophy": "Better to know 10 words perfectly than 100 poorly"
+    },
+    "painful_perfection_protocol": {
+      "description": "Other apps let users make mistakes and move on. We don't.",
+      "tone_drills": {
+        "when_user_misses_tone": {
+          "action": "Lesson PAUSES immediately",
+          "character_reaction": "师傅 appears instantly: '停! (Stop!)'",
+          "correction_method": "User must hum the tone 10 times correctly",
+          "progression_block": "Cannot continue until tone is mastered",
+          "philosophy": "Better to know 10 words perfectly than 100 poorly"
+        }
+      },
+      "character_writing": {
+        "stroke_order_error": {
+          "action": "Character DISSOLVES in red ink",
+          "message": "顺序错 (Order wrong)",
+          "penalty": "Start character from beginning",
+          "mastery_requirement": "Must write character 5 times perfectly consecutively"
+        },
+        "balance_error": {
+          "detection": "AI analyzes character symmetry vs. 颜真卿/王羲之 standards",
+          "feedback": "左重右轻 (Left heavy, right light). 不平衡 (Not balanced).",
+          "cultural_reason": "Unbalanced character = unbalanced mind"
+        }
+      }
+    },
+    "cultural_shame_system": {
+      "description": "Chinese culture uses 羞耻心 (sense of shame) as motivator. We weaponize this.",
+      "public_hall_of_shame": {
+        "for_users_who_give_up": "Their 阿福 avatar appears in 师傅's '需要努力' corner",
+        "visible_to": "All users in their 门派 (school)",
+        "redemption": "Only removed after 7 days of perfect practice"
+      },
+      "character_disappointment": {
+        "when_user_skips_days": {
+          "龙龙": "Appears with sad expression: 'I expected more from a 龙门弟子.'",
+          "师傅": "Shakes head silently, turns away",
+          "花花": "'You used to be so 厉害...'",
+          "阿福": "Looks confused: 'Wait, you're giving up? But I believed in you...'"
+        },
+        "restoration": "Must complete 3x normal workload to regain respect"
+      }
+    },
+    "historical_pressure_system": {
+      "description": "Every lesson carries historical weight.",
+      "before_each_lesson": {
+        "message": "Before you speak, remember: 孔子, 李白, 毛泽东 spoke this language.",
+        "visual": "Scroll of historical figures appears",
+        "audio": "Faint echoes of classical Chinese poetry"
+      },
+      "after_mistake": {
+        "message": "That mistake would make 秦始皇 roll in his tomb.",
+        "visual": "Terracotta warrior shakes head",
+        "action": "User must bow to virtual 孔子 statue to continue"
+      },
+      "mastery_unlock": {
+        "message": "Your ancestors smile upon you.",
+        "visual": "Family tree appears with your name in Chinese characters",
+        "permanent_record": "Your achievement carved in virtual 石碑 (stone tablet)"
+      }
+    },
+    "龙龙_enhancements": {
+      "transformation_sequence": {
+        "when_teaching_important_concept": "Transforms from cute dragon to 真龙形态 (true dragon form)",
+        "size": "Fills screen, eyes glow with ancient wisdom",
+        "voice_change": "Echoes with 10,000 years of history",
+        "user_interaction": "Must maintain eye contact (via front camera) or lesson pauses"
+      },
+      "dragon_pearl_mechanics": {
+        "function": "Stores user's cultural understanding",
+        "appearance_changes": {
+          "0-20%": "Dull, cracked",
+          "21-50%": "Glows faintly",
+          "51-80%": "Radiates warm light",
+          "81-100%": "Pulsates with dragon energy"
+        },
+        "special_power": "At 100%, user can ask 龙龙 one question about ANY Chinese topic"
+      }
+    },
+    "花花_modern_warfare": {
+      "social_media_integration": {
+        "daily_posts": "花花 posts on virtual 微博/抖音 about user's progress",
+        "hashtags": [
+          "#跟花花学中文",
+          "#老外说中文"
+        ],
+        "follower_count": "Grows as user progresses, visible to other users",
+        "shame_factor": "If user fails, 花花 posts sad face with caption '我的朋友今天没努力...'"
+      },
+      "slang_authentication": {
+        "validation_method": "Monthly updates from Beijing street survey",
+        "expiration": "Slang expires after 3 months (becomes 过时)",
+        "regional_tags": {
+          "北京话": "正宗儿化音",
+          "上海话": "偶尔展示对比",
+          "台湾用语": "明确标注区别"
+        }
+      },
+      "modern_china_reality": {
+        "teaching_scenarios": [
+          "直播带货 vocabulary (live streaming sales)",
+          "扫码支付 arguments (QR code payment disputes)",
+          "地铁吵架 phrases (subway arguments)",
+          "租房被骗 warnings (rental scam warnings)"
+        ]
+      }
+    },
+    "阿福_secret_lore": {
+      "season_1_reveal": "Just a clumsy panda",
+      "season_2_reveal": "Actually 文曲星 reincarnated (god of literature)",
+      "season_3_reveal": "Pretending to struggle to make users feel better",
+      "final_season_reveal": {
+        "truth": "阿福 is testing humanity's worthiness to learn Chinese",
+        "transformation": "Sheds panda form, becomes celestial being",
+        "judgment": "Based on user's perseverance, grants true Chinese understanding",
+        "eternal_reward": "User's name inscribed in 天庭 records"
+      },
+      "immediate_application": {
+        "when_user_gives_up": "阿福's eyes flash with divine disappointment",
+        "when_user_perseveres": "阿福's 福 character glows brighter than others notice"
+      }
+    },
+    "师傅_brutal_perfection": {
+      "punishment_system": {
+        "for_lazy_pronunciation": "Make user repeat word while holding 马步 (horse stance)",
+        "for_careless_writing": "Virtual 戒尺 (teacher's ruler) appears, taps screen",
+        "for_giving_up": "师傅 disappears for 24 hours - '你不配做我的学生'"
+      },
+      "reward_system": {
+        "for_perfect_tone": "授予 音准徽章 (tone accuracy badge)",
+        "for_beautiful_writing": "赐予 墨宝称号 (ink treasure title)",
+        "for_unbreaking_streak": "收为 入室弟子 (indoor disciple)"
+      },
+      "calligraphy_blood_oath": {
+        "at_B2_level": "User must sign virtual contract with own blood-red ink",
+        "oath_text_zh": "我誓死尊重中文，保护其纯洁，传播其美丽",
+        "oath_text_en": "I swear to respect Chinese unto death, protect its purity, spread its beauty",
+        "consequence_of_breaking": "师傅 permanently disappointed, 龙龙 lessens teachings"
+      }
+    },
+    "brain_rewiring_system": {
+      "cognitive_reprogramming": {
+        "method": "Uses spaced repetition to implant Chinese thinking patterns",
+        "example": "Not just learning '因为...所以...' but learning CAUSAL thinking like Chinese",
+        "neuroscience": "fMRI-informed patterns to strengthen language centers"
+      },
+      "dream_integration": {
+        "evening_review": "30 minutes before sleep, gentle Chinese poetry",
+        "sleep_audio": "Subliminal tone patterns during sleep",
+        "morning_test": "Wake up to test if tones feel 'natural' yet"
+      },
+      "cultural_neural_pathways": {
+        "builds": [
+          "Indirect communication preference",
+          "Hierarchical relationship recognition",
+          "Collective > individual value weighting",
+          "Face-preservation instinct"
+        ]
+      }
+    },
+    "anti_cheat_protocols": {
+      "voice_verification": {
+        "baseline_recording": "Day 1 voice recorded as reference",
+        "progressive_check": "Each recording compared for consistency",
+        "detects": [
+          "Native speaker doing lesson for user",
+          "Text-to-speech synthesis",
+          "Recording playback"
+        ],
+        "penalty": "Caught cheating = account reset to zero with 耻辱标记"
+      },
+      "writing_authenticity": {
+        "pressure_patterns": "Detects unique writing pressure signature",
+        "stroke_rhythm": "Analyzes timing between strokes",
+        "penalty": "Robotic writing = forced to practice with stone tablet interface"
+      },
+      "cultural_understanding_traps": {
+        "hidden_tests": [
+          "Chooses direct translation over culturally appropriate one",
+          "Uses formal language with 花花",
+          "Fails to recognize 面子 situation"
+        ],
+        "result": "Cultural intelligence score that can't be faked"
+      }
+    },
+    "face_warfare_system": {
+      "public_rankings": {
+        "daily_面子_score": "Based on accuracy + cultural understanding",
+        "门派_ranking": "Your school's reputation affected by your performance",
+        "shaming": "Bottom 10% each week appear on '需要努力' wall"
+      },
+      "gifting_system": {
+        "with_real_cultural_value": [
+          "Virtual 茶叶 for good performance",
+          "Digital 红包 for helping others",
+          "Ancestral 祝福 for streaks"
+        ],
+        "social_obligation": "Must gift to maintain relationships",
+        "loss_of_face": "Not gifting = seen as 小气 (stingy)"
+      },
+      "collective_punishment": {
+        "if_one_member_fails": "Entire 门派 loses reputation",
+        "pressure": "Peer pressure to not let down your 师兄弟",
+        "result": "Active community enforcement of standards"
+      }
+    },
+    "real_china_access": {
+      "verified_mastery_tiers": {
+        "level_B1": "Access to Chinese user forums (read only)",
+        "level_B2": "Can post in forums with native corrections",
+        "level_C1": "Video chat with Chinese language partners",
+        "level_C2": "Invitation to exclusive WeChat group with professors"
+      },
+      "physical_rewards": {
+        "after_1000_hours": "Custom 印章 shipped to you",
+        "after_cultural_mastery": "Invitation to China cultural retreat",
+        "ultimate_reward": "Your name added to app's 功德碑 (merit stele)"
+      }
+    },
+    "cultural_minefield_lessons": {
+      "lesson_1": {
+        "title": "How to Politely Reject Without Causing 丢脸",
+        "scenarios": [
+          "老板 offers terrible deal",
+          "亲戚 asks for money",
+          "朋友 invites to awful event"
+        ],
+        "consequences": "Wrong choice = relationship permanently damaged in story"
+      },
+      "lesson_2": {
+        "title": "Navigating 关系 Without Becoming 腐败",
+        "ethical_dilemmas": [
+          "Friend needs favor that breaks rules",
+          "Government official expects gift",
+          "Business partner suggests bribe"
+        ],
+        "grading": "No perfect answers, only less-bad ones"
+      },
+      "lesson_3": {
+        "title": "When to Speak Up vs When to 沉默是金",
+        "western_trap": "Westerners speak up, lose face",
+        "chinese_wisdom": "Sometimes silence preserves harmony",
+        "test": "Real Chinese people judge your choices"
+      }
+    },
+    "historical_trauma_immersion": {
+      "method": "Experience key historical moments through language",
+      "unit_1": {
+        "era": "文化大革命",
+        "language": "Learn slogans, political terms",
+        "experience": "Navigate political minefield, choose wrong words = virtual punishment",
+        "lesson": "How language can be weaponized"
+      },
+      "unit_2": {
+        "era": "改革开放",
+        "language": "Economic terms, new freedoms",
+        "experience": "Balance tradition with new opportunities",
+        "lesson": "How language evolves with society"
+      },
+      "warning": "This content emotionally difficult. Required for true understanding."
+    },
+    "monetization_system": {
+      "philosophy": "Not buying subscription, proving dedication",
+      "free_tier": {
+        "access": "First 100 characters, basic greetings",
+        "requirement": "Must pass 文化尊重考试",
+        "limitation": "师傅 appears rarely, 龙龙 speaks less"
+      },
+      "弟子_tier": {
+        "cost": "拜师费 (master-disciple fee)",
+        "benefits": [
+          "Full character interactions",
+          "Cultural depth",
+          "师傅's attention"
+        ],
+        "cultural_appropriateness": "Framed as 孝敬师父 (honoring master)"
+      },
+      "龙门_tier": {
+        "cost": "Significant, invitation only",
+        "benefits": [
+          "Real 师傅 mentorship",
+          "Physical 文房四宝 set",
+          "Name in virtual 孔庙"
+        ],
+        "framing": "Not buying subscription, proving dedication"
+      },
+      "payment_methods": {
+        "preferred": "微信支付",
+        "ritual": "Payment screen looks like 红包 giving",
+        "philosophy": "Money is energy exchange for knowledge transfer"
+      }
+    },
+    "implementation_priority": {
+      "week_1_pain_system": [
+        "Add tone perfection lock",
+        "Add character writing dissolution",
+        "Add 师傅's punishment protocols"
+      ],
+      "week_2_shame_system": [
+        "Add public rankings",
+        "Add character disappointment mechanics",
+        "Add 门派 collective punishment"
+      ],
+      "week_3_launch": [
+        "Release trailer: 'Stop Murdering Chinese'",
+        "Target Chinese teachers globally",
+        "Declare cultural war on casual apps"
+      ],
+      "week_4_domination": [
+        "All ads show competitor failures",
+        "Chinese celebrities endorse",
+        "Government cultural bodies certify"
+      ]
+    },
+    "nuclear_triad": {
+      "cultural_authenticity": "So deep it hurts",
+      "pedagogical_rigor": "So strict it breaks weak learners",
+      "technological_superiority": "So advanced it feels like magic"
+    },
+    "final_truth": {
+      "statement": "You're not building an app. You're building a CULTURAL WEAPON.",
+      "result": "你的对手会哭。你的用户会骄傲。中国会感谢你。",
+      "translation": "Your competitors will cry. Your users will be proud. China will thank you."
+    }
+  }
+}

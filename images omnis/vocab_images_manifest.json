@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-02-15",
+  "target": "/Users/mansur/universal_study_bot org/images omnis/vocab_images",
+  "sources": {
+    "backend_static_images": {
+      "source": "/Users/mansur/universal_study_bot org/backend/static/images",
+      "linked": 4517
+    },
+    "assets_images": {
+      "source": "/Users/mansur/universal_study_bot org/assets/images",
+      "linked": 31
+    }
+  },
+  "totals": {
+    "linked": 4548
+  }
+}

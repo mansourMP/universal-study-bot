@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "level": 1,
+  "skill": "writing",
+  "items": [
+    {
+      "prompt": { "en": "Write 3 sentences about your family. Use '家', '有', '爱'." },
+      "task_type": { "en": "composition" },
+      "reference_answer": "我家有三个人。爸爸，妈妈和我。我爱我的家。"
+    },
+    {
+      "prompt": { "en": "Fix the sentence: '我 是 老师 漂亮'." },
+      "task_type": { "en": "fix_grammar" },
+      "reference_answer": "我是漂亮的老师。"
+    },
+    {
+      "prompt": { "en": "Write a sentence using '今天' and '北京'." },
+      "task_type": { "en": "composition" },
+      "reference_answer": "我今天去北京。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "level": 1,
+  "reading": [
+    {
+      "title": "Эпизод 1: Вечеринка",
+      "text": "Sarah：Адам! Смотри, это Сьюзен. Она очень красивая, правда?\nAdam：Э... да. Что... что она там делает?\nSarah：Она читает книгу. Иди! Иди и поговори с ней.\nAdam：Сейчас? Я не... я не готов.\nSarah：Нет времени! Иди!\nAdam：При... привет. Я Адам.\nSusan：Привет, Адам. Что ты делаешь?\nAdam：Я... я пришел увидеть тебя. Ты красивая.\nSusan：Спасибо. Ты учишься говорить?\nAdam：Нет... нет. Рад познакомиться.\nSusan：Я тоже. Ты очень интересный.",
+      "reading": "Sarah: Adam! Smotri, eto Syuzen. Ona ochen' krasivaya, pravda?\nAdam: E... da. Chto... chto ona tam delayet?\nSarah: Ona chitayet knigu. Idi! Idi i pogovori s ney.\nAdam: Seychas? Ya ne... ya ne gotov.\nSarah: Net vremeni! Idi!\nAdam: Pri... privet. Ya Adam.\nSusan: Privet, Adam. Chto ty delayesh'?\nAdam: Ya... ya prishel uvidet' tebya. Ty krasivaya.\nSusan: Spasibo. Ty uchish'sya govorit'?\nAdam: Net... net. Rad poznakomit'sya.\nSusan: Ya tozhe. Ty ochen' interesnyy.",
+      "translation": "Sarah: Adam! Look, that is Susan. She is very beautiful, right?\nAdam: Uh... yes. What... what is she doing there?\nSarah: She is reading a book. Go! Go talk to her.\nAdam: Now? I'm not... I'm not ready.\nSarah: No more time! Go!\nAdam: He... hello. I am Adam.\nSusan: Hello, Adam. What are you doing?\nAdam: I... I came to see you. You are beautiful.\nSusan: Thanks. Are you practicing how to speak?\nAdam: No... no. Nice to meet you.\nSusan: Me too. You are very interesting.",
+      "target_words": [
+        {"text": "красивая", "pinyin": "krasivaya", "meaning": "beautiful"},
+        {"text": "читает", "pinyin": "chitayet", "meaning": "reading"},
+        {"text": "времени", "pinyin": "vremeni", "meaning": "time"},
+        {"text": "интересный", "pinyin": "interesnyy", "meaning": "interesting"}
+      ],
+      "questions": [
+        {
+          "question": "Что Сьюзен думает об Адаме?",
+          "options": [
+            {"text": "Он интересный", "is_correct": true},
+            {"text": "Он скучный", "is_correct": false}
+          ],
+          "explanation": "Сьюзен говорит: 'Ты очень интересный.'"
+        }
+      ]
+    }
+  ]
+}

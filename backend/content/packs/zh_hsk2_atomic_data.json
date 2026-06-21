@@ -1,0 +1,3556 @@
+{
+  "metadata": {
+    "language": "zh",
+    "level": 2,
+    "format": "unified",
+    "total_words": 151,
+    "total_units": 0,
+    "enriched": false,
+    "fields_added": [
+      "tone_pattern",
+      "part_of_speech",
+      "frequency_rank",
+      "image_id",
+      "audio_id"
+    ]
+  },
+  "words": [
+    {
+      "word_id": "ZH_W0148",
+      "word": "吧",
+      "pronunciation": "ba",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "sentence particle",
+      "sentence": {
+        "sentence_id": "S_ZH_000148",
+        "text": "我们走吧。",
+        "translation_en": "Let's go.",
+        "linked_word_ids": [
+          "ZH_W0148"
+        ]
+      },
+      "tone_pattern": [],
+      "part_of_speech": "unknown",
+      "frequency_rank": 148,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0148"
+    },
+    {
+      "word_id": "ZH_W0149",
+      "word": "白",
+      "pronunciation": "bái",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "white",
+      "sentence": {
+        "sentence_id": "S_ZH_000149",
+        "text": "这件衣服是白的。",
+        "translation_en": "This piece of clothing is white.",
+        "linked_word_ids": [
+          "ZH_W0149"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 149,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0149"
+    },
+    {
+      "word_id": "ZH_W0150",
+      "word": "百",
+      "pronunciation": "bǎi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "one hundred",
+      "sentence": {
+        "sentence_id": "S_ZH_000150",
+        "text": "这个杯子一百块钱。",
+        "translation_en": "This cup costs one hundred yuan.",
+        "linked_word_ids": [
+          "ZH_W0150"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 150,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0150"
+    },
+    {
+      "word_id": "ZH_W0151",
+      "word": "帮助",
+      "pronunciation": "bāngzhù",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "help assist",
+      "sentence": {
+        "sentence_id": "S_ZH_000151",
+        "text": "谢谢你的帮助。",
+        "translation_en": "Thank you for your help.",
+        "linked_word_ids": [
+          "ZH_W0151"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 151,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0151"
+    },
+    {
+      "word_id": "ZH_W0152",
+      "word": "报纸",
+      "pronunciation": "bàozhǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "newspaper",
+      "sentence": {
+        "sentence_id": "S_ZH_000152",
+        "text": "我看报纸。",
+        "translation_en": "I read the newspaper.",
+        "linked_word_ids": [
+          "ZH_W0152"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 152,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0152"
+    },
+    {
+      "word_id": "ZH_W0153",
+      "word": "比",
+      "pronunciation": "bǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "compare",
+      "sentence": {
+        "sentence_id": "S_ZH_000153",
+        "text": "他比我高。",
+        "translation_en": "He is taller than me.",
+        "linked_word_ids": [
+          "ZH_W0153"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 153,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0153"
+    },
+    {
+      "word_id": "ZH_W0154",
+      "word": "别",
+      "pronunciation": "bié",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "do not",
+      "sentence": {
+        "sentence_id": "S_ZH_000154",
+        "text": "别说话。",
+        "translation_en": "Don't talk.",
+        "linked_word_ids": [
+          "ZH_W0154"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 154,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0154"
+    },
+    {
+      "word_id": "ZH_W0155",
+      "word": "宾馆",
+      "pronunciation": "bīnguǎn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "hotel",
+      "sentence": {
+        "sentence_id": "S_ZH_000155",
+        "text": "我住在宾馆。",
+        "translation_en": "I live in a hotel.",
+        "linked_word_ids": [
+          "ZH_W0155"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 155,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0155"
+    },
+    {
+      "word_id": "ZH_W0156",
+      "word": "长",
+      "pronunciation": "cháng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "long",
+      "sentence": {
+        "sentence_id": "S_ZH_000156",
+        "text": "这条路很长。",
+        "translation_en": "This road is very long.",
+        "linked_word_ids": [
+          "ZH_W0156"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 156,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0156"
+    },
+    {
+      "word_id": "ZH_W0157",
+      "word": "唱歌",
+      "pronunciation": "chànggē",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "sing",
+      "sentence": {
+        "sentence_id": "S_ZH_000157",
+        "text": "我喜欢唱歌。",
+        "translation_en": "I like singing.",
+        "linked_word_ids": [
+          "ZH_W0157"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 157,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0157"
+    },
+    {
+      "word_id": "ZH_W0158",
+      "word": "出",
+      "pronunciation": "chū",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "go out",
+      "sentence": {
+        "sentence_id": "S_ZH_000158",
+        "text": "他出去了。",
+        "translation_en": "He went out.",
+        "linked_word_ids": [
+          "ZH_W0158"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 158,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0158"
+    },
+    {
+      "word_id": "ZH_W0159",
+      "word": "穿",
+      "pronunciation": "chuān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "wear",
+      "sentence": {
+        "sentence_id": "S_ZH_000159",
+        "text": "今天我穿红衣服。",
+        "translation_en": "Today I wear red clothes.",
+        "linked_word_ids": [
+          "ZH_W0159"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 159,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0159"
+    },
+    {
+      "word_id": "ZH_W0160",
+      "word": "次",
+      "pronunciation": "cì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "time occurrence",
+      "sentence": {
+        "sentence_id": "S_ZH_000160",
+        "text": "我去过一次北京。",
+        "translation_en": "I have been to Beijing once.",
+        "linked_word_ids": [
+          "ZH_W0160"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 160,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0160"
+    },
+    {
+      "word_id": "ZH_W0161",
+      "word": "从",
+      "pronunciation": "cóng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "from",
+      "sentence": {
+        "sentence_id": "S_ZH_000161",
+        "text": "我从家里来。",
+        "translation_en": "I come from home.",
+        "linked_word_ids": [
+          "ZH_W0161"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 161,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0161"
+    },
+    {
+      "word_id": "ZH_W0162",
+      "word": "错",
+      "pronunciation": "cuò",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "wrong",
+      "sentence": {
+        "sentence_id": "S_ZH_000162",
+        "text": "对不起，我错了。",
+        "translation_en": "Sorry, I was wrong.",
+        "linked_word_ids": [
+          "ZH_W0162"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 162,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0162"
+    },
+    {
+      "word_id": "ZH_W0163",
+      "word": "打篮球",
+      "pronunciation": "dǎ lánqiú",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "play basketball",
+      "sentence": {
+        "sentence_id": "S_ZH_000163",
+        "text": "下午我们去打篮球。",
+        "translation_en": "Let's go play basketball this afternoon.",
+        "linked_word_ids": [
+          "ZH_W0163"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        2,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 163,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0163"
+    },
+    {
+      "word_id": "ZH_W0164",
+      "word": "大家",
+      "pronunciation": "dàjiā",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "everyone",
+      "sentence": {
+        "sentence_id": "S_ZH_000164",
+        "text": "大家好！",
+        "translation_en": "Hello everyone!",
+        "linked_word_ids": [
+          "ZH_W0164"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 164,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0164"
+    },
+    {
+      "word_id": "ZH_W0165",
+      "word": "到",
+      "pronunciation": "dào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "arrive",
+      "sentence": {
+        "sentence_id": "S_ZH_000165",
+        "text": "我到了机场。",
+        "translation_en": "I arrived at the airport.",
+        "linked_word_ids": [
+          "ZH_W0165"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 165,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0165"
+    },
+    {
+      "word_id": "ZH_W0166",
+      "word": "得",
+      "pronunciation": "de",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "structural particle",
+      "sentence": {
+        "sentence_id": "S_ZH_000166",
+        "text": "他说得很好。",
+        "translation_en": "He speaks very well.",
+        "linked_word_ids": [
+          "ZH_W0166"
+        ]
+      },
+      "tone_pattern": [],
+      "part_of_speech": "unknown",
+      "frequency_rank": 166,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0166"
+    },
+    {
+      "word_id": "ZH_W0167",
+      "word": "等",
+      "pronunciation": "děng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "wait",
+      "sentence": {
+        "sentence_id": "S_ZH_000167",
+        "text": "请等一下。",
+        "translation_en": "Please wait a moment.",
+        "linked_word_ids": [
+          "ZH_W0167"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 167,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0167"
+    },
+    {
+      "word_id": "ZH_W0168",
+      "word": "弟弟",
+      "pronunciation": "dìdi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "younger brother",
+      "sentence": {
+        "sentence_id": "S_ZH_000168",
+        "text": "我弟弟十岁。",
+        "translation_en": "My younger brother is ten years old.",
+        "linked_word_ids": [
+          "ZH_W0168"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 168,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0168"
+    },
+    {
+      "word_id": "ZH_W0169",
+      "word": "第一",
+      "pronunciation": "dìyī",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "first",
+      "sentence": {
+        "sentence_id": "S_ZH_000169",
+        "text": "这是我第一次来中国。",
+        "translation_en": "This is my first time in China.",
+        "linked_word_ids": [
+          "ZH_W0169"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 169,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0169"
+    },
+    {
+      "word_id": "ZH_W0170",
+      "word": "懂",
+      "pronunciation": "dǒng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "understand",
+      "sentence": {
+        "sentence_id": "S_ZH_000170",
+        "text": "你懂我的意思吗？",
+        "translation_en": "Do you understand what I mean?",
+        "linked_word_ids": [
+          "ZH_W0170"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 170,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0170"
+    },
+    {
+      "word_id": "ZH_W0171",
+      "word": "对",
+      "pronunciation": "duì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "right correct",
+      "sentence": {
+        "sentence_id": "S_ZH_000171",
+        "text": "你是对 advisers的。",
+        "translation_en": "You are right.",
+        "linked_word_ids": [
+          "ZH_W0171"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 171,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0171"
+    },
+    {
+      "word_id": "ZH_W0172",
+      "word": "房间",
+      "pronunciation": "fángjiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "room",
+      "sentence": {
+        "sentence_id": "S_ZH_000172",
+        "text": "这个房间很大。",
+        "translation_en": "This room is very big.",
+        "linked_word_ids": [
+          "ZH_W0172"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 172,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0172"
+    },
+    {
+      "word_id": "ZH_W0173",
+      "word": "非常",
+      "pronunciation": "fēicháng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "very extremely",
+      "sentence": {
+        "sentence_id": "S_ZH_000173",
+        "text": "我非常喜欢中国菜。",
+        "translation_en": "I like Chinese food very much.",
+        "linked_word_ids": [
+          "ZH_W0173"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 173,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0173"
+    },
+    {
+      "word_id": "ZH_W0174",
+      "word": "服务员",
+      "pronunciation": "fúwùyuán",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "waiter staff",
+      "sentence": {
+        "sentence_id": "S_ZH_000174",
+        "text": "服务员，请给我水。",
+        "translation_en": "Waiter, please give me some water.",
+        "linked_word_ids": [
+          "ZH_W0174"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        4,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 174,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0174"
+    },
+    {
+      "word_id": "ZH_W0175",
+      "word": "高",
+      "pronunciation": "gāo",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "tall high",
+      "sentence": {
+        "sentence_id": "S_ZH_000175",
+        "text": "他很高。",
+        "translation_en": "He is very tall.",
+        "linked_word_ids": [
+          "ZH_W0175"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 175,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0175"
+    },
+    {
+      "word_id": "ZH_W0176",
+      "word": "告诉",
+      "pronunciation": "gàosu",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "tell",
+      "sentence": {
+        "sentence_id": "S_ZH_000176",
+        "text": "他告诉我他在北京。",
+        "translation_en": "He told me he is in Beijing.",
+        "linked_word_ids": [
+          "ZH_W0176"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 176,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0176"
+    },
+    {
+      "word_id": "ZH_W0177",
+      "word": "哥哥",
+      "pronunciation": "gēge",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "older brother",
+      "sentence": {
+        "sentence_id": "S_ZH_000177",
+        "text": "我有两个哥哥。",
+        "translation_en": "I have two older brothers.",
+        "linked_word_ids": [
+          "ZH_W0177"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 177,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0177"
+    },
+    {
+      "word_id": "ZH_W0178",
+      "word": "给",
+      "pronunciation": "gěi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "give",
+      "sentence": {
+        "sentence_id": "S_ZH_000178",
+        "text": "请给我这本书。",
+        "translation_en": "Please give me this book.",
+        "linked_word_ids": [
+          "ZH_W0178"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 178,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0178"
+    },
+    {
+      "word_id": "ZH_W0179",
+      "word": "公共汽车",
+      "pronunciation": "gōnggòng qìchē",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "bus",
+      "sentence": {
+        "sentence_id": "S_ZH_000179",
+        "text": "我坐公共汽车去学校。",
+        "translation_en": "I go to school by bus.",
+        "linked_word_ids": [
+          "ZH_W0179"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4,
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 179,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0179"
+    },
+    {
+      "word_id": "ZH_W0180",
+      "word": "公司",
+      "pronunciation": "gōngsī",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "company",
+      "sentence": {
+        "sentence_id": "S_ZH_000180",
+        "text": "我在一家公司工作。",
+        "translation_en": "I work in a company.",
+        "linked_word_ids": [
+          "ZH_W0180"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 180,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0180"
+    },
+    {
+      "word_id": "ZH_W0181",
+      "word": "贵",
+      "pronunciation": "guì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "expensive",
+      "sentence": {
+        "sentence_id": "S_ZH_000181",
+        "text": "这个手机很贵。",
+        "translation_en": "This mobile phone is very expensive.",
+        "linked_word_ids": [
+          "ZH_W0181"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 181,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0181"
+    },
+    {
+      "word_id": "ZH_W0182",
+      "word": "过",
+      "pronunciation": "guò",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "pass experience",
+      "sentence": {
+        "sentence_id": "S_ZH_000182",
+        "text": "我看过这个电影。",
+        "translation_en": "I have seen this movie.",
+        "linked_word_ids": [
+          "ZH_W0182"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 182,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0182"
+    },
+    {
+      "word_id": "ZH_W0183",
+      "word": "还",
+      "pronunciation": "hái",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "still also",
+      "sentence": {
+        "sentence_id": "S_ZH_000183",
+        "text": "我还有一个问题。",
+        "translation_en": "I still have one more question.",
+        "linked_word_ids": [
+          "ZH_W0183"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 183,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0183"
+    },
+    {
+      "word_id": "ZH_W0184",
+      "word": "孩子",
+      "pronunciation": "háizi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "child",
+      "sentence": {
+        "sentence_id": "S_ZH_000184",
+        "text": "他有三个孩子。",
+        "translation_en": "He has three children.",
+        "linked_word_ids": [
+          "ZH_W0184"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 184,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0184"
+    },
+    {
+      "word_id": "ZH_W0185",
+      "word": "好吃",
+      "pronunciation": "hǎochī",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "tasty",
+      "sentence": {
+        "sentence_id": "S_ZH_000185",
+        "text": "妈妈做的菜很好吃。",
+        "translation_en": "The food mom makes is delicious.",
+        "linked_word_ids": [
+          "ZH_W0185"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 185,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0185"
+    },
+    {
+      "word_id": "ZH_W0186",
+      "word": "黑",
+      "pronunciation": "hēi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "black",
+      "sentence": {
+        "sentence_id": "S_ZH_000186",
+        "text": "天黑了。",
+        "translation_en": "It's getting dark.",
+        "linked_word_ids": [
+          "ZH_W0186"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 186,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0186"
+    },
+    {
+      "word_id": "ZH_W0187",
+      "word": "红",
+      "pronunciation": "hóng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "red",
+      "sentence": {
+        "sentence_id": "S_ZH_000187",
+        "text": "她穿着红色的衣服。",
+        "translation_en": "She is wearing red clothes.",
+        "linked_word_ids": [
+          "ZH_W0187"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 187,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0187"
+    },
+    {
+      "word_id": "ZH_W0188",
+      "word": "火车站",
+      "pronunciation": "huǒchēzhàn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "train station",
+      "sentence": {
+        "sentence_id": "S_ZH_000188",
+        "text": "火车站离这里很远。",
+        "translation_en": "The train station is far from here.",
+        "linked_word_ids": [
+          "ZH_W0188"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 188,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0188"
+    },
+    {
+      "word_id": "ZH_W0189",
+      "word": "机场",
+      "pronunciation": "jīchǎng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "airport",
+      "sentence": {
+        "sentence_id": "S_ZH_000189",
+        "text": "他在机场等朋友。",
+        "translation_en": "He is waiting for a friend at the airport.",
+        "linked_word_ids": [
+          "ZH_W0189"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 189,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0189"
+    },
+    {
+      "word_id": "ZH_W0190",
+      "word": "鸡蛋",
+      "pronunciation": "jīdàn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "egg",
+      "sentence": {
+        "sentence_id": "S_ZH_000190",
+        "text": "我早饭吃一个鸡蛋。",
+        "translation_en": "I eat an egg for breakfast.",
+        "linked_word_ids": [
+          "ZH_W0190"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 190,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0190"
+    },
+    {
+      "word_id": "ZH_W0191",
+      "word": "件",
+      "pronunciation": "jiàn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "measure word",
+      "sentence": {
+        "sentence_id": "S_ZH_000191",
+        "text": "这件衣服很漂亮。",
+        "translation_en": "This piece of clothing is very pretty.",
+        "linked_word_ids": [
+          "ZH_W0191"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 191,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0191"
+    },
+    {
+      "word_id": "ZH_W0192",
+      "word": "教室",
+      "pronunciation": "jiàoshì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "classroom",
+      "sentence": {
+        "sentence_id": "S_ZH_000192",
+        "text": "教室里有十个学生。",
+        "translation_en": "There are ten students in the classroom.",
+        "linked_word_ids": [
+          "ZH_W0192"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 192,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0192"
+    },
+    {
+      "word_id": "ZH_W0193",
+      "word": "姐姐",
+      "pronunciation": "jiějie",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "older sister",
+      "sentence": {
+        "sentence_id": "S_ZH_000193",
+        "text": "我姐姐在医院工作。",
+        "translation_en": "My older sister works in a hospital.",
+        "linked_word_ids": [
+          "ZH_W0193"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 193,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0193"
+    },
+    {
+      "word_id": "ZH_W0194",
+      "word": "介绍",
+      "pronunciation": "jièshào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "introduce",
+      "sentence": {
+        "sentence_id": "S_ZH_000194",
+        "text": "我给你介绍一下。",
+        "translation_en": "Let me introduce you.",
+        "linked_word_ids": [
+          "ZH_W0194"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 194,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0194"
+    },
+    {
+      "word_id": "ZH_W0195",
+      "word": "进",
+      "pronunciation": "jìn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "enter",
+      "sentence": {
+        "sentence_id": "S_ZH_000195",
+        "text": "请进。",
+        "translation_en": "Please come in.",
+        "linked_word_ids": [
+          "ZH_W0195"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 195,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0195"
+    },
+    {
+      "word_id": "ZH_W0196",
+      "word": "近",
+      "pronunciation": "jìn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "near",
+      "sentence": {
+        "sentence_id": "S_ZH_000196",
+        "text": "我家离学校很近。",
+        "translation_en": "My home is very close to the school.",
+        "linked_word_ids": [
+          "ZH_W0196"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 196,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0196"
+    },
+    {
+      "word_id": "ZH_W0197",
+      "word": "就",
+      "pronunciation": "jiù",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "then",
+      "sentence": {
+        "sentence_id": "S_ZH_000197",
+        "text": "我这就去。",
+        "translation_en": "I'll go right now.",
+        "linked_word_ids": [
+          "ZH_W0197"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 197,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0197"
+    },
+    {
+      "word_id": "ZH_W0198",
+      "word": "觉得",
+      "pronunciation": "juéde",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "feel think",
+      "sentence": {
+        "sentence_id": "S_ZH_000198",
+        "text": "你觉得这个怎么样？",
+        "translation_en": "What do you think about this?",
+        "linked_word_ids": [
+          "ZH_W0198"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 198,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0198"
+    },
+    {
+      "word_id": "ZH_W0199",
+      "word": "咖啡",
+      "pronunciation": "kāfēi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "coffee",
+      "sentence": {
+        "sentence_id": "S_ZH_000199",
+        "text": "我想喝杯咖啡。",
+        "translation_en": "I want to drink a cup of coffee.",
+        "linked_word_ids": [
+          "ZH_W0199"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 199,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0199"
+    },
+    {
+      "word_id": "ZH_W0200",
+      "word": "开始",
+      "pronunciation": "kāishǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "start begin",
+      "sentence": {
+        "sentence_id": "S_ZH_000200",
+        "text": "课十点开始。",
+        "translation_en": "The class starts at ten.",
+        "linked_word_ids": [
+          "ZH_W0200"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 200,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0200"
+    },
+    {
+      "word_id": "ZH_W0201",
+      "word": "考试",
+      "pronunciation": "kǎoshì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "exam",
+      "sentence": {
+        "sentence_id": "S_ZH_000201",
+        "text": "明天我有考试。",
+        "translation_en": "I have an exam tomorrow.",
+        "linked_word_ids": [
+          "ZH_W0201"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 201,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0201"
+    },
+    {
+      "word_id": "ZH_W0202",
+      "word": "可能",
+      "pronunciation": "kěnéng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "possible",
+      "sentence": {
+        "sentence_id": "S_ZH_000202",
+        "text": "今天可能会下雨。",
+        "translation_en": "It might rain today.",
+        "linked_word_ids": [
+          "ZH_W0202"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 202,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0202"
+    },
+    {
+      "word_id": "ZH_W0203",
+      "word": "可以",
+      "pronunciation": "kěyǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "can may",
+      "sentence": {
+        "sentence_id": "S_ZH_000203",
+        "text": "我可以进来吗？",
+        "translation_en": "May I come in?",
+        "linked_word_ids": [
+          "ZH_W0203"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 203,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0203"
+    },
+    {
+      "word_id": "ZH_W0204",
+      "word": "课",
+      "pronunciation": "kè",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "class lesson",
+      "sentence": {
+        "sentence_id": "S_ZH_000204",
+        "text": "上午我们有三节课。",
+        "translation_en": "We have three classes in the morning.",
+        "linked_word_ids": [
+          "ZH_W0204"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 204,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0204"
+    },
+    {
+      "word_id": "ZH_W0205",
+      "word": "快",
+      "pronunciation": "kuài",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "fast quick",
+      "sentence": {
+        "sentence_id": "S_ZH_000205",
+        "text": "他跑得很快。",
+        "translation_en": "He runs very fast.",
+        "linked_word_ids": [
+          "ZH_W0205"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 205,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0205"
+    },
+    {
+      "word_id": "ZH_W0206",
+      "word": "快乐",
+      "pronunciation": "kuàilè",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "happy joyful",
+      "sentence": {
+        "sentence_id": "S_ZH_000206",
+        "text": "祝你生日快乐！",
+        "translation_en": "Happy birthday to you!",
+        "linked_word_ids": [
+          "ZH_W0206"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 206,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0206"
+    },
+    {
+      "word_id": "ZH_W0207",
+      "word": "累",
+      "pronunciation": "lèi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "tired",
+      "sentence": {
+        "sentence_id": "S_ZH_000207",
+        "text": "我今天很累。",
+        "translation_en": "I am very tired today.",
+        "linked_word_ids": [
+          "ZH_W0207"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 207,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0207"
+    },
+    {
+      "word_id": "ZH_W0208",
+      "word": "离",
+      "pronunciation": "lí",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "from distance",
+      "sentence": {
+        "sentence_id": "S_ZH_000208",
+        "text": "我家离公司很近。",
+        "translation_en": "My home is very close to the company.",
+        "linked_word_ids": [
+          "ZH_W0208"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 208,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0208"
+    },
+    {
+      "word_id": "ZH_W0209",
+      "word": "两",
+      "pronunciation": "liǎng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "two",
+      "sentence": {
+        "sentence_id": "S_ZH_000209",
+        "text": "我有两个苹果。",
+        "translation_en": "I have two apples.",
+        "linked_word_ids": [
+          "ZH_W0209"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 209,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0209"
+    },
+    {
+      "word_id": "ZH_W0210",
+      "word": "零",
+      "pronunciation": "líng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "zero",
+      "sentence": {
+        "sentence_id": "S_ZH_000210",
+        "text": "现在是两点零五分。",
+        "translation_en": "It's 2:05 now.",
+        "linked_word_ids": [
+          "ZH_W0210"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 210,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0210"
+    },
+    {
+      "word_id": "ZH_W0211",
+      "word": "路",
+      "pronunciation": "lù",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "road",
+      "sentence": {
+        "sentence_id": "S_ZH_000211",
+        "text": "去学校走这条路。",
+        "translation_en": "Take this road to school.",
+        "linked_word_ids": [
+          "ZH_W0211"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 211,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0211"
+    },
+    {
+      "word_id": "ZH_W0212",
+      "word": "旅游",
+      "pronunciation": "lǚyóu",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "travel",
+      "sentence": {
+        "sentence_id": "S_ZH_000212",
+        "text": "我们去北京旅游。",
+        "translation_en": "We are going to Beijing for a trip.",
+        "linked_word_ids": [
+          "ZH_W0212"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 212,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0212"
+    },
+    {
+      "word_id": "ZH_W0213",
+      "word": "卖",
+      "pronunciation": "mài",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "sell",
+      "sentence": {
+        "sentence_id": "S_ZH_000213",
+        "text": "这个商店卖苹果。",
+        "translation_en": "This shop sells apples.",
+        "linked_word_ids": [
+          "ZH_W0213"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 213,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0213"
+    },
+    {
+      "word_id": "ZH_W0214",
+      "word": "慢",
+      "pronunciation": "màn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "slow",
+      "sentence": {
+        "sentence_id": "S_ZH_000214",
+        "text": "他走得很慢。",
+        "translation_en": "He walks very slowly.",
+        "linked_word_ids": [
+          "ZH_W0214"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 214,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0214"
+    },
+    {
+      "word_id": "ZH_W0215",
+      "word": "忙",
+      "pronunciation": "máng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "busy",
+      "sentence": {
+        "sentence_id": "S_ZH_000215",
+        "text": "我今天非常忙。",
+        "translation_en": "I am very busy today.",
+        "linked_word_ids": [
+          "ZH_W0215"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 215,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0215"
+    },
+    {
+      "word_id": "ZH_W0216",
+      "word": "每",
+      "pronunciation": "měi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "every",
+      "sentence": {
+        "sentence_id": "S_ZH_000216",
+        "text": "我每天都学习汉语。",
+        "translation_en": "I study Chinese every day.",
+        "linked_word_ids": [
+          "ZH_W0216"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 216,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0216"
+    },
+    {
+      "word_id": "ZH_W0217",
+      "word": "妹妹",
+      "pronunciation": "mèimei",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "younger sister",
+      "sentence": {
+        "sentence_id": "S_ZH_000217",
+        "text": "我妹妹喜欢猫。",
+        "translation_en": "My younger sister likes cats.",
+        "linked_word_ids": [
+          "ZH_W0217"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 217,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0217"
+    },
+    {
+      "word_id": "ZH_W0218",
+      "word": "门",
+      "pronunciation": "mén",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "door",
+      "sentence": {
+        "sentence_id": "S_ZH_000218",
+        "text": "请开门。",
+        "translation_en": "Please open the door.",
+        "linked_word_ids": [
+          "ZH_W0218"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 218,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0218"
+    },
+    {
+      "word_id": "ZH_W0219",
+      "word": "面条",
+      "pronunciation": "miàntiáo",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "noodles",
+      "sentence": {
+        "sentence_id": "S_ZH_000219",
+        "text": "我喜欢吃面条。",
+        "translation_en": "I like eating noodles.",
+        "linked_word_ids": [
+          "ZH_W0219"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 219,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0219"
+    },
+    {
+      "word_id": "ZH_W0220",
+      "word": "男",
+      "pronunciation": "nán",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "male",
+      "sentence": {
+        "sentence_id": "S_ZH_000220",
+        "text": "他是男学生。",
+        "translation_en": "He is a male student.",
+        "linked_word_ids": [
+          "ZH_W0220"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 220,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0220"
+    },
+    {
+      "word_id": "ZH_W0221",
+      "word": "您",
+      "pronunciation": "nín",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "you (polite)",
+      "sentence": {
+        "sentence_id": "S_ZH_000221",
+        "text": "老师，您好！",
+        "translation_en": "Hello, teacher!",
+        "linked_word_ids": [
+          "ZH_W0221"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 221,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0221"
+    },
+    {
+      "word_id": "ZH_W0222",
+      "word": "牛奶",
+      "pronunciation": "niúnǎi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "milk",
+      "sentence": {
+        "sentence_id": "S_ZH_000222",
+        "text": "我每天喝牛奶。",
+        "translation_en": "I drink milk every day.",
+        "linked_word_ids": [
+          "ZH_W0222"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 222,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0222"
+    },
+    {
+      "word_id": "ZH_W0223",
+      "word": "女",
+      "pronunciation": "nǚ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "female",
+      "sentence": {
+        "sentence_id": "S_ZH_000223",
+        "text": "她是女医生。",
+        "translation_en": "She is a female doctor.",
+        "linked_word_ids": [
+          "ZH_W0223"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 223,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0223"
+    },
+    {
+      "word_id": "ZH_W0224",
+      "word": "旁边",
+      "pronunciation": "pángbiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "beside",
+      "sentence": {
+        "sentence_id": "S_ZH_000224",
+        "text": "学校旁边有一个商店。",
+        "translation_en": "There is a shop beside the school.",
+        "linked_word_ids": [
+          "ZH_W0224"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 224,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0224"
+    },
+    {
+      "word_id": "ZH_W0225",
+      "word": "跑步",
+      "pronunciation": "pǎobù",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "run",
+      "sentence": {
+        "sentence_id": "S_ZH_000225",
+        "text": "他每天早上跑步。",
+        "translation_en": "He runs every morning.",
+        "linked_word_ids": [
+          "ZH_W0225"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 225,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0225"
+    },
+    {
+      "word_id": "ZH_W0226",
+      "word": "便宜",
+      "pronunciation": "piányi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "cheap",
+      "sentence": {
+        "sentence_id": "S_ZH_000226",
+        "text": "这件衣服很便宜。",
+        "translation_en": "This piece of clothing is very cheap.",
+        "linked_word_ids": [
+          "ZH_W0226"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 226,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0226"
+    },
+    {
+      "word_id": "ZH_W0227",
+      "word": "票",
+      "pronunciation": "piào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "ticket",
+      "sentence": {
+        "sentence_id": "S_ZH_000227",
+        "text": "我要买两张票。",
+        "translation_en": "I want to buy two tickets.",
+        "linked_word_ids": [
+          "ZH_W0227"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 227,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0227"
+    },
+    {
+      "word_id": "ZH_W0228",
+      "word": "妻子",
+      "pronunciation": "qīzi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "wife",
+      "sentence": {
+        "sentence_id": "S_ZH_000228",
+        "text": "他妻子是老师。",
+        "translation_en": "His wife is a teacher.",
+        "linked_word_ids": [
+          "ZH_W0228"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 228,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0228"
+    },
+    {
+      "word_id": "ZH_W0229",
+      "word": "起床",
+      "pronunciation": "qǐchuáng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "get up",
+      "sentence": {
+        "sentence_id": "S_ZH_000229",
+        "text": "我六点起床。",
+        "translation_en": "I get up at six.",
+        "linked_word_ids": [
+          "ZH_W0229"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 229,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0229"
+    },
+    {
+      "word_id": "ZH_W0230",
+      "word": "千",
+      "pronunciation": "qiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "one thousand",
+      "sentence": {
+        "sentence_id": "S_ZH_000230",
+        "text": "这一件衣服两千块钱。",
+        "translation_en": "This piece of clothing costs two thousand yuan.",
+        "linked_word_ids": [
+          "ZH_W0230"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 230,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0230"
+    },
+    {
+      "word_id": "ZH_W0231",
+      "word": "铅笔",
+      "pronunciation": "qiānbǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "pencil",
+      "sentence": {
+        "sentence_id": "S_ZH_000231",
+        "text": "我用铅笔写字。",
+        "translation_en": "I write with a pencil.",
+        "linked_word_ids": [
+          "ZH_W0231"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 231,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0231"
+    },
+    {
+      "word_id": "ZH_W0232",
+      "word": "晴",
+      "pronunciation": "qíng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "sunny",
+      "sentence": {
+        "sentence_id": "S_ZH_000232",
+        "text": "今天天气很晴。",
+        "translation_en": "Today is a sunny day.",
+        "linked_word_ids": [
+          "ZH_W0232"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 232,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0232"
+    },
+    {
+      "word_id": "ZH_W0233",
+      "word": "去年",
+      "pronunciation": "qùnián",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "last year",
+      "sentence": {
+        "sentence_id": "S_ZH_000233",
+        "text": "他去年来过中国。",
+        "translation_en": "He came to China last year.",
+        "linked_word_ids": [
+          "ZH_W0233"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 233,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0233"
+    },
+    {
+      "word_id": "ZH_W0234",
+      "word": "让",
+      "pronunciation": "ràng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "let allow",
+      "sentence": {
+        "sentence_id": "S_ZH_000234",
+        "text": "老师让我去公司。",
+        "translation_en": "The teacher asked me to go to the company.",
+        "linked_word_ids": [
+          "ZH_W0234"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 234,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0234"
+    },
+    {
+      "word_id": "ZH_W0235",
+      "word": "日",
+      "pronunciation": "rì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "day",
+      "sentence": {
+        "sentence_id": "S_ZH_000235",
+        "text": "今天是一月十五日。",
+        "translation_en": "Today is January 15th.",
+        "linked_word_ids": [
+          "ZH_W0235"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 235,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0235"
+    },
+    {
+      "word_id": "ZH_W0236",
+      "word": "上班",
+      "pronunciation": "shàngbān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "go to work",
+      "sentence": {
+        "sentence_id": "S_ZH_000236",
+        "text": "我九点上班。",
+        "translation_en": "I go to work at nine.",
+        "linked_word_ids": [
+          "ZH_W0236"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 236,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0236"
+    },
+    {
+      "word_id": "ZH_W0237",
+      "word": "身体",
+      "pronunciation": "shēntǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "body health",
+      "sentence": {
+        "sentence_id": "S_ZH_000237",
+        "text": "我身体很好。",
+        "translation_en": "My body is very healthy.",
+        "linked_word_ids": [
+          "ZH_W0237"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 237,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0237"
+    },
+    {
+      "word_id": "ZH_W0238",
+      "word": "生病",
+      "pronunciation": "shēngbìng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "fall ill",
+      "sentence": {
+        "sentence_id": "S_ZH_000238",
+        "text": "他生病了，在医院。",
+        "translation_en": "He is sick and in the hospital.",
+        "linked_word_ids": [
+          "ZH_W0238"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 238,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0238"
+    },
+    {
+      "word_id": "ZH_W0239",
+      "word": "生日",
+      "pronunciation": "shēngrì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "birthday",
+      "sentence": {
+        "sentence_id": "S_ZH_000239",
+        "text": "今天是我的生日。",
+        "translation_en": "Today is my birthday.",
+        "linked_word_ids": [
+          "ZH_W0239"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 239,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0239"
+    },
+    {
+      "word_id": "ZH_W0240",
+      "word": "时间",
+      "pronunciation": "shíjiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "time",
+      "sentence": {
+        "sentence_id": "S_ZH_000240",
+        "text": "我没时间看电影。",
+        "translation_en": "I don't have time to watch movies.",
+        "linked_word_ids": [
+          "ZH_W0240"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 240,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0240"
+    },
+    {
+      "word_id": "ZH_W0241",
+      "word": "事情",
+      "pronunciation": "shìqing",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "thing matter",
+      "sentence": {
+        "sentence_id": "S_ZH_000241",
+        "text": "我有很多事情要做。",
+        "translation_en": "I have many things to do.",
+        "linked_word_ids": [
+          "ZH_W0241"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 241,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0241"
+    },
+    {
+      "word_id": "ZH_W0242",
+      "word": "手表",
+      "pronunciation": "shǒubiǎo",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "watch",
+      "sentence": {
+        "sentence_id": "S_ZH_000242",
+        "text": "这块手表很贵。",
+        "translation_en": "This wristwatch is very expensive.",
+        "linked_word_ids": [
+          "ZH_W0242"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 242,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0242"
+    },
+    {
+      "word_id": "ZH_W0243",
+      "word": "手机",
+      "pronunciation": "shǒujī",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "mobile phone",
+      "sentence": {
+        "sentence_id": "S_ZH_000243",
+        "text": "他给我买了一个手机。",
+        "translation_en": "He bought a mobile phone for me.",
+        "linked_word_ids": [
+          "ZH_W0243"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 243,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0243"
+    },
+    {
+      "word_id": "ZH_W0244",
+      "word": "说话",
+      "pronunciation": "shuōhuà",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "speak talk",
+      "sentence": {
+        "sentence_id": "S_ZH_000244",
+        "text": "请不要说话。",
+        "translation_en": "Please don't talk.",
+        "linked_word_ids": [
+          "ZH_W0244"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 244,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0244"
+    },
+    {
+      "word_id": "ZH_W0245",
+      "word": "送",
+      "pronunciation": "sòng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "deliver give",
+      "sentence": {
+        "sentence_id": "S_ZH_000245",
+        "text": "我送你回家。",
+        "translation_en": "I'll take you home.",
+        "linked_word_ids": [
+          "ZH_W0245"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 245,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0245"
+    },
+    {
+      "word_id": "ZH_W0246",
+      "word": "虽然",
+      "pronunciation": "suīrán",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "although",
+      "sentence": {
+        "sentence_id": "S_ZH_000246",
+        "text": "虽然很累，但我很高兴。",
+        "translation_en": "Although I am tired, I am very happy.",
+        "linked_word_ids": [
+          "ZH_W0246"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 246,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0246"
+    },
+    {
+      "word_id": "ZH_W0247",
+      "word": "但是",
+      "pronunciation": "dànshì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "but",
+      "sentence": {
+        "sentence_id": "S_ZH_000247",
+        "text": "虽然很冷，但是天气很好。",
+        "translation_en": "Although it's cold, the weather is very good.",
+        "linked_word_ids": [
+          "ZH_W0247"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 247,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0247"
+    },
+    {
+      "word_id": "ZH_W0248",
+      "word": "它",
+      "pronunciation": "tā",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "it",
+      "sentence": {
+        "sentence_id": "S_ZH_000248",
+        "text": "它在桌子下面。",
+        "translation_en": "It's under the table.",
+        "linked_word_ids": [
+          "ZH_W0248"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 248,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0248"
+    },
+    {
+      "word_id": "ZH_W0249",
+      "word": "踢足球",
+      "pronunciation": "tī zúqiú",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "play soccer",
+      "sentence": {
+        "sentence_id": "S_ZH_000249",
+        "text": "下午我们去踢足球。",
+        "translation_en": "Let's go play soccer this afternoon.",
+        "linked_word_ids": [
+          "ZH_W0249"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        2,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 249,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0249"
+    },
+    {
+      "word_id": "ZH_W0250",
+      "word": "题",
+      "pronunciation": "tí",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "question problem",
+      "sentence": {
+        "sentence_id": "S_ZH_000250",
+        "text": "这个题很难。",
+        "translation_en": "This question is very difficult.",
+        "linked_word_ids": [
+          "ZH_W0250"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 250,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0250"
+    },
+    {
+      "word_id": "ZH_W0251",
+      "word": "跳舞",
+      "pronunciation": "tiàowǔ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "dance",
+      "sentence": {
+        "sentence_id": "S_ZH_000251",
+        "text": "姐姐喜欢跳舞。",
+        "translation_en": "My older sister likes dancing.",
+        "linked_word_ids": [
+          "ZH_W0251"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 251,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0251"
+    },
+    {
+      "word_id": "ZH_W0252",
+      "word": "外",
+      "pronunciation": "wài",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "outside",
+      "sentence": {
+        "sentence_id": "S_ZH_000252",
+        "text": "他在外面等你。",
+        "translation_en": "He is waiting for you outside.",
+        "linked_word_ids": [
+          "ZH_W0252"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 252,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0252"
+    },
+    {
+      "word_id": "ZH_W0253",
+      "word": "完",
+      "pronunciation": "wán",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "finish complete",
+      "sentence": {
+        "sentence_id": "S_ZH_000253",
+        "text": "我看完了这本书。",
+        "translation_en": "I finished reading this book.",
+        "linked_word_ids": [
+          "ZH_W0253"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 253,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0253"
+    },
+    {
+      "word_id": "ZH_W0254",
+      "word": "玩",
+      "pronunciation": "wán",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "play",
+      "sentence": {
+        "sentence_id": "S_ZH_000254",
+        "text": "他们在外面玩。",
+        "translation_en": "They are playing outside.",
+        "linked_word_ids": [
+          "ZH_W0254"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 254,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0254"
+    },
+    {
+      "word_id": "ZH_W0255",
+      "word": "晚上",
+      "pronunciation": "wǎnshang",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "evening",
+      "sentence": {
+        "sentence_id": "S_ZH_000255",
+        "text": "晚上我在家学汉语。",
+        "translation_en": "In the evening I study Chinese at home.",
+        "linked_word_ids": [
+          "ZH_W0255"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 255,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0255"
+    },
+    {
+      "word_id": "ZH_W0256",
+      "word": "往",
+      "pronunciation": "wǎng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "toward",
+      "sentence": {
+        "sentence_id": "S_ZH_000256",
+        "text": "往右走。",
+        "translation_en": "Go to the right.",
+        "linked_word_ids": [
+          "ZH_W0256"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 256,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0256"
+    },
+    {
+      "word_id": "ZH_W0257",
+      "word": "为什么",
+      "pronunciation": "wèishénme",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "why",
+      "sentence": {
+        "sentence_id": "S_ZH_000257",
+        "text": "你为什么没来？",
+        "translation_en": "Why didn't you come?",
+        "linked_word_ids": [
+          "ZH_W0257"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 257,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0257"
+    },
+    {
+      "word_id": "ZH_W0258",
+      "word": "问",
+      "pronunciation": "wèn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "ask",
+      "sentence": {
+        "sentence_id": "S_ZH_000258",
+        "text": "我想问老师一个问题。",
+        "translation_en": "I want to ask the teacher a question.",
+        "linked_word_ids": [
+          "ZH_W0258"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 258,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0258"
+    },
+    {
+      "word_id": "ZH_W0259",
+      "word": "问题",
+      "pronunciation": "wèntí",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "question problem",
+      "sentence": {
+        "sentence_id": "S_ZH_000259",
+        "text": "我有一个问题。",
+        "translation_en": "I have a question.",
+        "linked_word_ids": [
+          "ZH_W0259"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 259,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0259"
+    },
+    {
+      "word_id": "ZH_W0260",
+      "word": "西瓜",
+      "pronunciation": "xīguā",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "watermelon",
+      "sentence": {
+        "sentence_id": "S_ZH_000260",
+        "text": "西瓜很好吃。",
+        "translation_en": "The watermelon is very tasty.",
+        "linked_word_ids": [
+          "ZH_W0260"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 260,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0260"
+    },
+    {
+      "word_id": "ZH_W0261",
+      "word": "希望",
+      "pronunciation": "xīwàng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "hope",
+      "sentence": {
+        "sentence_id": "S_ZH_000261",
+        "text": "我希望你能来。",
+        "translation_en": "I hope you can come.",
+        "linked_word_ids": [
+          "ZH_W0261"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 261,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0261"
+    },
+    {
+      "word_id": "ZH_W0262",
+      "word": "洗",
+      "pronunciation": "xǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "wash",
+      "sentence": {
+        "sentence_id": "S_ZH_000262",
+        "text": "他在洗衣服。",
+        "translation_en": "He is washing clothes.",
+        "linked_word_ids": [
+          "ZH_W0262"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 262,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0262"
+    },
+    {
+      "word_id": "ZH_W0263",
+      "word": "小时",
+      "pronunciation": "xiǎoshí",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "hour",
+      "sentence": {
+        "sentence_id": "S_ZH_000263",
+        "text": "我工作了三个小时。",
+        "translation_en": "I worked for three hours.",
+        "linked_word_ids": [
+          "ZH_W0263"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 263,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0263"
+    },
+    {
+      "word_id": "ZH_W0264",
+      "word": "笑",
+      "pronunciation": "xiào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "smile laugh",
+      "sentence": {
+        "sentence_id": "S_ZH_000264",
+        "text": "他笑了。",
+        "translation_en": "He smiled.",
+        "linked_word_ids": [
+          "ZH_W0264"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 264,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0264"
+    },
+    {
+      "word_id": "ZH_W0265",
+      "word": "新",
+      "pronunciation": "xīn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "new",
+      "sentence": {
+        "sentence_id": "S_ZH_000265",
+        "text": "我买了一本新书。",
+        "translation_en": "I bought a new book.",
+        "linked_word_ids": [
+          "ZH_W0265"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 265,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0265"
+    },
+    {
+      "word_id": "ZH_W0266",
+      "word": "姓",
+      "pronunciation": "xìng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "surname",
+      "sentence": {
+        "sentence_id": "S_ZH_000266",
+        "text": "我姓王。",
+        "translation_en": "My surname is Wang.",
+        "linked_word_ids": [
+          "ZH_W0266"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 266,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0266"
+    },
+    {
+      "word_id": "ZH_W0267",
+      "word": "休息",
+      "pronunciation": "xiūxi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "rest",
+      "sentence": {
+        "sentence_id": "S_ZH_000267",
+        "text": "你在家休息吧。",
+        "translation_en": "Rest at home.",
+        "linked_word_ids": [
+          "ZH_W0267"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 267,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0267"
+    },
+    {
+      "word_id": "ZH_W0268",
+      "word": "雪",
+      "pronunciation": "xuě",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "snow",
+      "sentence": {
+        "sentence_id": "S_ZH_000268",
+        "text": "今天下雪了。",
+        "translation_en": "It snowed today.",
+        "linked_word_ids": [
+          "ZH_W0268"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 268,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0268"
+    },
+    {
+      "word_id": "ZH_W0269",
+      "word": "颜色",
+      "pronunciation": "yánsè",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "color",
+      "sentence": {
+        "sentence_id": "S_ZH_000269",
+        "text": "你喜欢什么颜色？",
+        "translation_en": "What color do you like?",
+        "linked_word_ids": [
+          "ZH_W0269"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 269,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0269"
+    },
+    {
+      "word_id": "ZH_W0270",
+      "word": "眼睛",
+      "pronunciation": "yǎnjing",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "eyes",
+      "sentence": {
+        "sentence_id": "S_ZH_000270",
+        "text": "她的眼睛很大。",
+        "translation_en": "Her eyes are very big.",
+        "linked_word_ids": [
+          "ZH_W0270"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 270,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0270"
+    },
+    {
+      "word_id": "ZH_W0271",
+      "word": "羊肉",
+      "pronunciation": "yángròu",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "lamb mutton",
+      "sentence": {
+        "sentence_id": "S_ZH_000271",
+        "text": "我不喜欢吃羊肉。",
+        "translation_en": "I don't like eating mutton.",
+        "linked_word_ids": [
+          "ZH_W0271"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 271,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0271"
+    },
+    {
+      "word_id": "ZH_W0272",
+      "word": "药",
+      "pronunciation": "yào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "medicine",
+      "sentence": {
+        "sentence_id": "S_ZH_000272",
+        "text": "你要记得吃药。",
+        "translation_en": "You should remember to take your medicine.",
+        "linked_word_ids": [
+          "ZH_W0272"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 272,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0272"
+    },
+    {
+      "word_id": "ZH_W0273",
+      "word": "要",
+      "pronunciation": "yào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "want need",
+      "sentence": {
+        "sentence_id": "S_ZH_000273",
+        "text": "我要买两张票。",
+        "translation_en": "I want to buy two tickets.",
+        "linked_word_ids": [
+          "ZH_W0273"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 273,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0273"
+    },
+    {
+      "word_id": "ZH_W0274",
+      "word": "也",
+      "pronunciation": "yě",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "also",
+      "sentence": {
+        "sentence_id": "S_ZH_000274",
+        "text": "我也很高兴。",
+        "translation_en": "I am also very happy.",
+        "linked_word_ids": [
+          "ZH_W0274"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 274,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0274"
+    },
+    {
+      "word_id": "ZH_W0275",
+      "word": "一起",
+      "pronunciation": "yìqǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "a bit",
+      "sentence": {
+        "sentence_id": "S_ZH_000275",
+        "text": "我们一起吃饭吧。",
+        "translation_en": "Wait for me a moment.",
+        "linked_word_ids": [
+          "ZH_W0275"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 275,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0275"
+    },
+    {
+      "word_id": "ZH_W0276",
+      "word": "一下",
+      "pronunciation": "yíxià",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "together",
+      "sentence": {
+        "sentence_id": "S_ZH_000276",
+        "text": "等我一下。",
+        "translation_en": "Let's eat together.",
+        "linked_word_ids": [
+          "ZH_W0276"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 276,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0276"
+    },
+    {
+      "word_id": "ZH_W0277",
+      "word": "已经",
+      "pronunciation": "yǐjīng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "already",
+      "sentence": {
+        "sentence_id": "S_ZH_000277",
+        "text": "他已经回家了。",
+        "translation_en": "He has already gone home.",
+        "linked_word_ids": [
+          "ZH_W0277"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 277,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0277"
+    },
+    {
+      "word_id": "ZH_W0278",
+      "word": "意思",
+      "pronunciation": "yìsi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "meaning",
+      "sentence": {
+        "sentence_id": "S_ZH_000278",
+        "text": "这个词是什么意思？",
+        "translation_en": "What does this word mean?",
+        "linked_word_ids": [
+          "ZH_W0278"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 278,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0278"
+    },
+    {
+      "word_id": "ZH_W0279",
+      "word": "因为",
+      "pronunciation": "yīnwèi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "because",
+      "sentence": {
+        "sentence_id": "S_ZH_000279",
+        "text": "因为天气冷，我不出去了。",
+        "translation_en": "Because it's cold, I won't go out.",
+        "linked_word_ids": [
+          "ZH_W0279"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 279,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0279"
+    },
+    {
+      "word_id": "ZH_W0280",
+      "word": "所以",
+      "pronunciation": "suǒyǐ",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "so therefore",
+      "sentence": {
+        "sentence_id": "S_ZH_000280",
+        "text": "因为下雨，所以我没去。",
+        "translation_en": "Because it rained, I didn't go.",
+        "linked_word_ids": [
+          "ZH_W0280"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 280,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0280"
+    },
+    {
+      "word_id": "ZH_W0281",
+      "word": "阴",
+      "pronunciation": "yīn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "cloudy",
+      "sentence": {
+        "sentence_id": "S_ZH_000281",
+        "text": "今天阴天。",
+        "translation_en": "Today is a cloudy day.",
+        "linked_word_ids": [
+          "ZH_W0281"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 281,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0281"
+    },
+    {
+      "word_id": "ZH_W0282",
+      "word": "游泳",
+      "pronunciation": "yóuyǒng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "swim",
+      "sentence": {
+        "sentence_id": "S_ZH_000282",
+        "text": "我喜欢游泳。",
+        "translation_en": "I like swimming.",
+        "linked_word_ids": [
+          "ZH_W0282"
+        ]
+      },
+      "tone_pattern": [
+        2,
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 282,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0282"
+    },
+    {
+      "word_id": "ZH_W0283",
+      "word": "右边",
+      "pronunciation": "yòubiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "right side",
+      "sentence": {
+        "sentence_id": "S_ZH_000283",
+        "text": "他在我右边。",
+        "translation_en": "He is on my right.",
+        "linked_word_ids": [
+          "ZH_W0283"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 283,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0283"
+    },
+    {
+      "word_id": "ZH_W0284",
+      "word": "鱼",
+      "pronunciation": "yú",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "fish",
+      "sentence": {
+        "sentence_id": "S_ZH_000284",
+        "text": "鱼在水里。",
+        "translation_en": "Fish are in the water.",
+        "linked_word_ids": [
+          "ZH_W0284"
+        ]
+      },
+      "tone_pattern": [
+        2
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 284,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0284"
+    },
+    {
+      "word_id": "ZH_W0285",
+      "word": "远",
+      "pronunciation": "yuǎn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "far",
+      "sentence": {
+        "sentence_id": "S_ZH_000285",
+        "text": "我家离学校很远。",
+        "translation_en": "My home is very far from the school.",
+        "linked_word_ids": [
+          "ZH_W0285"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 285,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0285"
+    },
+    {
+      "word_id": "ZH_W0286",
+      "word": "运动",
+      "pronunciation": "yùndòng",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "sports exercise",
+      "sentence": {
+        "sentence_id": "S_ZH_000286",
+        "text": "我们每天都运动。",
+        "translation_en": "We exercise every day.",
+        "linked_word_ids": [
+          "ZH_W0286"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 286,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0286"
+    },
+    {
+      "word_id": "ZH_W0287",
+      "word": "再",
+      "pronunciation": "zài",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "again",
+      "sentence": {
+        "sentence_id": "S_ZH_000287",
+        "text": "请再说一次。",
+        "translation_en": "Please say it again.",
+        "linked_word_ids": [
+          "ZH_W0287"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 287,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0287"
+    },
+    {
+      "word_id": "ZH_W0288",
+      "word": "早上",
+      "pronunciation": "zǎoshang",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "morning",
+      "sentence": {
+        "sentence_id": "S_ZH_000288",
+        "text": "我早上六点起床。",
+        "translation_en": "I get up at six in the morning.",
+        "linked_word_ids": [
+          "ZH_W0288"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 288,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0288"
+    },
+    {
+      "word_id": "ZH_W0289",
+      "word": "丈夫",
+      "pronunciation": "zhàngfu",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "husband",
+      "sentence": {
+        "sentence_id": "S_ZH_000289",
+        "text": "她丈夫也是医生。",
+        "translation_en": "Her husband is also a doctor.",
+        "linked_word_ids": [
+          "ZH_W0289"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 289,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0289"
+    },
+    {
+      "word_id": "ZH_W0290",
+      "word": "找",
+      "pronunciation": "zhǎo",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "look for",
+      "sentence": {
+        "sentence_id": "S_ZH_000290",
+        "text": "他在找书。",
+        "translation_en": "He is looking for a book.",
+        "linked_word_ids": [
+          "ZH_W0290"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 290,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0290"
+    },
+    {
+      "word_id": "ZH_W0291",
+      "word": "着",
+      "pronunciation": "zhe",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "aspect particle",
+      "sentence": {
+        "sentence_id": "S_ZH_000291",
+        "text": "他看着我。",
+        "translation_en": "He is looking at me.",
+        "linked_word_ids": [
+          "ZH_W0291"
+        ]
+      },
+      "tone_pattern": [],
+      "part_of_speech": "unknown",
+      "frequency_rank": 291,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0291"
+    },
+    {
+      "word_id": "ZH_W0292",
+      "word": "真",
+      "pronunciation": "zhēn",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "really",
+      "sentence": {
+        "sentence_id": "S_ZH_000292",
+        "text": "这个孩子真漂亮。",
+        "translation_en": "This child is really pretty.",
+        "linked_word_ids": [
+          "ZH_W0292"
+        ]
+      },
+      "tone_pattern": [
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 292,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0292"
+    },
+    {
+      "word_id": "ZH_W0293",
+      "word": "正在",
+      "pronunciation": "zhèngzài",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "in progress",
+      "sentence": {
+        "sentence_id": "S_ZH_000293",
+        "text": "他在正在写汉字。",
+        "translation_en": "He is writing Chinese characters right now.",
+        "linked_word_ids": [
+          "ZH_W0293"
+        ]
+      },
+      "tone_pattern": [
+        4,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 293,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0293"
+    },
+    {
+      "word_id": "ZH_W0294",
+      "word": "知道",
+      "pronunciation": "zhīdào",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "know",
+      "sentence": {
+        "sentence_id": "S_ZH_000294",
+        "text": "你知道这件事吗？",
+        "translation_en": "Do you know about this?",
+        "linked_word_ids": [
+          "ZH_W0294"
+        ]
+      },
+      "tone_pattern": [
+        1,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 294,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0294"
+    },
+    {
+      "word_id": "ZH_W0295",
+      "word": "准备",
+      "pronunciation": "zhǔnbèi",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "prepare",
+      "sentence": {
+        "sentence_id": "S_ZH_000295",
+        "text": "我准备去北京。",
+        "translation_en": "I am preparing to go to Beijing.",
+        "linked_word_ids": [
+          "ZH_W0295"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 295,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0295"
+    },
+    {
+      "word_id": "ZH_W0296",
+      "word": "走",
+      "pronunciation": "zǒu",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "walk leave",
+      "sentence": {
+        "sentence_id": "S_ZH_000296",
+        "text": "我们走吧。",
+        "translation_en": "Let's go.",
+        "linked_word_ids": [
+          "ZH_W0296"
+        ]
+      },
+      "tone_pattern": [
+        3
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 296,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0296"
+    },
+    {
+      "word_id": "ZH_W0297",
+      "word": "最",
+      "pronunciation": "zuì",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "most",
+      "sentence": {
+        "sentence_id": "S_ZH_000297",
+        "text": "我最喜欢吃苹果。",
+        "translation_en": "I like eating apples the most.",
+        "linked_word_ids": [
+          "ZH_W0297"
+        ]
+      },
+      "tone_pattern": [
+        4
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 297,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0297"
+    },
+    {
+      "word_id": "ZH_W0298",
+      "word": "左边",
+      "pronunciation": "zuǒbiān",
+      "hsk_level": 2,
+      "cefr_level": "A2",
+      "translation_en": "left side",
+      "sentence": {
+        "sentence_id": "S_ZH_000298",
+        "text": "他在我左边。",
+        "translation_en": "He is on my left.",
+        "linked_word_ids": [
+          "ZH_W0298"
+        ]
+      },
+      "tone_pattern": [
+        3,
+        1
+      ],
+      "part_of_speech": "unknown",
+      "frequency_rank": 298,
+      "image_id": null,
+      "audio_id": "AUD_ZH_W0298"
+    }
+  ],
+  "units": []
+}

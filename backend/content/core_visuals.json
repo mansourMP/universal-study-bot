@@ -1,0 +1,19 @@
+[
+  { "id": "action_eat", "text": "吃", "pinyin": "chī", "meaning": "Eat", "prompt": "A person eating a meal happily, flat vector style" },
+  { "id": "action_drink", "text": "喝", "pinyin": "hē", "meaning": "Drink", "prompt": "A person drinking from a glass, flat vector style" },
+  { "id": "action_read", "text": "看书", "pinyin": "kàn shū", "meaning": "Read book", "prompt": "A person reading a book, flat vector style" },
+  { "id": "action_sleep", "text": "睡觉", "pinyin": "shuì jiào", "meaning": "Sleep", "prompt": "A person sleeping in a bed, flat vector style" },
+  { "id": "action_run", "text": "跑步", "pinyin": "pǎo bù", "meaning": "Run", "prompt": "A person running fast, flat vector style" },
+  { "id": "place_school", "text": "学校", "pinyin": "xué xiào", "meaning": "School", "prompt": "A school building icon, flat vector style" },
+  { "id": "place_hospital", "text": "医院", "pinyin": "yī yuàn", "meaning": "Hospital", "prompt": "A hospital building with a red cross, flat vector style" },
+  { "id": "place_store", "text": "商店", "pinyin": "shāng diàn", "meaning": "Store", "prompt": "A shop front or supermarket, flat vector style" },
+  { "id": "object_plane", "text": "飞机", "pinyin": "fēi jī", "meaning": "Airplane", "prompt": "An airplane flying, flat vector style" },
+  { "id": "object_car", "text": "车", "pinyin": "chē", "meaning": "Car", "prompt": "A simple car, flat vector style" },
+  { "id": "object_apple", "text": "苹果", "pinyin": "píng guǒ", "meaning": "Apple", "prompt": "A red apple, flat vector style" },
+  { "id": "emotion_happy", "text": "高兴", "pinyin": "gāo xìng", "meaning": "Happy", "prompt": "A happy face or person smiling, flat vector style" },
+  { "id": "object_bicycle", "text": "自行车", "pinyin": "zì xíng chē", "meaning": "Bicycle", "prompt": "A modern bicycle, digital painting style" },
+  { "id": "place_park", "text": "公园", "pinyin": "gōng yuán", "meaning": "Park", "prompt": "A beautiful green park with trees and a bench, digital painting style" },
+  { "id": "action_swim", "text": "游泳", "pinyin": "yóu yǒng", "meaning": "Swim", "prompt": "A person swimming in a blue pool, digital painting style" },
+  { "id": "object_computer", "text": "电脑", "pinyin": "diàn nǎo", "meaning": "Computer", "prompt": "A sleek laptop computer on a desk, digital painting style" },
+  { "id": "emotion_angry", "text": "生气", "pinyin": "shēng qì", "meaning": "Angry", "prompt": "An angry expressive face, digital painting style" }
+]

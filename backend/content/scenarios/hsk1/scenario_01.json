@@ -1,0 +1,104 @@
+{
+  "scenario_id": "hsk1_scenario_01",
+  "title": "Bubble Tea Order",
+  "difficulty": "HSK 1",
+  "characters": {
+    "partner": {
+      "id": "char_sarah",
+      "name": "Sarah",
+      "avatar_color": "#FF9500",
+      "voice_id": "zh-CN-XiaoxiaoNeural"
+    },
+    "user": {
+      "id": "user",
+      "name": "You",
+      "avatar_color": "#3B82F6",
+      "voice_id": "zh-CN-YunxiNeural"
+    }
+  },
+  "turns": [
+    {
+      "id": "turn_01",
+      "speaker_id": "char_sarah",
+      "text": "嘿！你想喝什么？",
+      "pinyin": "Hēi! Nǐ xiǎng hē shénme?",
+      "translation": "Hey! What do you want to drink?",
+      "audio_url": "/static/audio/hsk1/scenario_01_t01.mp3",
+      "type": "statement",
+      "next_turn_id": "turn_02"
+    },
+    {
+      "id": "turn_02",
+      "speaker_id": "user",
+      "type": "choice",
+      "options": [
+        {
+          "text": "我要一杯奶茶。",
+          "pinyin": "Wǒ yào yībēi nǎichá.",
+          "translation": "I want a cup of milk tea.",
+          "is_correct": true,
+          "feedback": "Perfect! Standard ordering phrase.",
+          "next_turn_id": "turn_03_good"
+        },
+        {
+          "text": "我喝水。",
+          "pinyin": "Wǒ hē shuǐ.",
+          "translation": "I drink water.",
+          "is_correct": true,
+          "feedback": "Grammatically correct, but a bit boring for a bubble tea shop!",
+          "next_turn_id": "turn_03_boring"
+        },
+        {
+          "text": "你要奶茶。",
+          "pinyin": "Nǐ yào nǎichá.",
+          "translation": "You want milk tea.",
+          "is_correct": false,
+          "feedback": "You said 'You want' instead of 'I want' (Wǒ yào).",
+          "next_turn_id": "turn_02_retry"
+        }
+      ]
+    },
+    {
+      "id": "turn_03_good",
+      "speaker_id": "char_sarah",
+      "text": "好的！我也要一杯。热的还是冷的？",
+      "pinyin": "Hǎo de! Wǒ yě yào yībēi. Rè de háishì lěng de?",
+      "translation": "Okay! I want one too. Hot or cold?",
+      "audio_url": "/static/audio/hsk1/scenario_01_t03_good.mp3",
+      "type": "statement",
+      "next_turn_id": "turn_04"
+    },
+    {
+      "id": "turn_03_boring",
+      "speaker_id": "char_sarah",
+      "text": "啊？来奶茶店喝水？好吧……",
+      "pinyin": "Á? Lái nǎichá diàn hē shuǐ? Hǎo ba...",
+      "translation": "Huh? Come to a milk tea shop to drink water? Alright...",
+      "audio_url": "/static/audio/hsk1/scenario_01_t03_boring.mp3",
+      "type": "statement",
+      "next_turn_id": "end"
+    },
+    {
+      "id": "turn_04",
+      "speaker_id": "user",
+      "type": "choice",
+      "options": [
+        {
+          "text": "我要冷的。",
+          "pinyin": "Wǒ yào lěng de.",
+          "translation": "I want cold.",
+          "is_correct": true,
+          "next_turn_id": "end"
+        },
+        {
+          "text": "我是热的。",
+          "pinyin": "Wǒ shì rè de.",
+          "translation": "I am hot.",
+          "is_correct": false,
+          "feedback": "You said 'I am hot' (temperature). Use 'I want' (Wǒ yào).",
+          "next_turn_id": "turn_04_retry"
+        }
+      ]
+    }
+  ]
+}

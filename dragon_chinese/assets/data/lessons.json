@@ -1,0 +1,132 @@
+
+{
+  "metadata": {
+    "type": "lesson",
+    "version": "1.0"
+  },
+  "lessons": [
+    {
+      "lesson_id": "L_ZH_VU_SURVIVAL_001",
+      "vocab_unit_id": "VU_SURVIVAL_001",
+      "mode": "input",
+      "skill_primary": "vocabulary",
+      "skills_secondary": [
+        "listening",
+        "speaking"
+      ],
+      "estimated_time_minutes": 10,
+      "cultural": {
+        "guide_character": "CHAR_HUAHUA",
+        "supporting_character": "CHAR_AFU",
+        "setting": "Street / Hospital",
+        "story_context": "You are in an emergency situation and need help.",
+        "language_objective": "Learn critical survival words for medical and communication needs.",
+        "cultural_objective": "Understand emergency numbers (120) and clear communication.",
+        "cultural_notes": [
+          {
+            "type": "小知识",
+            "trigger": "after_word_ZH_W0131",
+            "content_zh": "在中国，救护车电话是120。",
+            "content_en": "In China, the ambulance number is 120."
+          }
+        ]
+      },
+      "exercise_sequence": [
+        {
+          "exercise_id": "EX_SURVIVAL_001",
+          "type": "flashcard_recognition",
+          "instruction_zh": "认识这些紧急词汇",
+          "instruction_en": "Learn these emergency words",
+          "word_ids": [
+            "ZH_W0131",
+            "ZH_W0130",
+            "ZH_W0096",
+            "ZH_W0151",
+            "ZH_W0013"
+          ],
+          "character_intro": {
+            "character": "CHAR_HUAHUA",
+            "dialogue_zh": "这些词能救命！一定要记住。",
+            "dialogue_pinyin": "Zhèxiē cí néng jiùmìng! Yídìng yào jìzhù.",
+            "dialogue_en": "These words can save lives! You must remember them."
+          }
+        },
+        {
+          "exercise_id": "EX_SURVIVAL_002",
+          "type": "audio_recognition",
+          "instruction_zh": "听音频，选择正确的词",
+          "instruction_en": "Listen and select the correct word",
+          "items": [
+            {
+              "audio_id": "AUD_ZH_W0131",
+              "correct": "ZH_W0131",
+              "distractors": [
+                "ZH_W0130",
+                "ZH_W0096"
+              ]
+            },
+            {
+              "audio_id": "AUD_ZH_W0151",
+              "correct": "ZH_W0151",
+              "distractors": [
+                "ZH_W0013",
+                "ZH_W0131"
+              ]
+            }
+          ]
+        },
+        {
+          "exercise_id": "EX_SURVIVAL_003",
+          "type": "sentence_listening",
+          "instruction_zh": "听句子，跟读",
+          "instruction_en": "Listen to the sentence and repeat",
+          "sentence_ids": [
+            "S_ZH_SURVIVAL_001",
+            "S_ZH_SURVIVAL_004"
+          ],
+          "character_encouragement": {
+            "character": "CHAR_AFU",
+            "dialogue_zh": "大声说出来！",
+            "dialogue_en": "Say it loud!"
+          }
+        },
+        {
+          "exercise_id": "EX_SURVIVAL_004",
+          "type": "multiple_choice_meaning",
+          "instruction_zh": "选择正确的意思",
+          "instruction_en": "Select the correct meaning",
+          "items": [
+            {
+              "word_id": "ZH_W0131",
+              "correct_translation": "hospital",
+              "distractors": [
+                "doctor",
+                "school",
+                "home"
+              ]
+            },
+            {
+              "word_id": "ZH_W0151",
+              "correct_translation": "help",
+              "distractors": [
+                "eat",
+                "drink",
+                "sleep"
+              ]
+            }
+          ]
+        }
+      ],
+      "rewards": {
+        "virtues_earned": {
+          "勇": 10,
+          "智": 5
+        },
+        "achievements": [
+          "survival_basics"
+        ],
+        "unlock": "SEAL_SURVIVOR_001"
+      }
+    }
+  ]
+}

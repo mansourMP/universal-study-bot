@@ -1,0 +1,211 @@
+word_public_id,word_id,word,meaning_en,status,existing_size_bytes
+HSK1-W-0001,W00001,爱,love,placeholder_or_tiny,46
+HSK1-W-0002,W00002,八,eight,placeholder_or_tiny,46
+HSK1-W-0005,W00005,北京,Beijing,placeholder_or_tiny,46
+HSK1-W-0006,W00006,本,measure word for books,placeholder_or_tiny,46
+HSK1-W-0007,W00007,不,not,placeholder_or_tiny,46
+HSK1-W-0008,W00008,不客气,You're welcome,placeholder_or_tiny,46
+HSK1-W-0012,W00013,打电话,make a phone call,missing,0
+HSK1-W-0014,W00015,的,possessive particle,placeholder_or_tiny,46
+HSK1-W-0019,W00020,东西,thing,placeholder_or_tiny,46
+HSK1-W-0020,W00021,都,all,placeholder_or_tiny,46
+HSK1-W-0021,W00022,读,to read,placeholder_or_tiny,46
+HSK1-W-0024,W00025,多少,how much,placeholder_or_tiny,46
+HSK1-W-0026,W00027,二,two,placeholder_or_tiny,46
+HSK1-W-0030,W00032,个,a general measure word,placeholder_or_tiny,46
+HSK1-W-0031,W00033,工作,work,placeholder_or_tiny,46
+HSK1-W-0036,W00039,和,"and, together with",placeholder_or_tiny,46
+HSK1-W-0037,W00040,很,very,placeholder_or_tiny,46
+HSK1-W-0038,W00042,回,to return,placeholder_or_tiny,46
+HSK1-W-0039,W00043,会,can,placeholder_or_tiny,46
+HSK1-W-0040,W00044,几,how many,placeholder_or_tiny,46
+HSK1-W-0041,W00045,家,home,placeholder_or_tiny,46
+HSK1-W-0042,W00046,叫,to call,placeholder_or_tiny,46
+HSK1-W-0043,W00047,今天,today,placeholder_or_tiny,46
+HSK1-W-0044,W00048,九,nine,placeholder_or_tiny,46
+HSK1-W-0046,W00050,看,to look,placeholder_or_tiny,46
+HSK1-W-0049,W00053,来,to come,placeholder_or_tiny,46
+HSK1-W-0051,W00055,了,completed action marker,placeholder_or_tiny,46
+HSK1-W-0054,W00058,买,to buy,placeholder_or_tiny,46
+HSK1-W-0056,W00060,吗,question particle,placeholder_or_tiny,46
+HSK1-W-0057,W00062,没,not,placeholder_or_tiny,46
+HSK1-W-0058,W00063,没关系,it's okay,placeholder_or_tiny,46
+HSK1-W-0060,W00065,明天,tomorrow,placeholder_or_tiny,46
+HSK1-W-0061,W00066,名字,name,placeholder_or_tiny,46
+HSK1-W-0062,W00067,哪,which,placeholder_or_tiny,46
+HSK1-W-0063,W00068,那,that,placeholder_or_tiny,46
+HSK1-W-0064,W00069,呢,question particle,placeholder_or_tiny,46
+HSK1-W-0065,W00070,能,can,placeholder_or_tiny,46
+HSK1-W-0066,W00071,你,you,placeholder_or_tiny,46
+HSK1-W-0067,W00072,年,year,placeholder_or_tiny,46
+HSK1-W-0070,W00077,七,seven,placeholder_or_tiny,46
+HSK1-W-0072,W00079,前,front,placeholder_or_tiny,46
+HSK1-W-0073,W00080,请,please,placeholder_or_tiny,46
+HSK1-W-0074,W00081,去,to go,placeholder_or_tiny,46
+HSK1-W-0076,W00083,人,person,placeholder_or_tiny,46
+HSK1-W-0077,W00084,认识,to know,placeholder_or_tiny,46
+HSK1-W-0078,W00085,三,three,placeholder_or_tiny,46
+HSK1-W-0080,W00087,上,up,placeholder_or_tiny,46
+HSK1-W-0081,W00088,上午,morning,placeholder_or_tiny,46
+HSK1-W-0082,W00089,少,few or little,placeholder_or_tiny,46
+HSK1-W-0083,W00090,谁,who,placeholder_or_tiny,46
+HSK1-W-0084,W00091,什么,what,placeholder_or_tiny,46
+HSK1-W-0085,W00092,十,ten,placeholder_or_tiny,46
+HSK1-W-0086,W00093,时候,time,placeholder_or_tiny,46
+HSK1-W-0087,W00094,是,to be,placeholder_or_tiny,46
+HSK1-W-0093,W00100,四,four,placeholder_or_tiny,46
+HSK1-W-0094,W00101,岁,years old,placeholder_or_tiny,46
+HSK1-W-0095,W00102,他,he,placeholder_or_tiny,46
+HSK1-W-0096,W00103,她,she,placeholder_or_tiny,46
+HSK1-W-0097,W00104,太,too,placeholder_or_tiny,46
+HSK1-W-0099,W00106,听,to listen,placeholder_or_tiny,46
+HSK1-W-0101,W00109,我,I,placeholder_or_tiny,46
+HSK1-W-0102,W00110,我们,we,placeholder_or_tiny,46
+HSK1-W-0103,W00111,五,five,placeholder_or_tiny,46
+HSK1-W-0104,W00112,喜欢,to like,placeholder_or_tiny,46
+HSK1-W-0105,W00113,下,down,placeholder_or_tiny,46
+HSK1-W-0106,W00114,下午,afternoon,placeholder_or_tiny,46
+HSK1-W-0108,W00116,先生,Mr,placeholder_or_tiny,46
+HSK1-W-0109,W00117,现在,now,placeholder_or_tiny,46
+HSK1-W-0110,W00118,想,to think,placeholder_or_tiny,46
+HSK1-W-0112,W00120,小姐,miss,placeholder_or_tiny,46
+HSK1-W-0114,W00123,谢谢,thank you,placeholder_or_tiny,46
+HSK1-W-0116,W00125,学生,student,placeholder_or_tiny,46
+HSK1-W-0119,W00128,一,one,placeholder_or_tiny,46
+HSK1-W-0123,W00133,有,to have,placeholder_or_tiny,46
+HSK1-W-0124,W00134,月,month,placeholder_or_tiny,46
+HSK1-W-0125,W00135,再见,goodbye,placeholder_or_tiny,46
+HSK1-W-0126,W00136,在,"at, in, on",placeholder_or_tiny,46
+HSK1-W-0128,W00139,这,this,placeholder_or_tiny,46
+HSK1-W-0130,W00141,中午,noon,placeholder_or_tiny,46
+HSK1-W-0131,W00142,住,to live,placeholder_or_tiny,46
+HSK1-W-0133,W00144,字,character,placeholder_or_tiny,46
+HSK1-W-0134,W00145,昨天,yesterday,placeholder_or_tiny,46
+HSK1-W-0135,W00146,坐,to sit,placeholder_or_tiny,46
+HSK1-W-0137,W00148,吧,a particle indicating suggestion or request,placeholder_or_tiny,46
+HSK1-W-0139,W00150,百,hundred,placeholder_or_tiny,46
+HSK1-W-0140,W00153,比,to compare,placeholder_or_tiny,46
+HSK1-W-0141,W00154,别,do not,placeholder_or_tiny,46
+HSK1-W-0144,W00159,穿,to wear,placeholder_or_tiny,46
+HSK1-W-0145,W00160,次,time (occurrence),placeholder_or_tiny,46
+HSK1-W-0146,W00161,从,from,placeholder_or_tiny,46
+HSK1-W-0151,W00171,对,correct,placeholder_or_tiny,46
+HSK1-W-0152,W00172,房间,room,placeholder_or_tiny,46
+HSK1-W-0153,W00173,非常,very,placeholder_or_tiny,46
+HSK1-W-0155,W00176,告诉,to tell,placeholder_or_tiny,46
+HSK1-W-0159,W00182,过,to pass,placeholder_or_tiny,46
+HSK1-W-0160,W00183,还,still,placeholder_or_tiny,46
+HSK1-W-0162,W00185,好吃,delicious,placeholder_or_tiny,46
+HSK1-W-0163,W00189,机场,airport,placeholder_or_tiny,46
+HSK1-W-0168,W00197,就,just,placeholder_or_tiny,46
+HSK1-W-0169,W00198,觉得,to feel,placeholder_or_tiny,46
+HSK1-W-0170,W00201,考试,exam,placeholder_or_tiny,46
+HSK1-W-0173,W00207,累,tired,placeholder_or_tiny,46
+HSK1-W-0174,W00209,两,two,placeholder_or_tiny,46
+HSK1-W-0175,W00210,零,zero,placeholder_or_tiny,46
+HSK1-W-0176,W00211,路,road,placeholder_or_tiny,46
+HSK1-W-0178,W00215,忙,busy,placeholder_or_tiny,46
+HSK1-W-0182,W00221,您,you (polite form),placeholder_or_tiny,46
+HSK1-W-0185,W00224,旁边,beside,placeholder_or_tiny,46
+HSK1-W-0188,W00233,去年,last year,placeholder_or_tiny,46
+HSK1-W-0189,W00235,日,day; date,placeholder_or_tiny,46
+HSK1-W-0192,W00238,生病,to be ill,placeholder_or_tiny,46
+HSK1-W-0194,W00240,时间,time,placeholder_or_tiny,46
+HSK1-W-0199,W00258,问,to ask,placeholder_or_tiny,46
+HSK1-W-0201,W00263,小时,hour,placeholder_or_tiny,46
+HSK1-W-0202,W00264,笑,to laugh,placeholder_or_tiny,46
+HSK1-W-0203,W00265,新,new,placeholder_or_tiny,46
+HSK1-W-0204,W00267,休息,rest,placeholder_or_tiny,46
+HSK1-W-0205,W00273,要,to want,placeholder_or_tiny,46
+HSK1-W-0206,W00274,也,also,placeholder_or_tiny,46
+HSK1-W-0207,W00275,一起,together,placeholder_or_tiny,46
+HSK1-W-0208,W00283,右边,right side,placeholder_or_tiny,46
+HSK1-W-0211,W00288,早上,morning,placeholder_or_tiny,46
+HSK1-W-0212,W00290,找,to look for,placeholder_or_tiny,46
+HSK1-W-0213,W00291,着,indicates ongoing action,placeholder_or_tiny,46
+HSK1-W-0214,W00292,真,true,placeholder_or_tiny,46
+HSK1-W-0215,W00293,正在,in the process of,placeholder_or_tiny,46
+HSK1-W-0216,W00294,知道,to know,placeholder_or_tiny,46
+HSK1-W-0217,W00295,准备,prepare,placeholder_or_tiny,46
+HSK1-W-0218,W00296,走,to walk,placeholder_or_tiny,46
+HSK1-W-0219,W00297,最,most,placeholder_or_tiny,46
+HSK1-W-0220,W00298,左边,left side,placeholder_or_tiny,46
+HSK1-W-0221,W00302,爱好,hobby,placeholder_or_tiny,46
+HSK1-W-0225,W00311,包,to wrap or contain,placeholder_or_tiny,46
+HSK1-W-0226,W00321,别人,other people,placeholder_or_tiny,46
+HSK1-W-0228,W00346,地,structural particle (before adverbial),missing,0
+HSK1-W-0229,W00348,地方,place,placeholder_or_tiny,46
+HSK1-W-0232,W00360,饿,hungry,placeholder_or_tiny,46
+HSK1-W-0237,W00383,关,to close,placeholder_or_tiny,46
+HSK1-W-0241,W00398,坏,bad,placeholder_or_tiny,46
+HSK1-W-0242,W00400,还,to return,placeholder_or_tiny,46
+HSK1-W-0243,W00404,回答,answer,placeholder_or_tiny,46
+HSK1-W-0246,W00417,教,to teach,placeholder_or_tiny,46
+HSK1-W-0247,W00436,渴,thirsty,placeholder_or_tiny,46
+HSK1-W-0248,W00440,口,mouth,placeholder_or_tiny,46
+HSK1-W-0249,W00445,老,old,placeholder_or_tiny,46
+HSK1-W-0251,W00459,马上,immediately,placeholder_or_tiny,46
+HSK1-W-0254,W00465,拿,to take,placeholder_or_tiny,46
+HSK1-W-0258,W00485,起来,to rise up,placeholder_or_tiny,46
+HSK1-W-0259,W00487,请假,request for leave,placeholder_or_tiny,46
+HSK1-W-0260,W00493,认真,serious,placeholder_or_tiny,46
+HSK1-W-0261,W00497,上网,go online,placeholder_or_tiny,46
+HSK1-W-0263,W00501,试,to try or test,placeholder_or_tiny,46
+HSK1-W-0268,W00534,洗手间,restroom,placeholder_or_tiny,46
+HSK1-W-0269,W00537,先,first,missing,0
+HSK1-W-0271,W00554,一边,one side,missing,0
+HSK1-W-0272,W00557,一会儿,a little while,missing,0
+HSK1-W-0274,W00566,用,to use,placeholder_or_tiny,46
+HSK1-W-0276,W00571,元,yuan,placeholder_or_tiny,46
+HSK1-W-0277,W00575,站,to stand,placeholder_or_tiny,46
+HSK1-W-0280,W00590,重要,important,placeholder_or_tiny,46
+HSK1-W-0288,W01083,行,to walk or move,placeholder_or_tiny,46
+HSK1-W-0289,W01110,页,page,placeholder_or_tiny,46
+HSK1-W-0291,W01175,重,heavy,placeholder_or_tiny,46
+HSK1-W-0292,W01193,最好,best,missing,0
+HSK1-W-0295,W02408,正,correct,placeholder_or_tiny,46
+HSK1-W-0296,W117444,没有,not have,missing,0
+HSK1-W-0299,W117447,半年,half a year,missing,0
+HSK1-W-0300,W117448,半天,half a day,missing,0
+HSK1-W-0313,W117461,常常,often,placeholder_or_tiny,46
+HSK1-W-0319,W117467,吃饭,having a meal,missing,0
+HSK1-W-0323,W117471,打,to hit or strike,missing,0
+HSK1-W-0330,W117478,地上,on the ground,missing,0
+HSK1-W-0331,W117480,第,ordinal prefix,missing,0
+HSK1-W-0336,W117486,东边,east side,missing,0
+HSK1-W-0349,W117501,还有,there is also,missing,0
+HSK1-W-0354,W117506,后,behind,placeholder_or_tiny,46
+HSK1-W-0356,W117508,后天,the day after tomorrow,missing,0
+HSK1-W-0357,W117509,话,speech,placeholder_or_tiny,46
+HSK1-W-0358,W117510,回到,return to,placeholder_or_tiny,46
+HSK1-W-0361,W117513,回去,go back,missing,0
+HSK1-W-0371,W117524,今年,this year,missing,0
+HSK1-W-0377,W117530,看到,to see,placeholder_or_tiny,46
+HSK1-W-0378,W117531,考,exam,placeholder_or_tiny,46
+HSK1-W-0380,W117533,课文,text of a lesson,missing,0
+HSK1-W-0381,W117534,来到,to arrive,placeholder_or_tiny,46
+HSK1-W-0387,W117541,路口,intersection,placeholder_or_tiny,46
+HSK1-W-0394,W117550,们,plural marker for pronouns,missing,0
+HSK1-W-0396,W117553,明年,next year,missing,0
+HSK1-W-0397,W117554,哪里,where,missing,0
+HSK1-W-0398,W117555,哪儿,where,missing,0
+HSK1-W-0399,W117556,哪些,which ones,missing,0
+HSK1-W-0403,W117560,那些,those,missing,0
+HSK1-W-0406,W117563,男朋友,boyfriend,missing,0
+HSK1-W-0409,W117566,南边,south side,missing,0
+HSK1-W-0410,W117567,你们,you (plural),missing,0
+HSK1-W-0412,W117569,女朋友,girlfriend,missing,0
+HSK1-W-0415,W117572,跑,to run,missing,0
+HSK1-W-0416,W117573,起,to rise,placeholder_or_tiny,46
+HSK1-W-0419,W117576,前天,the day before yesterday,missing,0
+HSK1-W-0434,W117591,事,matter or affair,missing,0
+HSK1-W-0435,W117592,是不是,is it or not,missing,0
+HSK1-W-0440,W117597,说,to speak,placeholder_or_tiny,46
+HSK1-W-0473,W117630,一块儿,together,placeholder_or_tiny,46
+HSK1-W-0478,W117635,有时候,sometimes,placeholder_or_tiny,46
+HSK1-W-0491,W117650,真的,really,missing,0
+HSK1-W-0493,W117652,中学,middle school,missing,0
+HSK1-W-0494,W117653,中学生,middle school student,missing,0
+HSK1-W-0497,W117656,左,left,missing,0
+HSK1-W-0498,W117657,坐下,sit down,missing,0
+HSK1-W-0500,W123948,马路,road,placeholder_or_tiny,46

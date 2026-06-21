@@ -1,0 +1,64 @@
+🛑 No active pipeline found. Starting NEW pipeline...
+📊 Monitoring (Press Ctrl+C to stop monitor, pipeline keeps running)...
+
+
+
+
+
+
+
+
+[6A⏳ Elapsed: 0s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 1s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 2s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 3s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 5s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 6s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 7s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 8s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    
+[6A⏳ Elapsed: 9s          
+🤖 Status:  🟢 Active          
+🚀 SPEED:   [░░░░░░░░░░░░░░░░░░░░] 0/6500 items (0.0%)   
+            (This number should move fast!)
+📦 Files:   [░░░░░░░░░░░░░░░░░░░░] 0/50 shards saved   
+                                    

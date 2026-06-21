@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "level": 1,
+  "skill": "speaking",
+  "items": [
+    {
+      "prompt": "你每天做什么？",
+      "description": { "en": "Talk about your daily routine (morning, work, evening)." },
+      "sample_response": "我早上七点起床。我吃早饭。我去工作。晚上我看书。"
+    },
+    {
+      "prompt": "你在哪里工作？",
+      "description": { "en": "Say where you work or study." },
+      "sample_response": "我在学校学习。我是学生。"
+    },
+    {
+      "prompt": "你喜欢什么颜色的苹果？",
+      "description": { "en": "Talk about colors and fruit." },
+      "sample_response": "我喜欢红色的苹果。很好吃。"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "manifest_version": "2.0",
+  "schema_version": "1.1",
+  "last_updated": "2026-01-14T12:00:00.000Z",
+  "min_app_version": "1.0.0",
+  "courses": [
+    {
+      "id": "course_chinese",
+      "title": "Chinese (Mandarin)",
+      "description": "Master HSK 1-6 with our standard curriculum.",
+      "icon_url": "assets/icons/zh_flag.png",
+      "category": "language",
+      "levels": ["zh_hsk1", "zh_hsk2", "zh_hsk3", "zh_hsk4", "zh_hsk5", "zh_hsk6"]
+    },
+    {
+      "id": "course_english",
+      "title": "English",
+      "description": "Professional English for global communication.",
+      "icon_url": "assets/icons/en_flag.png",
+      "category": "language",
+      "levels": ["en_level1", "en_level2"]
+    },
+    {
+      "id": "course_spanish",
+      "title": "Spanish",
+      "description": "Learn the world's second most spoken language.",
+      "icon_url": "assets/icons/es_flag.png",
+      "category": "language",
+      "levels": ["es_level1"]
+    },
+    {
+      "id": "course_french",
+      "title": "French",
+      "description": "The language of culture and diplomacy.",
+      "icon_url": "assets/icons/fr_flag.png",
+      "category": "language",
+      "levels": ["fr_level1"]
+    },
+    {
+      "id": "course_arabic",
+      "title": "Arabic",
+      "description": "Master Modern Standard Arabic.",
+      "icon_url": "assets/icons/ar_flag.png",
+      "category": "language",
+      "levels": ["ar_level1"]
+    },
+    {
+      "id": "course_portuguese",
+      "title": "Portuguese",
+      "description": "Perfect for business and travel in Brazil and Portugal.",
+      "icon_url": "assets/icons/pt_flag.png",
+      "category": "language",
+      "levels": ["pt_level1"]
+    },
+    {
+      "id": "course_russian",
+      "title": "Russian",
+      "description": "In-depth learning of Russian grammar and vocabulary.",
+      "icon_url": "assets/icons/ru_flag.png",
+      "category": "language",
+      "levels": ["ru_level1"]
+    },
+    {
+      "id": "course_calc1",
+      "title": "Calculus",
+      "description": "Core limits, derivatives, and integrals.",
+      "icon_url": "assets/icons/math.png",
+      "category": "academic",
+      "levels": ["calc1"]
+    },
+    {
+      "id": "course_coding_mvp_v1",
+      "title": "Code Foundations",
+      "description": "Learn by building in an in-app editor.",
+      "icon_url": "assets/icons/coding.png",
+      "category": "developer",
+      "levels": ["coding_mvp_v1"]
+    }
+  ],
+  "packs": {}
+}

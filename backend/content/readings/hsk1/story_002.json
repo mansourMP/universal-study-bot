@@ -1,0 +1,69 @@
+{
+  "title": "不去商店",
+  "sentences": [
+    {
+      "text": "我不去商店。",
+      "reading": "Wǒ bù qù shāngdiàn.",
+      "meaning": {
+        "en": "I do not go to the shop."
+      }
+    },
+    {
+      "text": "请你回家。",
+      "reading": "Qǐng nǐ huí jiā.",
+      "meaning": {
+        "en": "Please return home."
+      }
+    },
+    {
+      "text": "我在下边。",
+      "reading": "Wǒ zài xià biān.",
+      "meaning": {
+        "en": "I am below."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "text": "我去商店吗？",
+      "options": [
+        {
+          "text": "不去",
+          "is_correct": true
+        },
+        {
+          "text": "去",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "text": "我在上边吗？",
+      "options": [
+        {
+          "text": "不在",
+          "is_correct": true
+        },
+        {
+          "text": "在",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "id": "zh_hsk1_story_002",
+  "level": 1,
+  "tags": [
+    "hsk1",
+    "micro-story",
+    "reading"
+  ],
+  "vocab_used": [
+    "不",
+    "回",
+    "下",
+    "商店",
+    "个",
+    "请"
+  ]
+}

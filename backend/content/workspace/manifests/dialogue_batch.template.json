@@ -1,0 +1,28 @@
+{
+  "batch_id": "dlg_YYYYMMDD_HHMM",
+  "batch_type": "dialogues",
+  "created_at": "2026-02-11T00:00:00Z",
+  "provider": "openai|deepseek|other",
+  "model": "model-name",
+  "source_shards": "docs/dialogue_shards",
+  "output_dir": "docs/dialogue_results",
+  "turns_per_dialogue": 4,
+  "dialogues_per_word": 2,
+  "domains": [
+    "casual",
+    "business",
+    "exam",
+    "tech",
+    "social"
+  ],
+  "sense_policy": "primary_only_or_explicit_sense",
+  "quality_gates": [
+    "non_empty_fields",
+    "speaker_turn_integrity",
+    "domain_coverage",
+    "sense_lock",
+    "register_consistency"
+  ],
+  "status": "draft",
+  "notes": ""
+}

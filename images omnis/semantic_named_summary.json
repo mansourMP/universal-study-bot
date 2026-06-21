@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "naming_csv": "/Users/mansur/universal_study_bot org/hsk1_universal_images_semantic_naming_v1_2026-02-15.csv",
+  "source_dirs": [
+    "/Users/mansur/universal_study_bot org/backend/static/images",
+    "/Users/mansur/universal_study_bot org/assets/images"
+  ],
+  "out_dir": "/Users/mansur/universal_study_bot org/images omnis/semantic_named",
+  "status_csv": "/Users/mansur/universal_study_bot org/images omnis/semantic_named_status.csv",
+  "total_rows": 518,
+  "linked_symlinks": 12,
+  "already_semantic": 0,
+  "mapped_from_current": 0,
+  "mapped_from_legacy": 12,
+  "missing": 506,
+  "note": "Original files were not renamed. This is a semantic-name symlink view."
+}
